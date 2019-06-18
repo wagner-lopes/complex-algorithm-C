@@ -1,0 +1,8143 @@
+
+	Quantidade de termos: 	4069
+	Custo da arvore: 	688840
+	Altura da arvore: 	12
+
+	
+ 		8 11
+	 
+ 		1 12
+	  composicao do solo
+ 		1 10
+	 abril 2002
+ 		1 12
+	 gozadas 
+ 		2 11
+	 o rosario papa
+ 		2 12
+	 sabrina
+ 		1 9
+	 vicente   pires  
+ 		1 12
+	(arquivo a tribuna letra de medico)
+ 		1 11
+	*
+ 		7 12
+	*=11
+ 		4 10
+	, sexy
+ 		5 12
+	11 setembro
+ 		1 11
+	12 codigo penal
+ 		4 12
+	130
+ 		1 8
+	13th
+ 		2 12
+	19.10.03
+ 		11 11
+	19/10/2003
+ 		1 12
+	2000 city dicas
+ 		2 10
+	2002 elifoot
+ 		1 12
+	2003 calendario
+ 		1 11
+	2003 horario verao
+ 		2 12
+	2003 icq
+ 		1 9
+	2003 ipva
+ 		1 12
+	2003 vestibular
+ 		1 11
+	25
+ 		13 12
+	27/09/2003 dia do idoso 
+ 		8 10
+	2fast2furious
+ 		14 12
+	3 m 
+ 		1 11
+	3 m do brasil
+ 		1 12
+	3d duke nuken
+ 		1 7
+	3p de servicos
+ 		1 12
+	3p s
+ 		1 11
+	43126
+ 		7 12
+	50 aprilia rs
+ 		1 10
+	6 explorer internet
+ 		2 12
+	6.0 explorer internet
+ 		7 11
+	8666 lei
+ 		1 12
+	9648 lei
+ 		1 9
+	Altigran
+ 		11 12
+	Altigran100
+ 		42 11
+	Apparel, Clothing 
+ 		3 12
+	Download do jogo Sonic para Znes 900
+ 		1 10
+	Expresso Dalva
+ 		1 12
+	Fabric 
+ 		132 11
+	MP3
+ 		9 12
+	Product Denim 
+ 		2 8
+	TDR
+ 		20 12
+	TIFTON 9
+ 		1 11
+	a bonequinha preta
+ 		1 12
+	a casa do girassol vermelho
+ 		1 10
+	a cidade de goiania
+ 		2 12
+	a economia da mamona no brasil
+ 		4 11
+	a fome no continente asiatico
+ 		1 12
+	a historia do fax
+ 		4 9
+	a humildade e o orgulho
+ 		2 12
+	a importancia da aula pratica para o ensino de quimica
+ 		1 11
+	a importancia do solo em nossa vida
+ 		1 12
+	a industria da seca
+ 		6 10
+	a natureza do homem
+ 		8 12
+	a nova sudene
+ 		1 11
+	a razao grega
+ 		1 12
+	a rua e minha casa
+ 		1 6
+	a saudade e uma estrada longa
+ 		1 12
+	a vida como ela e
+ 		2 11
+	a vida de barao de maua
+ 		1 12
+	a vinda dos imigrantes europeus
+ 		3 10
+	a. s. neill
+ 		1 12
+	aaaaa
+ 		5 11
+	abase
+ 		100 12
+	abc
+ 		1 9
+	abdominal
+ 		3 12
+	abelha
+ 		45 11
+	aberracoes cromossomicas
+ 		2 12
+	abin
+ 		23 10
+	abismo.exe
+ 		3 12
+	abnt
+ 		46 11
+	abracave
+ 		23 12
+	acacia
+ 		24 8
+	academia
+ 		1 12
+	academia de jiujitsu do rio de janeiro
+ 		1 11
+	acao civil publica
+ 		1 12
+	acao de revisao de iptu
+ 		12 10
+	acao de revisao de iptu em sao sebastiao
+ 		5 12
+	acao motriz 
+ 		1 11
+	acao penal nos crimes contra os costumes
+ 		12 12
+	acao personalissima
+ 		1 9
+	acaraje
+ 		1 12
+	acdc
+ 		18 11
+	acesso controle usuarios sistema
+ 		3 12
+	acessorios em latao
+ 		1 10
+	acessorios em latao para prateleiras
+ 		2 12
+	acessorios para autos
+ 		4 11
+	acidente chernobyl
+ 		6 12
+	acidente cidade ocidental
+ 		1 7
+	acidente com a ferrovia centro atlantica
+ 		2 12
+	acidente comunicacao trabalho
+ 		1 11
+	acidente de chernobil
+ 		4 12
+	acidente de transito
+ 		1 10
+	acidente nuclear
+ 		7 12
+	acidentes
+ 		13 11
+	acidentes com as maos
+ 		1 12
+	acidentes fotos
+ 		1 9
+	acidentes fotos mortos
+ 		1 12
+	acidophilus
+ 		20 11
+	acidos e bases
+ 		7 12
+	acidose metabolica
+ 		1 10
+	acoes judiciais sobre 35,28
+ 		1 12
+	acog
+ 		24 11
+	acominas costa 1991
+ 		3 12
+	acompanhantes
+ 		228 8
+	acompanhantes bh
+ 		2 12
+	acompanhantes brasilia
+ 		1 11
+	acompanhantes em florianopolis sc
+ 		8 12
+	acompanhantes floripa
+ 		2 10
+	acompanhantes sao paulo
+ 		3 12
+	acompanhantes sul de minas
+ 		2 11
+	acordao
+ 		8 12
+	acordao laudas
+ 		2 9
+	acordao tres laudas
+ 		2 12
+	acordaos
+ 		15 11
+	acordaos laudas
+ 		3 12
+	acordes
+ 		181 10
+	acrobat
+ 		2 12
+	acrobat 
+ 		1 11
+	adbeel
+ 		17 12
+	administrativo direito
+ 		2 5
+	admissao, permissao, autorizacao
+ 		1 11
+	adobe download  acrobat
+ 		5 12
+	adocao de caes
+ 		4 10
+	adocao de caes em bh
+ 		2 12
+	adolescentes s
+ 		1 11
+	adubos e fertilizantes
+ 		13 12
+	advocacia
+ 		20 9
+	advogado
+ 		30 12
+	aerea companhia gol
+ 		1 11
+	aereas companhias
+ 		3 12
+	aereas gol linhas
+ 		5 10
+	aereas passagens
+ 		4 12
+	aeroporto regional da zona da mata
+ 		2 11
+	afonso ribeiro - descobrimento do brasil
+ 		2 12
+	afpesp
+ 		30 8
+	afpesp 
+ 		1 12
+	afpesp ferias
+ 		1 11
+	afpesp turismo
+ 		1 12
+	africa divisao regional
+ 		3 10
+	africa meridional
+ 		2 12
+	africa setentrional
+ 		3 11
+	agencia brasileira inteligencia
+ 		1 12
+	agencia de casamento
+ 		1 9
+	agencia de fomento
+ 		1 12
+	agencia de viagem
+ 		2 11
+	agencia turismo
+ 		1 12
+	agencias de matrimonio
+ 		2 10
+	agencias namoro
+ 		1 12
+	agenda do padre marcelo rossi
+ 		4 11
+	agenda download
+ 		4 12
+	agenda latinoamericana
+ 		1 7
+	agentes de transito
+ 		2 12
+	agnelli
+ 		8 11
+	agravo de instrumento
+ 		1 12
+	agua
+ 		18 10
+	agua na natureza
+ 		2 12
+	aguia
+ 		2 11
+	aids
+ 		2 12
+	ajuda organizar financeiro
+ 		2 9
+	ajude barbie barbie escolher ira roupas vestir
+ 		1 12
+	al calendario
+ 		1 11
+	al complices rescate
+ 		11 12
+	aladi
+ 		47 10
+	alambique
+ 		15 12
+	alan
+ 		15 11
+	alarmes
+ 		2 12
+	album sexual
+ 		1 8
+	albumina espinha
+ 		1 12
+	alcoolismo na empresa
+ 		1 11
+	aldomon
+ 		25 12
+	alexandre de gusmao
+ 		3 10
+	alexandre de gusmao centro-sul ipiranga
+ 		3 12
+	alexandre frota
+ 		1 11
+	alexandre pires
+ 		2 12
+	alfabeto chines
+ 		1 9
+	alfabeto japones
+ 		2 12
+	algas
+ 		23 11
+	algebra
+ 		7 12
+	algoritmos em c de ospf
+ 		5 10
+	algoritmos estruturados
+ 		2 12
+	algoritmos ospf
+ 		1 11
+	algumas variacoes linguisticas
+ 		3 12
+	alienacao
+ 		15 6
+	alienacao conceito
+ 		7 12
+	alienigena
+ 		9 11
+	alienigenas
+ 		5 12
+	aliete goncalves mangote da silva viana
+ 		1 10
+	alimentacao do trabalhador
+ 		8 12
+	alimentos conservas
+ 		3 11
+	alimentos trangenicos
+ 		8 12
+	alimentos transgenicos
+ 		1 9
+	aline moreira
+ 		1 12
+	alipio de melo
+ 		1 11
+	aliquotas de contribuicao social sobre o lucro de cooperativas
+ 		2 12
+	alistamento militar
+ 		1 10
+	allen bradley
+ 		17 12
+	allwebmenus
+ 		4 11
+	almanaque mundial 2003
+ 		1 12
+	almg precatorias
+ 		1 8
+	altamiro carrilho
+ 		2 12
+	altera oes anatomical do utero
+ 		1 11
+	alteracoes anatomicas do utero
+ 		2 12
+	alteracoes emocionais vestibular
+ 		2 10
+	altigran
+ 		98 12
+	altigran100
+ 		44 11
+	alucinogeno
+ 		92 12
+	aluguel apartamento brasilia
+ 		1 9
+	aluguel casas festas
+ 		3 12
+	aluguel de mesas
+ 		14 11
+	aluguel fantasia
+ 		7 12
+	amadora gostosa
+ 		1 10
+	amadora safada
+ 		2 12
+	amadoras
+ 		92 11
+	amadoras brasil
+ 		2 12
+	amadoras brasileiras
+ 		7 7
+	amadoras brasileiras 
+ 		4 12
+	amadoras de bh
+ 		1 11
+	amdk6
+ 		6 12
+	america espanhola
+ 		5 10
+	ametista
+ 		52 12
+	amigos virtuais
+ 		2 11
+	amis
+ 		44 12
+	amizade
+ 		9 9
+	amor
+ 		46 12
+	amor cartas
+ 		1 11
+	amor cartoes
+ 		1 12
+	amor frases
+ 		1 10
+	amor simpatias
+ 		1 12
+	amor virtual
+ 		1 11
+	ana but 
+ 		1 12
+	ana but na tribuna de espirito santo
+ 		1 8
+	ana but no shoping 
+ 		1 12
+	ana maria braga
+ 		1 11
+	ana na tribuna de espirito santo
+ 		8 12
+	ana shoping vitoria
+ 		1 10
+	anahi
+ 		19 12
+	anatomia
+ 		9 11
+	anatomia  do corpo humano na velhice
+ 		13 12
+	anatomia do corpo humano terceira idade
+ 		1 9
+	anatomia do utero
+ 		8 12
+	anatomia humano terceira idade
+ 		2 11
+	anatomia na velhice
+ 		7 12
+	anbg
+ 		1 10
+	anciao jose nicolau 
+ 		3 12
+	anderson de rezende rocha
+ 		1 11
+	anel mapa rodo
+ 		1 12
+	anemia
+ 		37 4
+	anfibios
+ 		174 11
+	angela vieira
+ 		1 12
+	angelina muniz
+ 		1 10
+	angels
+ 		54 12
+	anhembi morumbi universidade
+ 		1 11
+	anibal machado
+ 		1 12
+	animais 
+ 		1 9
+	animais aquaticos
+ 		4 12
+	animais do deserto 
+ 		1 11
+	animais domesticos
+ 		1 12
+	animais domesticos zoonose 
+ 		2 10
+	animais especie
+ 		2 12
+	animais mamiferos
+ 		1 11
+	animais terrestres
+ 		8 12
+	animal
+ 		1 8
+	animal canguru
+ 		2 12
+	animal canguru figuras
+ 		1 11
+	animal elefante
+ 		6 12
+	animal foca
+ 		1 10
+	animal sapo
+ 		9 12
+	anistia internacional belo horizonte
+ 		1 11
+	aniversario cartoes
+ 		6 12
+	aniversario cidade recife
+ 		4 9
+	aniversario mensagens
+ 		3 12
+	anjos
+ 		6 11
+	anomalias no utero
+ 		2 12
+	anomalias uterinas
+ 		4 10
+	anorexia fotos
+ 		2 12
+	anos criancas de14 s
+ 		1 11
+	anos criancas e14 s
+ 		1 12
+	anthero luz
+ 		1 7
+	anti grampo
+ 		1 12
+	anti trojan
+ 		1 11
+	anti virus
+ 		1 12
+	anti-span
+ 		14 10
+	antibioticos em periodontia
+ 		3 12
+	antiga roma
+ 		2 11
+	antigos carros fotos
+ 		1 12
+	antiguidade ciencia
+ 		6 9
+	antivirus
+ 		4 12
+	antologia guimaraes rosa
+ 		2 11
+	antonio carlos figueiredo
+ 		1 12
+	antonio joaquim severino
+ 		1 10
+	antonio roberto
+ 		1 12
+	anulatoria de sentenca
+ 		1 11
+	aparelho fax
+ 		1 12
+	aparelhos de ginastica
+ 		11 8
+	apelacao
+ 		122 12
+	aposentadoria
+ 		59 11
+	apostila algoritmos estruturados
+ 		1 12
+	apostila de access
+ 		1 10
+	apostila de linux
+ 		1 12
+	apostila direito agrario
+ 		3 11
+	apostila direito processual
+ 		4 12
+	apostila para delegado
+ 		2 9
+	apostila para delegado de minas gerais
+ 		1 12
+	apostila sobre defumacao
+ 		1 11
+	apostila teatro de rua
+ 		1 12
+	apostilas de redes
+ 		1 10
+	apostilas de redes windows2000
+ 		1 12
+	apostilas java
+ 		1 11
+	apostilas sobre windows
+ 		2 12
+	apostilas windows
+ 		1 6
+	aprendendo a ler
+ 		2 12
+	aprilia rsv 1000
+ 		2 11
+	aprilia rsv 10000
+ 		1 12
+	aprovacao do estatuto do idoso
+ 		2 10
+	aquatico parque
+ 		1 12
+	aquecimento solar belo horizonte
+ 		9 11
+	ar condicionado para centrais telefonicas
+ 		1 12
+	ar respiravel
+ 		1 9
+	aracaju radio
+ 		1 12
+	araujo viviane
+ 		5 11
+	arcanjo gabriel
+ 		2 12
+	arco iris
+ 		1 10
+	arena telemig
+ 		1 12
+	aritimetica
+ 		32 11
+	armas de fogo
+ 		8 12
+	armas fogo fotos
+ 		1 8
+	arnaldo janssen
+ 		1 12
+	aron de andrade
+ 		9 11
+	arquitetura egipcia
+ 		3 12
+	arquitetura simd desempenho
+ 		1 10
+	arquivo a tribuna
+ 		5 12
+	arquivos dll
+ 		4 11
+	arquivos vxd
+ 		3 12
+	artigo gsm
+ 		2 9
+	artigos sobre educacao
+ 		2 12
+	artigos voip voz sobre ip
+ 		1 11
+	as aventuras eroticas de tiazinha
+ 		1 12
+	as barbaridades papais
+ 		2 10
+	as especies de animais
+ 		3 12
+	as popozuda
+ 		3 11
+	as primeiras universidades no brasil
+ 		1 12
+	asean
+ 		30 7
+	ash
+ 		3 12
+	asia ocidental
+ 		2 11
+	aspecto antropologo
+ 		1 12
+	aspectos economicos da america do sul
+ 		2 10
+	aspectos fiscais manaus
+ 		1 12
+	asperger
+ 		59 11
+	assassinatos
+ 		46 12
+	assedio sexual
+ 		10 9
+	assembleias de deus
+ 		4 12
+	assessoria contabil
+ 		11 11
+	assessoriadeimprensa
+ 		47 12
+	assinatura direct tv
+ 		1 10
+	assis francisco sao
+ 		2 12
+	asus p4p800
+ 		1 11
+	athenas deusa
+ 		5 12
+	atipias
+ 		22 8
+	atividade economica da mamona
+ 		1 12
+	atos administrativos
+ 		9 11
+	atos negociais admissao
+ 		3 12
+	atos processuais
+ 		4 10
+	atos processuais resumo
+ 		5 12
+	atrizes nacionais s
+ 		6 11
+	atrizes s
+ 		2 12
+	atualidades em historia
+ 		1 9
+	audioslave
+ 		3 12
+	auditoria
+ 		23 11
+	aula da saudade
+ 		3 12
+	aulas de ingles
+ 		2 10
+	aulas de natacao
+ 		5 12
+	aumento desmatamento brasil causas consequencias
+ 		1 11
+	aumento desmatamento consequencias
+ 		2 12
+	aumento peniano
+ 		3 5
+	aurelio dicionario
+ 		1 11
+	auto-regulacao
+ 		35 12
+	auto-regulagem
+ 		2 10
+	autoestima
+ 		1 12
+	automacao comercial?
+ 		1 11
+	automacao industrial
+ 		1 12
+	automodelismo
+ 		9 9
+	automoveis industrias
+ 		6 12
+	automoveis volkswagem
+ 		1 11
+	autopecas para caminhoes
+ 		4 12
+	auxilio doenca
+ 		5 10
+	auxilio natalidade
+ 		1 12
+	auxilio natalidade 
+ 		2 11
+	avalanche script
+ 		1 12
+	avaliacao academia
+ 		1 8
+	avaliacao ambiental estrategica
+ 		2 12
+	avaliacao da aprendizagem e mensuracao
+ 		1 11
+	avaliacoes de matematica para 4a serie do ensino fundamental
+ 		4 12
+	ave palavra
+ 		3 10
+	ave palavra guimaraes rosa
+ 		2 12
+	aves
+ 		1 11
+	aves brasileiras
+ 		1 12
+	aves de rapina
+ 		1 9
+	aves silvestre
+ 		1 12
+	avg center donwload
+ 		1 11
+	aviao martinez
+ 		2 12
+	avioes de combate
+ 		7 10
+	aviso.exe
+ 		20 12
+	avril fotos
+ 		4 11
+	avril lavigne traducoes
+ 		3 12
+	azitromicina
+ 		7 7
+	babi
+ 		42 12
+	babi 
+ 		4 11
+	baby beef
+ 		1 12
+	backgrounds
+ 		2 10
+	bacterias coliformes
+ 		2 12
+	bacterias, amebas e vermes
+ 		2 11
+	bahia rodovia
+ 		1 12
+	bairros belo horizonte
+ 		1 9
+	baixaki
+ 		28 12
+	baixar mp3
+ 		1 11
+	baixar mp3 musicas
+ 		1 12
+	baixar musicas
+ 		9 10
+	bala perdida
+ 		11 12
+	bala perdida brasilia
+ 		4 11
+	balcao
+ 		4 12
+	baliza
+ 		3 8
+	bananinha dany
+ 		1 12
+	banco real abn amaro
+ 		1 11
+	bancos 800
+ 		3 12
+	bancos em greve
+ 		1 10
+	band tv
+ 		2 12
+	banda cavalinho
+ 		3 11
+	bandeira da india
+ 		2 12
+	bandeiras chile paraguai
+ 		3 9
+	bandeiras do brasil
+ 		2 12
+	bandoleros
+ 		69 11
+	bang up
+ 		1 12
+	banner dotz
+ 		1 10
+	baratinha
+ 		50 12
+	barbie
+ 		54 11
+	bares belo horizonte
+ 		7 12
+	barret
+ 		3 6
+	bastidores de fotos 
+ 		4 12
+	batatinha
+ 		18 11
+	bate papo 
+ 		1 12
+	bate-papo
+ 		4 10
+	batepapo fortaleza
+ 		1 12
+	bateria automotiva
+ 		3 11
+	bateria bombardier
+ 		1 12
+	bateria para notebook 254
+ 		2 9
+	baterias
+ 		38 12
+	bathrobe,bedsheet importer wholesaler agent
+ 		2 11
+	battlefield cd key
+ 		1 12
+	bb.com.br
+ 		20 10
+	bbb
+ 		1 12
+	bebadas 
+ 		1 11
+	beduschi itajai
+ 		1 12
+	belas artes
+ 		1 8
+	belinda
+ 		61 12
+	belo horizonte iptu prefeitura
+ 		1 11
+	belo horizonte mg
+ 		1 12
+	belo horizonte prefeitura
+ 		1 10
+	belo horizonte- educacao e lazer
+ 		1 12
+	bem dotados fotos homens
+ 		1 11
+	benchmark
+ 		42 12
+	benedito rui barbosa
+ 		7 9
+	berutti
+ 		64 12
+	betta
+ 		32 11
+	beyblade
+ 		3 12
+	bh
+ 		73 10
+	bh prefeitura
+ 		1 12
+	biblia
+ 		1 11
+	biblioteca virtual
+ 		6 12
+	biblioteca virtual com acesso internet
+ 		2 7
+	bicho da seda
+ 		5 12
+	bicho de seda
+ 		3 11
+	bicho jogo resultado
+ 		2 12
+	bico de papagaio 
+ 		3 10
+	bicorno utero
+ 		1 12
+	bijouterias
+ 		26 11
+	bim
+ 		18 12
+	bingos
+ 		1 9
+	biodiesel na franca
+ 		1 12
+	biografia de jorge amado
+ 		2 11
+	biografia de vinicios de moraes
+ 		1 12
+	biografia dom pedro i
+ 		2 10
+	biografia foucault michel
+ 		1 12
+	biografia mario quintana
+ 		2 11
+	biologia da conservacao 
+ 		6 12
+	biopsicologia
+ 		4 8
+	bioquimica
+ 		12 12
+	biquinis
+ 		85 11
+	biquinis cortininha
+ 		3 12
+	bispo
+ 		1 10
+	bissexuais
+ 		5 12
+	biturbo 22
+ 		3 11
+	bizarras fotos 
+ 		1 12
+	bizarro 
+ 		1 9
+	blaster sound
+ 		1 12
+	blastula
+ 		2 11
+	blitz
+ 		11 12
+	blog enfeites
+ 		3 10
+	blogger da belinda 
+ 		1 12
+	bob esponja
+ 		1 11
+	boca do inferno - resumo
+ 		1 12
+	boca porra
+ 		1 3
+	bocais
+ 		34 11
+	boccaccio
+ 		23 12
+	boi de mamao cavalinho
+ 		3 10
+	boia automatica
+ 		1 12
+	boia para caixa d agua
+ 		2 11
+	boletim informativo do municipio
+ 		1 12
+	bolinho de feijao
+ 		1 9
+	bolivia
+ 		3 12
+	bolsa de valores
+ 		1 11
+	bomba baixa vazao
+ 		1 12
+	bomba de poco
+ 		12 10
+	bombas 100/500 mwm
+ 		1 12
+	bombas hidraulicas
+ 		4 11
+	bonecas
+ 		123 12
+	booklink
+ 		15 8
+	borboleta inseto
+ 		1 12
+	bordas
+ 		1 11
+	bordas pagina
+ 		3 12
+	boticario perfumes
+ 		2 10
+	braco mecanico
+ 		19 12
+	brasao
+ 		86 11
+	brasil ongs
+ 		1 12
+	brasil regiao sul
+ 		1 9
+	brasileira cirurgia plastica sociedade
+ 		1 12
+	brasileiras regioes
+ 		2 11
+	brasileiros nova york hospedagem
+ 		6 12
+	brasilia
+ 		3 10
+	brasilia gatas
+ 		1 12
+	brasilia imobiliarias
+ 		1 11
+	brasilia putas
+ 		1 12
+	bricolagem
+ 		17 7
+	brincadeira do copo
+ 		6 12
+	brincadeiras infantis
+ 		1 11
+	brincando que a crianca mergulha
+ 		5 12
+	briofita
+ 		38 10
+	brunner
+ 		68 12
+	bruno e marrone
+ 		1 11
+	brutal
+ 		1 12
+	bruxas festa
+ 		2 9
+	bucetinha
+ 		1 12
+	bucetinha virgem
+ 		1 11
+	bucetinhas
+ 		19 12
+	buco-maxilo
+ 		31 10
+	bug bear
+ 		3 12
+	builder
+ 		12 11
+	bunda
+ 		14 12
+	bunda meninas  fotos
+ 		1 8
+	bundas
+ 		108 12
+	bundas enormes
+ 		7 11
+	bundas grandes
+ 		1 12
+	bundonas
+ 		9 10
+	bundudas
+ 		55 12
+	burcite
+ 		42 11
+	busca e apreensao de menor
+ 		3 12
+	busca sexy
+ 		1 9
+	busca sites
+ 		1 12
+	buscacatolica
+ 		16 11
+	buster
+ 		3 12
+	buttons animados
+ 		1 10
+	buy denim stocklots
+ 		2 12
+	c.e.p.
+ 		16 11
+	cabanagem
+ 		29 12
+	cabeamento de rede
+ 		3 6
+	cabelereiros
+ 		30 12
+	cabelereiros em sao paulo
+ 		5 11
+	cabelo paloma duarte
+ 		1 12
+	cabine
+ 		201 10
+	cabo rg
+ 		7 12
+	cabos de aco
+ 		5 11
+	caca fantasmas
+ 		2 12
+	caca niquel
+ 		16 9
+	cachaca
+ 		54 12
+	cachoeiras df
+ 		1 11
+	cachorro sao francisco
+ 		1 12
+	cadastra
+ 		37 10
+	cadastramento cpf
+ 		1 12
+	cadastro de celular pre pago
+ 		3 11
+	cadaveres
+ 		8 12
+	cadaveres fotos
+ 		3 8
+	caes doencas
+ 		1 12
+	cafe
+ 		30 11
+	cafe regional canjica
+ 		1 12
+	caixa economica federal
+ 		3 10
+	caixaeconomicafederal
+ 		15 12
+	calcados marca equilibrio
+ 		1 11
+	calcados vencia
+ 		1 12
+	calcario agricola
+ 		2 9
+	calcinhas
+ 		11 12
+	calendario 2003
+ 		1 11
+	calhas
+ 		1 12
+	caller modem
+ 		4 10
+	camaleao anderson rocha
+ 		2 12
+	camargo fotos  vanessa
+ 		1 11
+	cambio
+ 		14 12
+	camboim
+ 		50 7
+	cameras digitais  minidv
+ 		1 12
+	camila pavanelli
+ 		2 11
+	caminhao betoneira
+ 		1 12
+	campanha cesta de natal
+ 		1 10
+	campanha do cancer em  pouso alegre
+ 		5 12
+	campanha natal
+ 		4 11
+	campanha publicidade natal
+ 		1 12
+	campanha publicitaria natal
+ 		3 9
+	campo grande chegada brasileiros
+ 		2 12
+	campo magnetico gravitacional e nuclear
+ 		9 11
+	campo verde mt
+ 		5 12
+	campo verde mt arquitetura
+ 		1 10
+	canada guia
+ 		1 12
+	cancelamento de beneficio do inss
+ 		1 11
+	cancelamento de beneficio por morte do segurado do inss
+ 		4 12
+	cancer de mama
+ 		2 8
+	cancer no pulmao
+ 		1 12
+	candido portinari
+ 		10 11
+	candomble rezas
+ 		1 12
+	candy dolls
+ 		1 10
+	cangaceiro corisco
+ 		1 12
+	cangaceiro lampiao
+ 		2 11
+	cangaceiros
+ 		7 12
+	canjica manaus
+ 		1 9
+	cantor belo
+ 		1 12
+	cantor leonardo
+ 		2 11
+	cantos religiosos
+ 		2 12
+	capacete bike skate
+ 		2 10
+	capas de chuva em pvc
+ 		19 12
+	cape saude
+ 		2 11
+	capesaude
+ 		20 12
+	capim videira
+ 		1 5
+	capital intelectual
+ 		2 11
+	capoeira
+ 		5 12
+	capuccino
+ 		46 10
+	carandai
+ 		21 12
+	carangola
+ 		11 11
+	carboidratos
+ 		5 12
+	cardioide
+ 		1 9
+	cargos e salarios
+ 		2 12
+	cargos salarios tabela
+ 		4 11
+	carl rogers
+ 		1 12
+	carlos augusto costa camarota
+ 		1 10
+	carlos heitor cony
+ 		2 12
+	carmen diego jogo san
+ 		1 11
+	carmo fotos maria
+ 		1 12
+	carnaval
+ 		1 8
+	carnaval 
+ 		1 12
+	carnaval fantasias
+ 		2 11
+	carnaval rio 2004
+ 		3 12
+	carretas industriais
+ 		1 10
+	carrinho maximus
+ 		1 12
+	carro
+ 		4 11
+	carro maverick
+ 		1 12
+	carro vendas
+ 		1 9
+	carros
+ 		100 12
+	carros antigos
+ 		3 11
+	carros de radio controle
+ 		3 12
+	carros usados
+ 		1 10
+	carta amor
+ 		2 12
+	cartao bilhetagem eletronica
+ 		2 11
+	cartao button
+ 		1 12
+	cartao de carinho
+ 		1 7
+	cartao iso
+ 		1 12
+	cartao mensagem
+ 		2 11
+	cartao natal
+ 		4 12
+	cartao virtual
+ 		1 10
+	cartoes
+ 		111 12
+	cartoes com orquidea
+ 		1 11
+	cartoes com orquideas
+ 		13 12
+	cartoes de amor
+ 		1 9
+	cartoes para mamaes gravidas
+ 		1 12
+	cartoes para medicos
+ 		1 11
+	cartoes virtuais
+ 		4 12
+	cartoes virtuais delicados
+ 		4 10
+	cartoon
+ 		8 12
+	casa loterias 
+ 		1 11
+	casa loterias para jogos on li
+ 		1 12
+	casa lotericas para jogos on-li
+ 		1 8
+	casada quer 
+ 		4 12
+	casais
+ 		92 11
+	casais swingers
+ 		1 12
+	casal de bh
+ 		1 10
+	casamento no cristianismo
+ 		17 12
+	casas de madeira
+ 		2 11
+	caseiras
+ 		11 12
+	caseiras fotos
+ 		6 9
+	caseiras s
+ 		4 12
+	castilha
+ 		3 11
+	cat
+ 		3 12
+	catalisadores
+ 		14 10
+	catalogo de  boia para caixa d agua
+ 		1 12
+	catalogo legal do gugu
+ 		3 11
+	catalogos eletrica
+ 		1 12
+	catapora
+ 		20 6
+	catenaria
+ 		5 12
+	cat�logo tok 
+ 		1 11
+	cavitacao
+ 		79 12
+	cd bia bedran
+ 		2 10
+	cd double dragon
+ 		1 12
+	cd printer
+ 		1 11
+	cd-rom lg 
+ 		2 12
+	cd-rom lg atualizar
+ 		1 9
+	cds gospel
+ 		8 12
+	cdzim
+ 		7 11
+	ceara jornal povo
+ 		1 12
+	cecilia meireles
+ 		4 10
+	ceee
+ 		11 12
+	celebracao de convenios
+ 		1 11
+	celiaca
+ 		13 12
+	celular
+ 		52 8
+	celular enviar internet mensagem
+ 		1 12
+	celular oi
+ 		8 11
+	celular tim
+ 		1 12
+	celulares a vendas
+ 		3 10
+	celulas epiteliais   
+ 		3 12
+	cemig
+ 		8 11
+	censo brasilia
+ 		2 12
+	central de atendimento justica federal
+ 		3 9
+	centro de obesidade morbida no rio grande do sul
+ 		1 12
+	cep
+ 		5 11
+	cereal audiograbber
+ 		1 12
+	cerrado
+ 		5 10
+	certificacao iso 9000
+ 		2 12
+	chacaras 
+ 		2 11
+	chakraterapia
+ 		2 12
+	chamar arquivos ms-dos call
+ 		1 7
+	champignom
+ 		93 12
+	champion motel
+ 		1 11
+	chapada dos veadeiros
+ 		1 12
+	charlie brau
+ 		1 10
+	charlie chaplin
+ 		1 12
+	chat
+ 		45 11
+	cheese
+ 		33 12
+	chernobyl
+ 		9 9
+	chic e-pipoca
+ 		1 12
+	chicago
+ 		13 11
+	china atacado 1,99
+ 		2 12
+	china belo horizonte
+ 		12 10
+	china historia
+ 		2 12
+	chip para carro em belo horizonte
+ 		1 11
+	chocadeira
+ 		14 12
+	chroma-key
+ 		160 8
+	churrasco aline ufmg
+ 		1 12
+	cicarelli daniela 
+ 		31 11
+	cicarelli daniela fotos
+ 		16 12
+	cicarelli daniela fotos 
+ 		1 10
+	ciclo da agua
+ 		1 12
+	cidadania
+ 		10 11
+	cidadania italiana diretamente na italia
+ 		3 12
+	cidade do recife
+ 		2 9
+	cidade kronberg
+ 		2 12
+	cidade mapa paulo sao
+ 		1 11
+	cidades
+ 		9 12
+	cidades mortas
+ 		3 10
+	cidades mortas resumo
+ 		1 12
+	ciencia idade media
+ 		128 11
+	cifra
+ 		243 12
+	cifracatolica
+ 		57 4
+	cifras
+ 		8 11
+	cifras catolicas
+ 		1 12
+	cifras evangelicas
+ 		1 10
+	cifras gospel
+ 		1 12
+	cifras musicais
+ 		1 11
+	cifras oficina g3
+ 		3 12
+	cifrascatolicas
+ 		10 9
+	cilindros hidr�ulicos
+ 		1 12
+	cinderela
+ 		3 11
+	cinderela disney
+ 		10 12
+	cinema
+ 		8 10
+	cinemark
+ 		53 12
+	cinemas e teatros de bh
+ 		1 11
+	cinemas rio de janeiro
+ 		1 12
+	cipa
+ 		5 8
+	cipa dicas de ergonomia
+ 		3 12
+	ciretran
+ 		41 11
+	ciretran de diadema
+ 		2 12
+	cirurgia clinica plastica
+ 		1 10
+	cirurgia clinica plastica belo horizonte
+ 		8 12
+	cirurgia plastica
+ 		4 11
+	cisneiros minas gerais
+ 		4 12
+	civilizacao indiana
+ 		1 9
+	classe do arroz
+ 		1 12
+	classe gramatica verbos
+ 		2 11
+	classicismo em portugal
+ 		2 12
+	classificacao aco
+ 		3 10
+	classificacao botanica
+ 		2 12
+	classificacao cordados
+ 		7 11
+	classificados
+ 		5 12
+	classificados bh
+ 		1 7
+	classificados de imoveis
+ 		1 12
+	classissismo
+ 		3 11
+	claude bolling
+ 		5 12
+	clematis cerato
+ 		1 10
+	clerot
+ 		88 12
+	clima no nordeste
+ 		1 11
+	cliparts
+ 		14 12
+	clitoris das gordinhas
+ 		1 9
+	clonagem
+ 		12 12
+	clonagem humana
+ 		3 11
+	clone
+ 		2 12
+	clone cd
+ 		1 10
+	clonecd
+ 		47 12
+	clorofila
+ 		58 11
+	clt
+ 		62 12
+	clt on-line
+ 		1 8
+	clube de natacao e regatas alvares cabral
+ 		1 12
+	clubes
+ 		22 11
+	cm4 download completo
+ 		1 12
+	cobertura mutley
+ 		1 10
+	coceira no busto
+ 		1 12
+	cocker
+ 		7 11
+	cocker gratis
+ 		1 12
+	codec download
+ 		1 9
+	codigo da blig
+ 		1 12
+	codigo de defesa do consumidor
+ 		1 11
+	codigo enderecamento postal
+ 		1 12
+	codigo fonte de trojan
+ 		2 10
+	coegio objetivo brasilia df 
+ 		1 12
+	coerencia
+ 		4 11
+	coimbra   go
+ 		2 12
+	coimex
+ 		12 6
+	coisas sobre a vida de daniel radcliffe
+ 		1 12
+	colegiais
+ 		13 11
+	colegio agricola agua doce
+ 		2 12
+	colegio dom silverio
+ 		2 10
+	colegio marista dom silverio
+ 		7 12
+	colegio objetivo brasilia df 
+ 		2 11
+	colegio objetivo brasilia df prova de selecao 
+ 		1 12
+	colegio santa margarida 
+ 		1 9
+	colegio sao miguel arcanjo
+ 		1 12
+	coleguinhas
+ 		7 11
+	coleta seletiva
+ 		1 12
+	coliformes fecais
+ 		3 10
+	colombia e bolivia
+ 		1 12
+	colonia de ferias afpesp 
+ 		1 11
+	colorir desenhos
+ 		1 12
+	colorir desenhos 
+ 		2 8
+	colorir desenhos disney
+ 		1 12
+	coluna
+ 		34 11
+	com animais
+ 		1 12
+	com animal
+ 		1 10
+	com ciencia na educacao - rodolpho caniato
+ 		1 12
+	combate a energias negativas
+ 		1 11
+	combate ao vampirismo
+ 		1 12
+	comida chineza
+ 		1 9
+	comissao de anistia
+ 		1 12
+	como abrir uma escola
+ 		5 11
+	como abrir uma pagina html em outra janela
+ 		2 12
+	como aprsentar textos
+ 		1 10
+	como colocar um ovo na garrafa?
+ 		4 12
+	como compor uma musica
+ 		1 11
+	como desenhar uma folha de cheque
+ 		1 12
+	como desenvolver sites
+ 		1 7
+	como e economia da america do sul
+ 		2 12
+	como e formada a bomba atomica?
+ 		1 11
+	como e produzida a voz
+ 		5 12
+	como encerrar contas de resultado?
+ 		1 10
+	como ensinar a leitura
+ 		1 12
+	como ensinar a leitura na infancia
+ 		1 11
+	como evitar os agentes poluidores
+ 		1 12
+	como evitar os agentes poluidores da agua
+ 		2 9
+	como fazer projeto consultoria organizacional
+ 		1 12
+	como fazer um robo?
+ 		5 11
+	como fazer uma rede domestica
+ 		1 12
+	como funciona a guitarra
+ 		1 10
+	como funciona o miner
+ 		1 12
+	como gerenciar empresa
+ 		1 11
+	como gravar um dvd
+ 		1 12
+	como instalar uma rede
+ 		3 8
+	como jejuar
+ 		1 12
+	como matar ratos
+ 		1 11
+	como montar o som ideal para o meu carro
+ 		1 12
+	como surgiu a canjica historico
+ 		2 10
+	como vou
+ 		1 12
+	comparacao entre colombia e bolivia
+ 		2 11
+	compasso gordura
+ 		1 12
+	componentes eletronicos   optoeletronicos   laser
+ 		2 9
+	comportamento consumidor marketing
+ 		1 12
+	comportas
+ 		1 11
+	composicao do ovo
+ 		3 12
+	composicao do ovo poedeiras
+ 		3 10
+	compra de motores automotivos
+ 		1 12
+	compra e venda*
+ 		11 11
+	comprador sucata aluminio
+ 		1 12
+	comprador sucata cobre
+ 		1 5
+	compras
+ 		1276 12
+	compras alphaville sp
+ 		1 11
+	compressores de ar
+ 		3 12
+	compressores wayne
+ 		2 10
+	comprovante de experiencia modelo
+ 		1 12
+	compusea
+ 		4 11
+	computacao grafica no cinema
+ 		12 12
+	computador quantico
+ 		1 9
+	computadoras
+ 		6 12
+	comunicacao empresarial
+ 		2 11
+	comunicacao no sistema unimed
+ 		1 12
+	comunicacao organizacional
+ 		3 10
+	comunicacoes no brasil: novos e velhos atores
+ 		2 12
+	comunismo chines
+ 		1 11
+	conceito de merchandising
+ 		3 12
+	conceito de ministerio publico
+ 		3 8
+	conceito de tecidos humanos
+ 		3 12
+	conceito do anatocismo
+ 		2 11
+	conceito liberdade
+ 		1 12
+	conceito marketing
+ 		1 10
+	conceito soberania
+ 		4 12
+	concepcoes filosoficas da liberdade
+ 		2 11
+	concessionaria chevrolet
+ 		3 12
+	condicionador de ar
+ 		1 9
+	condicionador de ar split
+ 		1 12
+	condominio entre lagos
+ 		1 11
+	condominio mediterraneo df
+ 		1 12
+	conexao 0800
+ 		1 10
+	confederacao brasileira de futebol
+ 		1 12
+	conferencia nacional das cidades
+ 		3 11
+	configuracao hp impressora
+ 		1 12
+	configurando internet explorer no win xp
+ 		2 7
+	conflitos israelenses palestinos
+ 		3 12
+	conflitos na somalia
+ 		5 11
+	congonhal
+ 		2 12
+	congregacao crista no brasil - jose nicolau
+ 		8 10
+	congresso de psiquiatria em 2003
+ 		4 12
+	conhecendo a justica do homem
+ 		3 11
+	conhecimento popular 
+ 		1 12
+	conhecimentos gerais
+ 		1 9
+	conprest
+ 		3 12
+	conselho monetario nacional
+ 		1 11
+	conselho regional de quimica
+ 		1 12
+	conselho regional medicina minas gerais
+ 		2 10
+	consequencias dos furacoes
+ 		1 12
+	consequencias dos maremotos
+ 		1 11
+	conserva para cogumelos
+ 		1 12
+	conservacao do meio ambiente
+ 		4 8
+	conservadora
+ 		3 12
+	construcao de dreno
+ 		3 11
+	construcao de maquetes
+ 		1 12
+	consulta ao codigo penal
+ 		8 10
+	consumidor psicologia
+ 		1 12
+	consumismo
+ 		6 11
+	consumo de racao cada fase dos suinos
+ 		5 12
+	contabilidade bancaria
+ 		3 9
+	contec
+ 		343 12
+	conto erotico
+ 		1 11
+	contos
+ 		220 12
+	contos 
+ 		4 10
+	contos de 
+ 		3 12
+	contos de incesto
+ 		4 11
+	contos e fotos de incesto
+ 		3 12
+	contos eroticos
+ 		14 6
+	contos eroticos de zoofilia
+ 		1 12
+	contos eroticos gays
+ 		2 11
+	contos guimaraes
+ 		1 12
+	contos guimaraes rosa
+ 		1 10
+	contos incesto
+ 		2 12
+	contoseroticos
+ 		2 11
+	contram
+ 		9 12
+	contrato de adesao
+ 		5 9
+	contrato temporario do departamento nacional de infra-estrutura de transportes
+ 		1 12
+	contribuicao de francis bacon para a ciencia moderna
+ 		1 11
+	controladoria
+ 		6 12
+	controle constitucionalidade
+ 		1 10
+	controle de acesso
+ 		1 12
+	controle de acesso  de dados do db2
+ 		1 11
+	controle de cheque
+ 		2 12
+	controle de impressao 
+ 		3 8
+	controle orcamentario
+ 		6 12
+	convencao coletiva
+ 		3 11
+	convenio icms
+ 		1 12
+	convenio laboratorial
+ 		2 10
+	coopanest
+ 		63 12
+	copos de plastico
+ 		5 11
+	cor da pedra da lua
+ 		1 12
+	corinto
+ 		115 9
+	coroas
+ 		6 12
+	coroas maduras
+ 		3 11
+	coroas mulheres
+ 		1 12
+	coroas s
+ 		2 10
+	corpo humano na velhice 
+ 		3 12
+	corpo martinez
+ 		1 11
+	corregos de igarape mg
+ 		1 12
+	corregos mg
+ 		2 7
+	correicao parcial pratica forense
+ 		6 12
+	correio
+ 		8 11
+	correio brasiliense fevereiro 2002 18 de novembro aumento de onibus
+ 		1 12
+	correio brasiliense novembro 2002 18 de novembro aumento de onibus
+ 		3 10
+	correio braziliense de 17 de outubro de 2003
+ 		1 12
+	correio braziliense do dia 29/09/03
+ 		3 11
+	correio braziliense edicao de sabado 18 de outubro de 2003
+ 		1 12
+	correio braziliense, brasilia, 18/10/2003
+ 		4 9
+	correios
+ 		29 12
+	corrupcao policial
+ 		2 11
+	cortes de cabelos 
+ 		1 12
+	cortes femininos
+ 		2 10
+	cortina de croche
+ 		5 12
+	cosif
+ 		26 11
+	costa / bispo
+ 		1 12
+	costa 1991
+ 		2 8
+	cotacao gado
+ 		2 12
+	cpf
+ 		70 11
+	crack
+ 		1 12
+	crack age 1.0a
+ 		1 10
+	crack winzip 8.1
+ 		2 12
+	cracking
+ 		9 11
+	crea rs
+ 		1 12
+	creci
+ 		18 9
+	credit score
+ 		2 12
+	credito pessoal
+ 		1 11
+	creep feeding
+ 		1 12
+	crememg
+ 		17 10
+	cremerj
+ 		3 12
+	crescimento capilar
+ 		8 11
+	crescimento e desenvolvimento humano 
+ 		3 12
+	crf-450
+ 		41 2
+	criacao peixes
+ 		1 11
+	criadores ferro trinca
+ 		1 12
+	criancas mortas
+ 		1 10
+	crimes contra patrimonio historico
+ 		3 12
+	crimes contra seguranca nacional
+ 		1 11
+	crimpagem
+ 		158 12
+	cristianismo
+ 		64 9
+	crm
+ 		1 12
+	croche graficos
+ 		10 11
+	croche receitas
+ 		5 12
+	croissant receita
+ 		2 10
+	cromatizacao
+ 		4 12
+	cronicas sobre a crise energetica
+ 		1 11
+	cronologia anos 70
+ 		1 12
+	cronos trigger
+ 		1 8
+	cruz alta jornal
+ 		25 12
+	cruz graficos gratis ponto
+ 		2 11
+	cruz graficos ponto
+ 		2 12
+	cruzadinha
+ 		29 10
+	csd-18
+ 		7 12
+	cte 
+ 		3 11
+	cyro dos anjos
+ 		11 12
+	d.o.r.t.
+ 		3 9
+	d3
+ 		8 12
+	da condicao do encargo do termo 
+ 		5 11
+	dados estatisticos do terceiro setor
+ 		2 12
+	danca
+ 		6 10
+	danca de salao
+ 		1 12
+	dancar tango
+ 		2 11
+	daniela
+ 		3 12
+	daniela cicarelli
+ 		159 7
+	daniela cicarelli 
+ 		2 12
+	daniela fotos freitas 
+ 		1 11
+	daniela freitas
+ 		3 12
+	daniela freitas 
+ 		3 10
+	daniela lujan
+ 		10 12
+	daniela winits
+ 		2 11
+	daniele winits
+ 		3 12
+	danielle winits
+ 		2 9
+	danielle winits 
+ 		4 12
+	danielle winits na 
+ 		2 11
+	danielle winitz
+ 		1 12
+	data sheet
+ 		1 10
+	david wilkerson
+ 		1 12
+	ddrdownload
+ 		1 11
+	de decca
+ 		4 12
+	de quando em vez.com.br
+ 		2 8
+	debora secco
+ 		2 12
+	debora seco 
+ 		1 11
+	deborah seco
+ 		1 12
+	decada de 70
+ 		4 10
+	decoracao de festas infantis
+ 		1 12
+	decoracao festa infantil
+ 		1 11
+	decoracao festas infantis
+ 		4 12
+	decreto 3440
+ 		2 9
+	dedicatoria
+ 		9 12
+	defeito nos rolamentos
+ 		2 11
+	defeitos dos ovos  poedeiras
+ 		1 12
+	defensas
+ 		17 10
+	defesa consumidor planos de saude 
+ 		1 12
+	deficiente auditivo
+ 		21 11
+	definicao de antimicrobianos
+ 		5 12
+	definicao lei 4320 de 1964
+ 		1 6
+	definicao marketing
+ 		1 12
+	defumacao de carnes processo
+ 		1 11
+	defumador
+ 		49 12
+	defumados
+ 		6 10
+	degradacao do solo
+ 		4 12
+	deitei com meu irmao
+ 		1 11
+	delegacias pr
+ 		5 12
+	delegacias sp
+ 		1 9
+	delitos informaticos.
+ 		7 12
+	delonghi
+ 		4 11
+	delta force trainer
+ 		1 12
+	demerval saviani
+ 		3 10
+	demodulacao fm laboratorio
+ 		2 12
+	departamento de apoio ao desenvolvimento das estancias
+ 		3 11
+	depressao
+ 		1 12
+	deputado martinez
+ 		1 8
+	der
+ 		7 12
+	derrame pericardico
+ 		3 11
+	descobrindo ip
+ 		2 12
+	descobrir ip
+ 		1 10
+	descricao
+ 		69 12
+	desenho gratis
+ 		7 11
+	desenhos
+ 		2 12
+	desenhos de pandeiro
+ 		2 9
+	desenhos eroticos
+ 		2 12
+	desenhos tatuagens
+ 		3 11
+	desenvolvimento cognitivo
+ 		1 12
+	desenvolvimento dos textos constitucionais
+ 		1 10
+	desenvolvimento infantil
+ 		1 12
+	deserto
+ 		3 11
+	desfilar carnaval 2004
+ 		3 12
+	desigualdade social
+ 		1 7
+	desinstalacao do windows me
+ 		2 12
+	desmatamento
+ 		7 11
+	desmatamento na amazonia 
+ 		1 12
+	desnutricao
+ 		1 10
+	desportes
+ 		59 12
+	destravando dvd
+ 		2 11
+	determinacao de materia organica de solo 
+ 		1 12
+	detonado de zelda links awaken para game boy color
+ 		1 9
+	detran
+ 		180 12
+	detran ba
+ 		1 11
+	detran mg
+ 		1 12
+	detran-rj
+ 		31 10
+	detran.rj
+ 		31 12
+	detranrj
+ 		18 11
+	deusa da justica
+ 		4 12
+	devastacao araucaria
+ 		3 8
+	dia do idoso
+ 		4 12
+	dia do livro
+ 		1 11
+	dia dos medicos
+ 		1 12
+	dia mundial da alimentacao
+ 		2 10
+	diabetes
+ 		24 12
+	diablo2
+ 		80 11
+	diagnostico organizacional
+ 		11 12
+	diagrama de fluxo de dados
+ 		1 9
+	diamantina
+ 		13 12
+	diario de pernambuco
+ 		1 11
+	dicas de prova de atualidades
+ 		1 12
+	dicas games
+ 		4 10
+	dicas para seduzir um homem de virgem
+ 		2 12
+	dicas playstation
+ 		6 11
+	dicas sobre fifa 2003
+ 		2 12
+	dicas sobre o jogo fifa 2003
+ 		4 5
+	dicionario aurelio
+ 		2 11
+	dicionario de nomes
+ 		3 12
+	dicionario especialidades farmaceuticas
+ 		1 10
+	dicionario indigena
+ 		3 12
+	dicionario lingua portuguesa
+ 		1 11
+	dicionario nomes pessoas
+ 		1 12
+	dicionario nomes proprios
+ 		2 9
+	dicionarios
+ 		2 12
+	dido
+ 		3 11
+	dielle
+ 		22 12
+	dieta felicidade
+ 		1 10
+	dietas
+ 		5 12
+	diferenca no corpo velhice
+ 		11 11
+	diferencas entre a colombia e a bolivia
+ 		3 12
+	difracao de onda
+ 		1 8
+	digimon
+ 		52 12
+	digitacao ms-dos 
+ 		1 11
+	dignidade humana
+ 		1 12
+	dignidade juridica
+ 		3 10
+	din 912
+ 		4 12
+	dinamica do abrigo subterraneo
+ 		2 11
+	dinamicas aula
+ 		20 12
+	dinamicas de grupo
+ 		6 9
+	dinamicas pedagogicas
+ 		3 12
+	dinosauro
+ 		6 11
+	dinossauro
+ 		71 12
+	dinossauro historia
+ 		7 10
+	dinossauro rex
+ 		2 12
+	dinossauros
+ 		72 11
+	dinossauros  carnivoros
+ 		1 12
+	dinossauros aquaticos
+ 		15 7
+	dinossauros carnivoros
+ 		3 12
+	dinossauros fotos
+ 		2 11
+	diocese de luz
+ 		3 12
+	diodo laser
+ 		1 10
+	dirceu lopes
+ 		3 12
+	direct tv
+ 		1 11
+	direito a vida
+ 		5 12
+	direito a vida e ao proprio corpo
+ 		5 9
+	direito administrativo
+ 		1 12
+	direito coletivo do trabalho e a oit
+ 		1 11
+	direito constitucional
+ 		1 12
+	direito da sucessao romano
+ 		1 10
+	direito das sucessoes
+ 		5 12
+	direito de reuniao
+ 		1 11
+	direito do trabalho
+ 		1 12
+	direito penal na cidadania
+ 		1 8
+	direito penal nos direitos humanos
+ 		1 12
+	direitos dos presidiarios e sua violacao
+ 		5 11
+	direitos dos presos - utopia
+ 		1 12
+	direitos humanos antropologia
+ 		3 10
+	diretorio central de estudantes uni
+ 		2 12
+	discador
+ 		27 11
+	discador asp
+ 		4 12
+	discador fixo
+ 		1 9
+	discador internet gratis
+ 		2 12
+	discrimanacao
+ 		1 11
+	dispersao sulfato ferroso
+ 		3 12
+	dissertacao sobre trangenicos
+ 		1 10
+	distintivo futebol clube internacional
+ 		1 12
+	distribuidora de auto pecas
+ 		1 11
+	ditos populares
+ 		2 12
+	dividas mineiras
+ 		1 6
+	divisao regional
+ 		1 12
+	divx gratis
+ 		4 11
+	djavan
+ 		55 12
+	dnocs
+ 		4 10
+	do latim cogeae constranger obrigar dai
+ 		1 12
+	do latim cogerh constranger obrigar dai
+ 		1 11
+	do mes
+ 		2 12
+	doacao de sangue
+ 		1 9
+	doc 9137
+ 		2 12
+	docinhos receitas
+ 		2 11
+	doenca animal
+ 		1 12
+	doenca bursite
+ 		1 10
+	doenca de crohn
+ 		1 12
+	doenca gota
+ 		2 11
+	doencas
+ 		27 12
+	doencas causadas pela agua
+ 		1 8
+	doencas sangue
+ 		1 12
+	doencas sexualmente transmisiveis
+ 		1 11
+	dolar
+ 		4 12
+	dolls 2 jogo game
+ 		4 10
+	domaindlx
+ 		33 12
+	domestico
+ 		10 11
+	donkey kong
+ 		1 12
+	dora cramer
+ 		2 9
+	dos do espirito santo
+ 		1 12
+	dostoievski
+ 		3 11
+	double dragon
+ 		2 12
+	doutrina da parte especial do codigo penal
+ 		1 10
+	dowload de pokemon
+ 		1 12
+	dowload icq
+ 		1 11
+	dowloads
+ 		14 12
+	download
+ 		20 7
+	download acelerator plus 5
+ 		2 12
+	download acelerator plus 5 
+ 		2 11
+	download clipper 5.2
+ 		8 12
+	download de jogos
+ 		1 10
+	download de mirc
+ 		1 12
+	download de ponteiros para o mouse
+ 		2 11
+	download de provas 
+ 		1 12
+	download do linux
+ 		1 9
+	download doom opengl
+ 		2 12
+	download duke nuken
+ 		4 11
+	download explorer internet
+ 		2 12
+	download filme 
+ 		1 10
+	download gold pokemon
+ 		6 12
+	download gratis jogos
+ 		3 11
+	download gta jogo
+ 		2 12
+	download jsp
+ 		3 8
+	download macromedia flash portugues
+ 		2 12
+	download master cd
+ 		1 11
+	download mp3
+ 		5 12
+	download program american voice
+ 		2 10
+	download shut down 
+ 		3 12
+	download shut down remoto
+ 		1 11
+	download sims the
+ 		1 12
+	download sociologia juridica
+ 		1 9
+	download syndicate wars
+ 		1 12
+	download theme hospital
+ 		1 11
+	download vinhetas
+ 		10 12
+	downloads apostilas de redes
+ 		2 10
+	downsizing
+ 		31 12
+	dr atkins
+ 		1 11
+	dreamcam
+ 		6 12
+	dreamcast
+ 		260 4
+	drive interbase bde
+ 		1 11
+	driver de modens
+ 		1 12
+	drivers
+ 		27 10
+	drogarias
+ 		28 12
+	drogas
+ 		4 11
+	drogas na adolescencia
+ 		4 12
+	duarte
+ 		20 9
+	duarte torneamento ltda industria mecanica
+ 		1 12
+	duas motos rodas
+ 		1 11
+	duc-in-altum
+ 		39 12
+	dupla penetracao
+ 		2 10
+	dvd 
+ 		2 12
+	dvd para carros
+ 		1 11
+	e sacanagem
+ 		1 12
+	e-mails  para mala direta
+ 		153 8
+	e.t.
+ 		2 12
+	eco pesca
+ 		2 11
+	ecologia do conhecimento
+ 		1 12
+	economia da america do sul
+ 		2 10
+	economia da groelandia
+ 		2 12
+	economia industrial da groelandia
+ 		1 11
+	economista viver
+ 		1 12
+	ecoturismo bibliografia
+ 		1 9
+	edicao de 08/10/2003
+ 		1 12
+	edicao do correio braziliense do dia doze de outubro de 2003
+ 		6 11
+	edicoes anteriores
+ 		3 12
+	edicoes loyola
+ 		1 10
+	edital do mestrado em ciencia da arte uff 2003
+ 		1 12
+	edital tre amazonas
+ 		2 11
+	editor texto delphi
+ 		9 12
+	editor texto delphi fontes
+ 		4 7
+	editora expressao popular
+ 		1 12
+	editora grafia obra ror de age de carvalho
+ 		1 11
+	editora le
+ 		1 12
+	editora tudo acaba em festa
+ 		1 10
+	editoras
+ 		25 12
+	edmundo barbosa
+ 		1 11
+	edson paiva
+ 		3 12
+	educacao
+ 		14 9
+	educacao ambiental no ensino fundamental
+ 		4 12
+	educacao e exclusao social
+ 		6 11
+	educacao e lazer em belo horizonte de 1930 a 2003
+ 		1 12
+	educacao secretaria
+ 		1 10
+	educaï¿½ï¿½o
+ 		1 12
+	efeito estufa
+ 		2 11
+	efluentes igarape
+ 		2 12
+	ega.cpi fonts
+ 		1 8
+	elaboracao de convenio medico
+ 		1 12
+	elegante wasted
+ 		1 11
+	eleicoes 2004
+ 		4 12
+	elementos de nutricao mineral de plantas
+ 		5 10
+	eletricidade
+ 		1 12
+	eletroduto galvanizado
+ 		7 11
+	eletronica virtual
+ 		7 12
+	eletropaulo
+ 		30 9
+	elienai alves de santana
+ 		1 12
+	eliffot
+ 		13 11
+	elifoot
+ 		53 12
+	elifoot 2002
+ 		7 10
+	elis regina
+ 		5 12
+	elke maravilha
+ 		1 11
+	ellen roche
+ 		2 12
+	elza soares
+ 		1 6
+	em nome do santo belo horizonte santo antonio 
+ 		1 12
+	em que ano e data foi criado o fax
+ 		1 11
+	emagrecer
+ 		2 12
+	embaixada
+ 		14 10
+	embalagem
+ 		28 12
+	embargos do devedor
+ 		7 11
+	embrapa
+ 		10 12
+	embratel
+ 		18 9
+	eminem
+ 		54 12
+	emissoras de barbacena
+ 		2 11
+	emocionais vestibular
+ 		1 12
+	empregada gostosa
+ 		1 10
+	empregos
+ 		109 12
+	empresas de turismo
+ 		1 11
+	empresas na cidade de sabara
+ 		1 12
+	empresas que financiam projetos sociais em minas gerais
+ 		1 8
+	emprestimo pessoal
+ 		1 12
+	emprestimos
+ 		69 11
+	emulacao
+ 		203 12
+	emulacao de neo geo
+ 		7 10
+	emulador pascal
+ 		2 12
+	encardido
+ 		1 11
+	encontro
+ 		55 12
+	encontro nacional hansenologia
+ 		1 9
+	endereco de condominios em cotia
+ 		1 12
+	enderecos lista
+ 		1 11
+	endolimax nana
+ 		4 12
+	endomarketing
+ 		98 10
+	endoscopio
+ 		220 12
+	energia eletrica
+ 		10 11
+	energia petroquimica
+ 		1 12
+	enfermeira 
+ 		3 7
+	engenharia de alimentos
+ 		3 12
+	english classes
+ 		1 11
+	enh908
+ 		6 12
+	enl832-tx-va
+ 		3 10
+	ensaio das coleguinhas 
+ 		1 12
+	enviar mensagem para celular
+ 		1 11
+	enxertia
+ 		23 12
+	enxertia de pele
+ 		1 9
+	eolo maia 
+ 		1 12
+	epa supermercado
+ 		4 11
+	epm
+ 		12 12
+	equador
+ 		37 10
+	equipamentos
+ 		9 12
+	equipamentos para bar
+ 		1 11
+	equipamentos para bar em brasilia 
+ 		1 12
+	equipamentos para borracharia
+ 		1 8
+	erosao
+ 		36 12
+	eroticas fotos
+ 		1 11
+	erotico
+ 		1 12
+	eroticos gratis videos
+ 		2 10
+	eroticos mangas
+ 		6 12
+	eroticos videos
+ 		1 11
+	escalonamento de disco  
+ 		4 12
+	escalonamento fcs
+ 		1 9
+	escola alexandre de gusmao
+ 		1 12
+	escola ativa idade
+ 		1 11
+	escola cidada
+ 		4 12
+	escola do ipiranga alexandre de gusmao
+ 		10 10
+	escola guarany manaus
+ 		1 12
+	escola tecnica
+ 		1 11
+	escola tecnica de brasilia
+ 		2 12
+	escola vicosa - mg
+ 		1 5
+	escolar fracasso
+ 		1 12
+	escolar sindicato transporte
+ 		1 11
+	escolar transporte
+ 		2 12
+	escolas de comunicacao
+ 		7 10
+	escolas de samba sao paulo leandro itaquera
+ 		1 12
+	escovalimpeza
+ 		1 11
+	escovatubo
+ 		2 12
+	escravidao indigena
+ 		1 9
+	escrever os numeros ordinais
+ 		1 12
+	escritorio advocacia brasilia
+ 		3 11
+	escritorio contabil
+ 		8 12
+	escritorio de contabilidade
+ 		10 10
+	esofagite
+ 		17 12
+	espanhol verbos
+ 		1 11
+	esparta
+ 		3 12
+	especial cidade historica
+ 		2 8
+	especialista cornea belo horizonte
+ 		1 12
+	especialistas em sombrancelhas
+ 		1 11
+	especie de animal
+ 		2 12
+	especies de arroz
+ 		2 10
+	especies de limao 
+ 		2 12
+	especies de limoes
+ 		1 11
+	especies de simoes
+ 		1 12
+	espionagem
+ 		2 9
+	espiridiao amin
+ 		5 12
+	espondilolistese
+ 		27 11
+	esporte
+ 		9 12
+	esportes
+ 		2491 10
+	esportes radicais
+ 		5 12
+	esquartejada fotos mulher
+ 		1 11
+	esquartejamento fotos
+ 		1 12
+	esquizofrenia
+ 		1 7
+	estabilidade da gestante
+ 		1 12
+	estacao movimento
+ 		2 11
+	estacio de sa
+ 		2 12
+	estacio sa
+ 		2 10
+	estacio sa universidade
+ 		1 12
+	estadao
+ 		7 11
+	estado de minas - 16.10.2003
+ 		1 12
+	estadual de volei
+ 		3 9
+	estagiaria de informatica em belo horizonte
+ 		1 12
+	estagio
+ 		6 11
+	estagio salvador
+ 		4 12
+	estagio ssa
+ 		3 10
+	estagios
+ 		5 12
+	estagios ( segundo grau)
+ 		2 11
+	estaminas do dia 16.10.2003
+ 		2 12
+	estatistica avc prevalencia
+ 		2 8
+	estatistica osteoporose prevalencia
+ 		3 12
+	estatisticas roubo de cargas
+ 		1 11
+	estatisticas sobre crianca
+ 		11 12
+	estatuto do idoso
+ 		17 10
+	estatuto idoso
+ 		1 12
+	estertor
+ 		38 11
+	estetica
+ 		22 12
+	esteticistas
+ 		7 9
+	estoria de cinderela
+ 		2 12
+	estou tentando  te  esquecer
+ 		3 11
+	estrela hora
+ 		2 12
+	estrutura de disco
+ 		2 10
+	estruturalismo
+ 		10 12
+	estudios 
+ 		2 11
+	estudios de gravacao de vinhetas
+ 		1 12
+	estudo dos triangulos
+ 		3 6
+	estupro
+ 		48 12
+	estupro fotos
+ 		1 11
+	estupros
+ 		11 12
+	et
+ 		16 10
+	etb-mix
+ 		30 12
+	etep
+ 		1 11
+	eternas palavras
+ 		2 12
+	eternit
+ 		6 9
+	ethos
+ 		8 12
+	etica na educacao
+ 		2 11
+	etinocentrismo
+ 		6 12
+	etiqueta autoadesiva
+ 		2 10
+	etiquetadora
+ 		160 12
+	ets (alienigenas foto)
+ 		2 11
+	eucaristia*
+ 		103 12
+	eudora
+ 		11 8
+	eugenio morgado
+ 		3 12
+	europa ocidental
+ 		5 11
+	eustaquio luciano zica  
+ 		3 12
+	eutanasia
+ 		7 10
+	evangelhoquadrangular
+ 		13 12
+	everaldo
+ 		2 11
+	evolucao do corpo na decada de 10
+ 		1 12
+	evolucao historica da astronomia
+ 		1 9
+	exame da ordem
+ 		1 12
+	excel
+ 		188 11
+	excel xp
+ 		3 12
+	exemplo diagrama de fluxo de dados
+ 		4 10
+	exemplos de java script
+ 		1 12
+	exercicios de adiantamento de contrato de cambio
+ 		3 11
+	exercicios de funcoes
+ 		3 12
+	exibicionismo
+ 		31 7
+	exibicionista
+ 		2 12
+	exorcista
+ 		9 11
+	expansao dos britanicos ao longo da america do norte
+ 		6 12
+	expectativas da taxa de cambio
+ 		1 10
+	experiencias de hidrostatica
+ 		3 12
+	experiencias para apresentar para pessoas materia de quinta serie
+ 		1 11
+	experimentos em onibus espaciais
+ 		8 12
+	exploracao fotos infantil
+ 		5 9
+	exploracao infantil trabalho
+ 		1 12
+	explorer internet
+ 		32 11
+	explosao mata um e fere cinco pessoas
+ 		2 12
+	expresso zica
+ 		4 10
+	expurgo dos hospitais
+ 		7 12
+	exteriores ministerio relacoes
+ 		1 11
+	extincao da punibilidade
+ 		1 12
+	extincao de contrato
+ 		1 8
+	extra jornal rj
+ 		2 12
+	extrato de roma
+ 		1 11
+	fabbri
+ 		1 12
+	fabiojr
+ 		62 10
+	fabrica jeans
+ 		1 12
+	fabricante de moinho de rolos
+ 		3 11
+	fabricantes de sabao em po
+ 		1 12
+	fabula
+ 		2 9
+	fabula grupo aves
+ 		2 12
+	fabulas
+ 		27 11
+	faial david chequer
+ 		1 12
+	falecimentos
+ 		30 10
+	familia indigina
+ 		3 12
+	familia romano germanica
+ 		1 11
+	famosas  do mes
+ 		2 12
+	famosas mais desejadas
+ 		1 3
+	famosas s
+ 		10 11
+	famosas s em revista
+ 		2 12
+	famosos nus
+ 		4 10
+	fantasia
+ 		1 12
+	fantasia bailarina infantil
+ 		3 11
+	fantasia festa
+ 		5 12
+	fantasias carmem miranda
+ 		3 9
+	fantasias infantis bailarina
+ 		1 12
+	fantasma
+ 		3 11
+	fantasmas
+ 		7 12
+	fantasmas fotos
+ 		1 10
+	farmacobotanica
+ 		33 12
+	farsa de ines pereira
+ 		1 11
+	fascinacao
+ 		42 12
+	fase do ser humano
+ 		1 8
+	fateb
+ 		104 12
+	fatos historicos anos 70
+ 		1 11
+	fax
+ 		6 12
+	fazenda hotel mestre armas
+ 		3 10
+	fazer
+ 		6 12
+	fazer um projeto de consultoria
+ 		1 11
+	fcecon
+ 		9 12
+	fe estudo biblico
+ 		1 9
+	febre amarela a
+ 		1 12
+	febronas
+ 		12 11
+	federal gerais minas universidade
+ 		2 12
+	federal justica
+ 		1 10
+	federal ouro preto universidade
+ 		1 12
+	federal senado
+ 		1 11
+	femininos pes
+ 		3 12
+	fenix
+ 		99 7
+	fermentec
+ 		3 12
+	fernanda
+ 		657 11
+	fernanda de freitas
+ 		2 12
+	fernanda paes leme 
+ 		1 10
+	fernando branquinho
+ 		1 12
+	fernando collor
+ 		1 11
+	fernando pellon de miranda
+ 		4 12
+	fernao dias paes borba gato bandeirantes
+ 		1 9
+	ferramentas automatizadas para apoio a decisao
+ 		1 12
+	ferramentas do marketing
+ 		1 11
+	ferroviaria bh
+ 		1 12
+	fertilidade do solo: interacoes e
+ 		2 10
+	fertilizante
+ 		5 12
+	fertilizantes
+ 		4 11
+	fertilizantes e adubos
+ 		2 12
+	festa da alabama university
+ 		1 8
+	festa de sao joao
+ 		5 12
+	festa giovana
+ 		1 11
+	festa infantil
+ 		3 12
+	festas infantis
+ 		7 10
+	festivais de musicas
+ 		1 12
+	fetiche
+ 		5 11
+	feudalismo
+ 		5 12
+	fgts
+ 		29 9
+	fiat
+ 		12 12
+	fiat/florenca
+ 		8 11
+	fibrose pulmonar cistica
+ 		1 12
+	ficologia
+ 		72 10
+	fifa
+ 		21 12
+	fifa 2002
+ 		3 11
+	fifa2003
+ 		26 12
+	figura corpo humano na velhice 
+ 		8 6
+	figuras de brinquedos para crianca
+ 		1 12
+	figuras de halloween
+ 		2 11
+	figuras macabras
+ 		1 12
+	figurinos carmem miranda
+ 		1 10
+	filezinho
+ 		18 12
+	filha,filho,mae,pai,irmao e irma amantes
+ 		4 11
+	filme 
+ 		8 12
+	filme 0 13� guerreiro  
+ 		4 9
+	filme marcelo rossi
+ 		1 12
+	filme o decimo terceiro guerreiro  
+ 		3 11
+	filme os normais
+ 		1 12
+	filmes
+ 		29 10
+	filmes completos
+ 		1 12
+	filmes completos 
+ 		4 11
+	filmes de  gratis
+ 		2 12
+	filmes divx gratis
+ 		1 8
+	filmes hentai
+ 		4 12
+	filmes vcd venda
+ 		4 11
+	filminhos
+ 		4 12
+	filminhos 
+ 		1 10
+	filosofia filosofos
+ 		1 12
+	filosofia liberdade
+ 		6 11
+	filosofia-agir e pensar
+ 		1 12
+	filosofos 
+ 		1 9
+	final fantasy
+ 		2 12
+	finaplix
+ 		68 11
+	finaustria
+ 		55 12
+	fisica movimento
+ 		1 10
+	fisica vetores
+ 		1 12
+	fisiopatologia da esquistossomose
+ 		1 11
+	flagras
+ 		26 12
+	flagras amadoras
+ 		6 7
+	flagras de colegiais
+ 		1 12
+	flagras na academia 
+ 		2 11
+	flagras na praia
+ 		3 12
+	flagras praia
+ 		1 10
+	flamengo
+ 		141 12
+	flange em latao
+ 		1 11
+	flash
+ 		6 12
+	flavio
+ 		5 9
+	flavio com.br
+ 		2 12
+	flavio mendonca
+ 		19 11
+	flavio s buzios
+ 		4 12
+	flavio s com.br
+ 		4 10
+	flavio s p buzios
+ 		2 12
+	fliperama
+ 		24 11
+	flora
+ 		12 12
+	floresta amazonica
+ 		4 8
+	fluxograma montar
+ 		1 12
+	fm jovem pan
+ 		1 11
+	fmi malasia
+ 		2 12
+	fne
+ 		23 10
+	fnpq
+ 		11 12
+	fogo
+ 		16 11
+	fogosa
+ 		4 12
+	foi arrombada
+ 		1 9
+	fonoaudiologia
+ 		1 12
+	fonte de tensao
+ 		2 11
+	fontes de energia
+ 		14 12
+	fonts
+ 		4 10
+	footjob
+ 		17 12
+	ford contour
+ 		1 11
+	forma do verbo em ingles
+ 		2 12
+	formas de jejuar
+ 		4 5
+	format cpi
+ 		1 11
+	formatacao de hd
+ 		2 12
+	formatacao do hd
+ 		3 10
+	formato marc
+ 		3 12
+	formatos radiofonicos
+ 		1 11
+	formol
+ 		4 12
+	formulas indices contabeis
+ 		2 9
+	forno a gas
+ 		3 12
+	forum
+ 		39 11
+	fosforo
+ 		4 12
+	fosforo;planta
+ 		21 10
+	fotlog
+ 		3 12
+	foto corpo martinez
+ 		2 11
+	foto do cd do lacrimosa
+ 		2 12
+	foto gratis 
+ 		1 8
+	foto naturista
+ 		2 12
+	foto popeye
+ 		1 11
+	foto satelite
+ 		2 12
+	fotolog gabi
+ 		2 10
+	foton
+ 		35 12
+	fotos
+ 		155 11
+	fotos 
+ 		72 12
+	fotos   sabrina sato
+ 		20 9
+	fotos  gratis
+ 		1 12
+	fotos  praia 
+ 		4 11
+	fotos  sabrina sato
+ 		8 12
+	fotos  sandy
+ 		2 10
+	fotos  sandy e junior
+ 		2 12
+	fotos aguias
+ 		1 11
+	fotos amadoras
+ 		10 12
+	fotos aves
+ 		1 7
+	fotos babi 
+ 		14 12
+	fotos babi  
+ 		1 11
+	fotos bissexuais
+ 		1 12
+	fotos bizarras
+ 		3 10
+	fotos casal
+ 		1 12
+	fotos caseiras
+ 		9 11
+	fotos caseiras 
+ 		2 12
+	fotos caseiras amadoras brasileiras
+ 		5 9
+	fotos caseiras gratis
+ 		1 12
+	fotos caseiras mineiras
+ 		1 11
+	fotos chocantes da fome
+ 		5 12
+	fotos cicarelli 
+ 		2 10
+	fotos crimes
+ 		3 12
+	fotos da 
+ 		2 11
+	fotos da andrea sorvetao
+ 		1 12
+	fotos da chegada brasileiros em campo grande
+ 		1 8
+	fotos da esposa
+ 		1 12
+	fotos da esposa 
+ 		2 11
+	fotos da fome
+ 		2 12
+	fotos da manu 
+ 		1 10
+	fotos da regiao sudeste
+ 		4 12
+	fotos da revolucao de 1905
+ 		1 11
+	fotos da revolucao russa
+ 		7 12
+	fotos danielle winits
+ 		3 9
+	fotos danielle winits 
+ 		1 12
+	fotos de 
+ 		11 11
+	fotos de  gratis
+ 		2 12
+	fotos de avioes e aeroportos
+ 		2 10
+	fotos de bebadas
+ 		1 12
+	fotos de bebezinho
+ 		1 11
+	fotos de bundas
+ 		1 12
+	fotos de bundas gratis
+ 		8 6
+	fotos de capao bonito
+ 		2 12
+	fotos de clitoris grande
+ 		8 11
+	fotos de coroas
+ 		3 12
+	fotos de coroas s
+ 		1 10
+	fotos de crimes
+ 		1 12
+	fotos de homens nus
+ 		1 11
+	fotos de incesto
+ 		10 12
+	fotos de incesto pai e filha
+ 		8 9
+	fotos de lancamento de disco
+ 		1 12
+	fotos de pessoas mortas
+ 		2 11
+	fotos de pitt bull
+ 		2 12
+	fotos de planetas
+ 		2 10
+	fotos de s
+ 		5 12
+	fotos de satelite
+ 		9 11
+	fotos de seios pequenos
+ 		1 12
+	fotos de sequencias
+ 		8 8
+	fotos de trepada
+ 		4 12
+	fotos desinteria
+ 		1 11
+	fotos dinamarca
+ 		4 12
+	fotos diversas s
+ 		3 10
+	fotos do acidente de aviao
+ 		1 12
+	fotos do carro omega
+ 		1 11
+	fotos do filme velozes e furiosos
+ 		1 12
+	fotos do movimento tenentista de 1922
+ 		1 9
+	fotos ellen roche 
+ 		4 12
+	fotos eroticas
+ 		1 11
+	fotos garotas
+ 		1 12
+	fotos garotas do programa
+ 		1 10
+	fotos gay
+ 		7 12
+	fotos gratis 
+ 		10 11
+	fotos gratis de s
+ 		1 12
+	fotos gratis grupal 
+ 		1 7
+	fotos gratis zoofilia
+ 		1 12
+	fotos guerra iraque
+ 		4 11
+	fotos helen roche
+ 		6 12
+	fotos homens nus
+ 		4 10
+	fotos iml
+ 		1 12
+	fotos incesto
+ 		6 11
+	fotos incestos
+ 		4 12
+	fotos indias s
+ 		1 9
+	fotos kadett conversivel
+ 		2 12
+	fotos kelly key
+ 		214 11
+	fotos kelly key 
+ 		650 12
+	fotos kids
+ 		3 10
+	fotos locomotivas
+ 		7 12
+	fotos locomotivas trens
+ 		2 11
+	fotos locomotivas v8
+ 		1 12
+	fotos macabras
+ 		3 8
+	fotos maite proenca 
+ 		3 12
+	fotos mariana ximenez
+ 		1 11
+	fotos mascaras
+ 		1 12
+	fotos minas gerais
+ 		8 10
+	fotos minhas 
+ 		3 12
+	fotos miuxa
+ 		1 11
+	fotos mortos
+ 		2 12
+	fotos mostrando a calcinha
+ 		1 9
+	fotos moto r1
+ 		1 12
+	fotos mulheres 
+ 		1 11
+	fotos mulheres s
+ 		1 12
+	fotos mutley
+ 		4 10
+	fotos ninfetas
+ 		4 12
+	fotos orquideas
+ 		1 11
+	fotos pedofilia
+ 		3 12
+	fotos poluicao rio tiete
+ 		3 4
+	fotos punheta
+ 		1 11
+	fotos putas
+ 		1 12
+	fotos regiane alves 
+ 		3 10
+	fotos s
+ 		3 12
+	fotos sabrina bbb3 
+ 		1 11
+	fotos sabrina sato
+ 		4 12
+	fotos sabrina sato 
+ 		1 9
+	fotos sandy
+ 		2 12
+	fotos sandy e junior
+ 		2 11
+	fotos satelite
+ 		5 12
+	fotos solange frazao 
+ 		1 10
+	fotos suruba
+ 		1 12
+	fotos susana werner
+ 		1 11
+	fotos syang
+ 		7 12
+	fotos tatoo
+ 		3 8
+	fotos tatuagens
+ 		4 12
+	fotos tenia
+ 		1 11
+	fotos voyer
+ 		20 12
+	fotos yamaha r1
+ 		1 10
+	fotos zoofilia
+ 		4 12
+	fotos, imagens, figuras
+ 		9 11
+	fotos/taubate
+ 		5 12
+	fox
+ 		5 9
+	fraldas infantis
+ 		1 12
+	francisco sa
+ 		1 11
+	frase reflexivas
+ 		2 12
+	frases apaixonadas
+ 		1 10
+	frases de engenheiros
+ 		1 12
+	frases romanticas
+ 		3 11
+	fraude como vicio de consentimento
+ 		2 12
+	freddy 
+ 		1 7
+	free descompactador
+ 		1 12
+	free porn
+ 		1 11
+	freeway
+ 		1 12
+	frei gabriel
+ 		3 10
+	frei gabriel di melilla
+ 		1 12
+	frutas e suas vitaminas
+ 		1 11
+	frutas,verduras,legumes e cereais do vale do paraiba
+ 		1 12
+	fuel cell
+ 		5 9
+	fugas nas prisoes do amazonas
+ 		2 12
+	fui violentada
+ 		3 11
+	fujioka fotos
+ 		2 12
+	fumo
+ 		2 10
+	funcec
+ 		4 12
+	funcionamento do celular
+ 		1 11
+	funcionamento do celular atraves de onda
+ 		1 12
+	funcionamento do corpo humano 
+ 		1 8
+	funcionamento do corpo humano nos idosos
+ 		2 12
+	fundacao de  fatima tv 
+ 		1 11
+	fundacao nacional de saude
+ 		1 12
+	fundacao renascer
+ 		1 10
+	fundacao zerbine
+ 		1 12
+	fundos
+ 		1 11
+	furglaine
+ 		10 12
+	futnet
+ 		4 9
+	futsal regras
+ 		2 12
+	g12
+ 		11 11
+	gabarito
+ 		24 12
+	gabarito  correioweb do dia 07/10/2003
+ 		1 10
+	gabarito das forcas armadas campinas
+ 		1 12
+	gabaritos
+ 		7 11
+	gaiola de faraday
+ 		2 12
+	galaxie ltd fotos
+ 		2 6
+	galeria daniele winits
+ 		2 12
+	galeria de personagens 
+ 		1 11
+	galeria de pintura em minas
+ 		1 12
+	galeria gay
+ 		6 10
+	galeria gay gratis
+ 		1 12
+	galford 
+ 		2 11
+	galinhas
+ 		2 12
+	games
+ 		16 9
+	games de super nintendo room
+ 		3 12
+	games eroticos
+ 		2 11
+	games jogos
+ 		7 12
+	games on line
+ 		1 10
+	garagem de venda de carros
+ 		1 12
+	garganta profunda
+ 		1 11
+	garimpo
+ 		2 12
+	garota de programa sul de minas
+ 		2 8
+	garota zona sul
+ 		1 12
+	garotas de  programa brasileira 
+ 		1 11
+	garotas de programa gratis
+ 		1 12
+	garotas dreamcam
+ 		1 10
+	garotas guarulhos
+ 		2 12
+	garotas novas de  programa 
+ 		1 11
+	garotas paulo programa sao
+ 		1 12
+	garotas programa
+ 		1 9
+	gastrite
+ 		71 12
+	gatas e travecos
+ 		1 11
+	gatinha 
+ 		1 12
+	gay
+ 		3 10
+	gay 
+ 		1 12
+	gays e fotos gratis
+ 		1 11
+	gazetaesportiva
+ 		6 12
+	geek play 5.1
+ 		2 7
+	genetica medica 
+ 		3 12
+	gengivite
+ 		15 11
+	genius scanner
+ 		1 12
+	geoglifos
+ 		4 10
+	geografia da fome
+ 		1 12
+	geologia da pedra da lua
+ 		3 11
+	geosites
+ 		3 12
+	geosol
+ 		8 9
+	gerador de rg
+ 		1 12
+	gerente contas receber
+ 		1 11
+	gerente minuto
+ 		1 12
+	geriatria 
+ 		1 10
+	gerra do paraguai
+ 		1 12
+	gestao de configuracao de software
+ 		1 11
+	gestao em saude
+ 		4 12
+	gianni
+ 		124 8
+	gianni agnelli
+ 		4 12
+	gibran kalil gibran
+ 		4 11
+	gicle
+ 		7 12
+	gicle gol
+ 		2 10
+	gifs
+ 		32 12
+	gimp
+ 		6 11
+	ginastica olimpica
+ 		1 12
+	gir
+ 		8 9
+	giria desconhecida no brasil;
+ 		4 12
+	gisele tie 
+ 		1 11
+	gives de video
+ 		2 12
+	glaxo smithkline
+ 		2 10
+	glicogenio
+ 		4 12
+	global water
+ 		1 11
+	globalizacao
+ 		18 12
+	glossario medico
+ 		1 5
+	goiania
+ 		79 12
+	goiania ferro velho
+ 		1 11
+	goias 4 mortos acidente
+ 		1 12
+	gol
+ 		5 10
+	golden services
+ 		6 12
+	gorda
+ 		20 11
+	gorda 
+ 		3 12
+	gordas
+ 		63 9
+	gordinha
+ 		59 12
+	gordinhas
+ 		8 11
+	gostosa
+ 		32 12
+	gostosa na praia 
+ 		1 10
+	gostoso
+ 		1 12
+	gota
+ 		19 11
+	gotico
+ 		26 12
+	gougon
+ 		8 8
+	governadores  do amazonas
+ 		1 12
+	governanca corporativa
+ 		1 11
+	governo
+ 		783 12
+	gozadas
+ 		5 10
+	gozadas na boca
+ 		1 12
+	gozei na boca dele
+ 		2 11
+	gozo
+ 		25 12
+	grafia
+ 		26 9
+	grafia gay
+ 		1 12
+	grafica
+ 		11 11
+	grafico de ponto cruz gratis
+ 		2 12
+	grafite
+ 		1 10
+	grafologia
+ 		145 12
+	grafologia teste
+ 		1 11
+	gramatica de ingles - exercicios
+ 		9 12
+	granvia
+ 		2 7
+	gratis
+ 		47 12
+	gratis 
+ 		3 11
+	gratis  video
+ 		2 12
+	gratis  videos
+ 		3 10
+	gratis karaoke
+ 		29 12
+	gratis musica
+ 		2 11
+	gratis videos
+ 		1 12
+	gravacao de cd master 2004
+ 		1 9
+	gravacao de cd software
+ 		1 12
+	gravacao de cdrw
+ 		1 11
+	gravadora de dvd
+ 		5 12
+	gravar mais
+ 		2 10
+	gravar mais 700mb
+ 		1 12
+	grease nos tempos da brilhantina
+ 		1 11
+	greek play
+ 		3 12
+	grego athenas
+ 		1 8
+	grelo e foto
+ 		1 12
+	grelo e foto e 
+ 		1 11
+	grelos
+ 		12 12
+	greve cef
+ 		3 10
+	greve dos bancarios brasilia em outubro 2003
+ 		1 12
+	greve dos correios telegrafos segundo semestre de 2003
+ 		1 11
+	groelandia
+ 		80 12
+	grupal
+ 		2 9
+	grupos da belinda
+ 		3 12
+	grupos das algas
+ 		1 11
+	gruta rei do mato
+ 		2 12
+	gta 3
+ 		2 10
+	gta online
+ 		6 12
+	gta vice city
+ 		1 11
+	gta3
+ 		43 12
+	guarany manaus
+ 		1 6
+	guarapari
+ 		2 12
+	guaratuba bibliografia
+ 		1 11
+	guarda do embau
+ 		2 12
+	guerra de fronteiras
+ 		1 10
+	guerra do foxscript
+ 		1 12
+	guerra do pacifico
+ 		1 11
+	guerra do vietna
+ 		1 12
+	guerra imagens iraque
+ 		3 9
+	guerra iraque
+ 		2 12
+	guerra no iraque
+ 		1 11
+	guerrilha do araguaia
+ 		3 12
+	guga
+ 		6 10
+	guia de fertilidade do solo 
+ 		1 12
+	guia quatro rodas
+ 		1 11
+	guia rodoviario
+ 		1 12
+	guiarone
+ 		1 8
+	guias de ruas de belo horizonte
+ 		3 12
+	guilherme arantes
+ 		1 11
+	guimaraes rosa
+ 		6 12
+	guimares rosa
+ 		1 10
+	guirlandas
+ 		166 12
+	guriri
+ 		30 11
+	gustavo
+ 		20 12
+	gustavo tartuce
+ 		4 9
+	habeas corpus
+ 		2 12
+	habeas data
+ 		11 11
+	habilitacao corretor de imoveis - sc
+ 		1 12
+	habitacao minas gerais
+ 		1 10
+	hacker
+ 		13 12
+	hackers
+ 		99 11
+	half life,cheats
+ 		1 12
+	halliwick
+ 		20 7
+	halloween
+ 		125 12
+	haloween
+ 		22 11
+	hardcore
+ 		15 12
+	harry potter
+ 		2 10
+	harvest moon snes
+ 		3 12
+	hebreus - sociedade, politica , religiao, economia, artes
+ 		3 11
+	helder
+ 		1 12
+	hemodialise e tributacao
+ 		2 9
+	hemoglobinopatia d
+ 		3 12
+	hentai divx download
+ 		1 11
+	hernia cervical de disco
+ 		4 12
+	herpes genital
+ 		1 10
+	hidrojatos
+ 		37 12
+	hidroterapia
+ 		178 11
+	higiene dos alunos
+ 		1 12
+	higiene na escola
+ 		1 8
+	hillbilly
+ 		4 12
+	hino nacional brasileiro
+ 		1 11
+	hino nacional brasileiro letra
+ 		1 12
+	hinos gospel
+ 		1 10
+	hipertensao
+ 		4 12
+	hist
+ 		1 11
+	historia canjica
+ 		1 12
+	historia da batata
+ 		2 9
+	historia da canjica
+ 		1 12
+	historia da imigracao no brasil
+ 		6 11
+	historia da internet
+ 		2 12
+	historia da noruega
+ 		4 10
+	historia da pizza
+ 		6 12
+	historia do anatocismo
+ 		1 11
+	historia do panetone
+ 		1 12
+	historia do samba
+ 		4 1
+	historia do surf
+ 		5 11
+	historia do teatro
+ 		5 12
+	historia esportes idade media
+ 		1 10
+	historia geral claudio vicentino
+ 		2 12
+	historia ilustrada evangelicas
+ 		1 11
+	historia imigrantes
+ 		2 12
+	historia inglaterra
+ 		1 9
+	historia iraque
+ 		3 12
+	historia janeiro rio
+ 		1 11
+	historia matematica
+ 		1 12
+	historia meios transporte
+ 		2 10
+	historia nas series iniciais
+ 		1 12
+	historia olimpiadas
+ 		4 11
+	historia roma
+ 		2 12
+	historia teatro
+ 		2 8
+	historias de humildade
+ 		10 12
+	historias hentai
+ 		2 11
+	historias hentai manga
+ 		4 12
+	historico do colegio santa margarida
+ 		1 10
+	historiografia em psicologia infantil
+ 		1 12
+	home center construcao
+ 		3 11
+	home center materiais de construcao
+ 		2 12
+	homem nu
+ 		6 9
+	homem pelado
+ 		2 12
+	homem que vive em parada de onibus em sobradinho
+ 		1 11
+	homenagens aos professores
+ 		1 12
+	homens gays
+ 		1 10
+	homens nus
+ 		4 12
+	homens pelados
+ 		19 11
+	homer center construcao
+ 		1 12
+	honda
+ 		6 7
+	horario onibus paulo sao
+ 		1 12
+	horizontal 
+ 		1 11
+	horoscopo
+ 		90 12
+	hortalicas
+ 		1 10
+	hospital luxemburgo
+ 		1 12
+	hospital pace
+ 		1 11
+	hospital santa cecilia
+ 		2 12
+	hoteis
+ 		102 9
+	hoteis 5 estrela no brasil
+ 		2 12
+	hoteis afpesp 
+ 		1 11
+	hoteis em caldas novas
+ 		1 12
+	hoteis pousadas
+ 		2 10
+	hotel
+ 		3 12
+	hotel fazenda
+ 		1 11
+	hotel fazenda carandai
+ 		1 12
+	hotel fazenda em conselheiro lafaiete
+ 		1 8
+	hotel fazenda ipe amarelo
+ 		2 12
+	hotel praia do sol
+ 		2 11
+	hotel sagres
+ 		5 12
+	howto
+ 		2 10
+	http
+ 		12 12
+	http://igrejas em celulas
+ 		3 11
+	hugo afogamento
+ 		2 12
+	humberto maturana
+ 		2 9
+	humberto mauro
+ 		2 12
+	humbold
+ 		3 11
+	humboldt
+ 		62 12
+	humbolt
+ 		4 10
+	i say a little pray for you
+ 		1 12
+	ian holm
+ 		5 11
+	iatf
+ 		16 12
+	ibama
+ 		1 6
+	ibia
+ 		1 12
+	ibirapuera shopping
+ 		1 11
+	ibo
+ 		73 12
+	icb
+ 		6 10
+	icq portugues
+ 		1 12
+	idade media
+ 		1 11
+	idade media esportes
+ 		1 12
+	idade ossea para mao e punho
+ 		1 9
+	idade terceira
+ 		3 12
+	identidade corporativa
+ 		7 11
+	idoso
+ 		20 12
+	idoso na sociedade
+ 		1 10
+	iepha
+ 		12 12
+	igarape mg
+ 		6 11
+	igpm
+ 		24 12
+	igreja quadrangular
+ 		2 8
+	igrejas em celulas no modelo dos 12
+ 		10 12
+	ilha vix
+ 		1 11
+	ilha vix fotos
+ 		1 12
+	ilopolis
+ 		64 10
+	imagem satelite
+ 		1 12
+	imagens
+ 		5 11
+	imagens cinderela disney
+ 		5 12
+	imagens da argentina
+ 		1 9
+	imagens de fome no brasil
+ 		10 12
+	imagens de santos catolicos
+ 		3 11
+	imagens de tango
+ 		4 12
+	imagens no celular
+ 		7 10
+	imagens sereias
+ 		3 12
+	imersao a quente
+ 		1 11
+	imigrantes portugueses
+ 		1 12
+	imigrantes portugueses suas tradicoes
+ 		4 7
+	imissao de posse
+ 		3 12
+	immersion factory
+ 		1 11
+	imobiliaria mediterraneo
+ 		1 12
+	imobiliarias jundiai
+ 		1 10
+	impacto na sociedade informatica
+ 		1 12
+	impacto na sociedade tecnologia
+ 		1 11
+	impactos costa / bispo
+ 		3 12
+	imperialismo
+ 		22 9
+	imperialismo  e o socialismo revolucionario
+ 		1 12
+	imperialismo historia geral
+ 		1 11
+	imperialismo socialismo revolucionario
+ 		1 12
+	imperio serrano
+ 		1 10
+	importancia da comunicacao nas empresas
+ 		2 12
+	importancia do solo
+ 		1 11
+	importancia dos elementos npk
+ 		4 12
+	importancia dos mamiferos no meio ambiente
+ 		2 8
+	importancia fertilizantes
+ 		10 12
+	imposto de renda
+ 		1 11
+	imposto renda
+ 		1 12
+	impressionismo
+ 		29 10
+	impressora datamax
+ 		3 12
+	impressora epson lx 300
+ 		3 11
+	impressora etiqueta
+ 		16 12
+	impressora etiqueta termica
+ 		2 9
+	impressora termica
+ 		5 12
+	imunologia
+ 		11 11
+	incentivo estadual minas gerais
+ 		2 12
+	incesto
+ 		152 10
+	incestos 
+ 		1 12
+	incorporacao
+ 		29 11
+	incorporacao 
+ 		4 12
+	incorporacao e construcao
+ 		3 5
+	index     infantil     5.jpg
+ 		2 11
+	index   033.jpg
+ 		4 12
+	index   12/02   8.jpg
+ 		25 10
+	index   infantil  05.jpg
+ 		2 12
+	index  0006.jpg 
+ 		1 11
+	index of / boy galleries
+ 		1 12
+	index of /fat 06.jpg 
+ 		1 9
+	index of /older 06.jpg 
+ 		1 12
+	index of/ 5.jpg.htm
+ 		7 11
+	index of/ boy/9.jpg
+ 		2 12
+	indiana jones 4
+ 		2 10
+	indicador acido-base
+ 		1 12
+	indicadores digitais
+ 		1 11
+	indicadores digitais tensao
+ 		3 12
+	indice contabil
+ 		1 8
+	indice da materia de quimica do 2� colegial
+ 		3 12
+	indice pini construcao
+ 		8 11
+	indice sinduscon
+ 		1 12
+	indices contabeis
+ 		1 10
+	indices de pessoas obesas no brasil
+ 		2 12
+	indigenas nomes
+ 		1 11
+	indigenas nomes significado
+ 		2 12
+	indio brasileiro
+ 		1 9
+	indios
+ 		24 12
+	industria da seca
+ 		4 11
+	industria e comercio
+ 		29 12
+	industrias em sabara
+ 		6 10
+	infancia ze pequeno/dadinho 
+ 		2 12
+	inferiority
+ 		1 11
+	informatica
+ 		452 12
+	informatica lojas
+ 		14 7
+	informatica na educacao
+ 		1 12
+	ingles para secretarias belo horizonte
+ 		2 11
+	inmet
+ 		3 12
+	innovar
+ 		8 10
+	inocencia* resumo do livro
+ 		1 12
+	inquilinismo
+ 		25 11
+	inss
+ 		44 12
+	inss ilegal
+ 		3 9
+	instalacoes de rede logica
+ 		1 12
+	instituicoes financeiras publicas
+ 		1 11
+	instrucao normativa ibama
+ 		1 12
+	instrucao normativa n� 05/02
+ 		3 10
+	instrumentos musicais
+ 		3 12
+	insuficiencia renal aguda
+ 		1 11
+	intercambios brasileiros
+ 		1 12
+	intercambios com musicos
+ 		1 8
+	interinidade em ferias na clt
+ 		1 12
+	internet
+ 		1167 11
+	internet gratis
+ 		1 12
+	internet via satelite
+ 		3 10
+	interpam
+ 		32 12
+	interracial
+ 		2 11
+	intimidades caseiras
+ 		2 12
+	invadindo computadores
+ 		4 9
+	invasao
+ 		7 12
+	invasoes rurais manaus
+ 		1 11
+	ips dragon quest
+ 		1 12
+	ipva
+ 		19 10
+	iraque
+ 		1 12
+	iron maiden
+ 		9 11
+	irregularidades na comprovacao de suprimento de fundos
+ 		2 12
+	isabela lima
+ 		1 6
+	islamismo
+ 		4 12
+	iso/osi
+ 		11 11
+	italian internet
+ 		1 12
+	itapetininga
+ 		39 10
+	jack chan
+ 		4 12
+	jadsilva@ffclrp.usp.br
+ 		12 11
+	janeiro rio turismo
+ 		3 12
+	japonesas com seios pequenos
+ 		1 9
+	java script
+ 		1 12
+	javascript
+ 		29 11
+	jericoacara
+ 		41 12
+	jesus
+ 		25 10
+	jill kelly
+ 		2 12
+	jiu
+ 		6 11
+	joana prado 
+ 		4 12
+	joao alexandre
+ 		1 8
+	jogo
+ 		13 12
+	jogo do bicho
+ 		2 11
+	jogos
+ 		1406 12
+	jogos completos
+ 		1 10
+	jogos completos baralho
+ 		1 12
+	jogos de corrida
+ 		1 11
+	jogos eroticos
+ 		2 12
+	jogos eroticos downloads gratis
+ 		2 9
+	jogos mario
+ 		1 12
+	jogos pokemon
+ 		1 11
+	jogos teste sua paciencia
+ 		1 12
+	john ra
+ 		1 10
+	jornais
+ 		53 12
+	jornal
+ 		38 11
+	jornal hoje em dia
+ 		1 12
+	jose  e-mail
+ 		39 7
+	jose  email
+ 		72 12
+	jose  mail
+ 		2 11
+	jose candido de carvalho
+ 		4 12
+	jose carlos
+ 		2 10
+	jose carlos martinez
+ 		7 12
+	jose dion
+ 		1 11
+	jose lins do rego
+ 		4 12
+	jose maria de melo
+ 		14 9
+	jose mauro de vasconcelos
+ 		9 12
+	jose nicolau - ccb
+ 		3 11
+	jose nicolau ccb
+ 		3 12
+	joven pan fm
+ 		1 10
+	joven pan radio
+ 		1 12
+	jubileu papa em aparecida
+ 		1 11
+	jucemg
+ 		66 12
+	junta comercial minas gerais
+ 		3 8
+	jurandir fernandes
+ 		1 12
+	juras de amor
+ 		2 11
+	jurassic park
+ 		3 12
+	juri simulado
+ 		20 10
+	juridico
+ 		2 12
+	jus
+ 		3 11
+	juspositivismo moderno 
+ 		1 12
+	justica
+ 		4 9
+	justica federal
+ 		2 12
+	justica humana
+ 		2 11
+	justica retidao
+ 		1 12
+	kadett conversivel
+ 		4 10
+	kaerre
+ 		17 12
+	kafka
+ 		23 11
+	karnak
+ 		13 12
+	katas
+ 		3 4
+	katinguele
+ 		36 11
+	kazaa
+ 		45 12
+	kazaa   
+ 		1 10
+	kazaa em portugues
+ 		2 12
+	kazaa lite
+ 		1 11
+	kazaalite
+ 		6 12
+	kelly key 
+ 		40 9
+	kelly key  famosas
+ 		1 12
+	key 
+ 		1 11
+	kiau
+ 		5 12
+	kid abelha
+ 		1 10
+	killer instit
+ 		1 12
+	killer snes
+ 		2 11
+	kixiki
+ 		2 12
+	korn
+ 		24 8
+	kromberg
+ 		7 12
+	krupensky
+ 		70 11
+	kumar
+ 		925 12
+	kumar  e-mail
+ 		34 10
+	kumar  email
+ 		2 12
+	kumar  mail
+ 		109 11
+	kumar  mailto
+ 		116 12
+	l
+ 		5 9
+	la nina
+ 		2 12
+	la ni�a 
+ 		2 11
+	laboratorio
+ 		6 12
+	laboratorio de imunologia
+ 		1 10
+	lacrimosa brasil
+ 		1 12
+	laguna, sc
+ 		1 11
+	lakes steak
+ 		4 12
+	lancamento do natal sem /fome df
+ 		2 7
+	laser
+ 		1 12
+	laudas
+ 		8 11
+	laudas de acordao
+ 		2 12
+	laudas de acordaos
+ 		3 10
+	lavadora de roupas industrial
+ 		2 12
+	lavadora roupa industrial
+ 		1 11
+	layout de cheques
+ 		2 12
+	layouts
+ 		48 9
+	lazer
+ 		2890 12
+	lazer afpesp 
+ 		1 11
+	leao di ramos caiado neto
+ 		7 12
+	legislacao do compulsorio
+ 		1 10
+	lei 6404/76
+ 		1 12
+	lei 9.099/95
+ 		2 11
+	lei 9099
+ 		1 12
+	lei de ohm e resistividade
+ 		5 8
+	lei de organizacao judiciaria 
+ 		2 12
+	lei de responsabilidade fiscal
+ 		5 11
+	lei federal 1050
+ 		1 12
+	lei n� 8.112/90. 
+ 		1 10
+	lei n� 9437/97
+ 		3 12
+	lei organica da assistencia social
+ 		1 11
+	leis
+ 		3 12
+	leis constituinte
+ 		1 9
+	leis de kepler
+ 		7 12
+	leishimaniose
+ 		31 11
+	leonardo boechat medico diretor
+ 		1 12
+	leopardo
+ 		95 10
+	leroy merlin
+ 		2 12
+	lesbica
+ 		19 11
+	lesbicas
+ 		2 12
+	lesoes por armas de fogo
+ 		3 6
+	letra c em estilo gotico
+ 		5 12
+	letra de medico reportagem
+ 		3 11
+	letra de more than words
+ 		2 12
+	letra sem radar
+ 		1 10
+	letramento
+ 		74 12
+	letras
+ 		8 11
+	letras cifradas internacionais
+ 		1 12
+	letras de musicas de cazuza
+ 		1 9
+	letras musicas nacionais
+ 		2 12
+	leucemia
+ 		40 11
+	levefort
+ 		42 12
+	lg o  modo de servico 
+ 		7 10
+	lg o que significa o modo de servico 
+ 		14 12
+	libbs
+ 		2 11
+	libelula
+ 		65 12
+	licidas
+ 		1 8
+	licor
+ 		117 12
+	licores
+ 		114 11
+	ligacoes quimicas
+ 		5 12
+	limite e continuidade
+ 		7 10
+	limite;funcao;continuidade
+ 		44 12
+	limites derivadas aprenda
+ 		1 11
+	limites na educacao
+ 		2 12
+	lingas
+ 		114 9
+	lingerie fabricas
+ 		1 12
+	linguagem coloquial
+ 		2 11
+	liquidez seca
+ 		1 12
+	lista telefonica de porto alegre
+ 		7 10
+	literatura
+ 		3 12
+	literatura catarinense
+ 		13 11
+	literatura confessional
+ 		1 12
+	literatura de cordel
+ 		5 7
+	little girls
+ 		3 12
+	livia andrade
+ 		1 11
+	livia stabile
+ 		1 12
+	livraria juridica
+ 		3 10
+	livraria pedagogica
+ 		1 12
+	livrarias
+ 		1 11
+	livro de visita em sites de padre paraiso mg
+ 		2 12
+	livro de visita em sites de teofilo otoni mg
+ 		2 9
+	livro farewell
+ 		1 12
+	livro sociologia direito
+ 		1 11
+	livro sociologia miranda 
+ 		1 12
+	livros
+ 		4 10
+	livros download
+ 		2 12
+	livros downloads
+ 		3 11
+	livros juridicos
+ 		8 12
+	livros usados
+ 		1 8
+	lixo radiativo
+ 		9 12
+	locacao fantasias infantis
+ 		1 11
+	locais para eventos em brasilia
+ 		16 12
+	localizacao do porto de paranagua
+ 		1 10
+	localizacao planejamento industrial
+ 		2 12
+	logaritmo
+ 		1 11
+	logica matematica  em outras disciplinas
+ 		1 12
+	logos
+ 		17 9
+	loja ana but
+ 		1 12
+	loja de tintas - sao jose dos campos
+ 		6 11
+	lojas de cameras fotograficas 
+ 		1 12
+	lojas em alphaville sp
+ 		3 10
+	lojas polaroid
+ 		2 12
+	lojas strutura
+ 		3 11
+	lolitas
+ 		2 12
+	lombardi
+ 		5 5
+	lorraine faria
+ 		7 11
+	loteria do estado do para
+ 		1 12
+	loteria mineira
+ 		1 10
+	lotomania
+ 		6 12
+	love hina hentai
+ 		2 11
+	luciana braga
+ 		1 12
+	lucila jose de alencar
+ 		1 9
+	luciola   jose de alencar
+ 		1 12
+	lucky luke western
+ 		1 11
+	ludmila
+ 		24 12
+	luis fernando verissimo
+ 		3 10
+	luiz miguel
+ 		2 12
+	luiz otavio coutinho
+ 		1 11
+	luize altenhofen
+ 		3 12
+	luka toque celular
+ 		1 8
+	luziana lanna idiomas
+ 		1 12
+	maca
+ 		29 11
+	macacos
+ 		64 12
+	mackenze
+ 		3 10
+	maconaria
+ 		243 12
+	madagascar
+ 		20 11
+	made in china
+ 		1 12
+	madeirense
+ 		103 9
+	maduras
+ 		13 12
+	maduras mulheres
+ 		1 11
+	mae da noiva
+ 		1 12
+	mae te amo
+ 		1 10
+	mae, quando eu morrer venda meus bens
+ 		2 12
+	mago
+ 		24 11
+	maiby
+ 		17 12
+	mais de 10.000 produtos
+ 		4 7
+	maite  proenca
+ 		1 12
+	maite schneider
+ 		1 11
+	mal de alzhaimer
+ 		1 12
+	mal do winrar
+ 		2 10
+	mame fliperama
+ 		12 12
+	mamei todo leitinho
+ 		1 11
+	mamiferos
+ 		43 12
+	mamonas assassinas
+ 		1 9
+	mamonas assassinas acidente fotos
+ 		1 12
+	manaus 
+ 		1 11
+	manda chuva 
+ 		3 12
+	mandado de seguranca
+ 		1 10
+	mangas
+ 		10 12
+	mangas hentais
+ 		1 11
+	mangueira
+ 		29 12
+	mangueira flexivel
+ 		1 8
+	manhas para crash
+ 		2 12
+	manifestacao de interesse
+ 		1 11
+	mannesman
+ 		6 12
+	mansur
+ 		40 10
+	maos
+ 		20 12
+	mapa brasil
+ 		2 11
+	mapa da 2 guerra mundial
+ 		1 12
+	mapa da cidade de sao paulo
+ 		1 9
+	mapa geografico do canada
+ 		1 12
+	mapa tordesilhas tratado
+ 		1 11
+	mapas
+ 		6 12
+	mapas para cs
+ 		1 10
+	mapas rodoviarios teresopolis
+ 		3 12
+	mapeamento imagem satelite
+ 		1 11
+	maple
+ 		86 12
+	maple,geometry
+ 		7 6
+	maquinas termicas
+ 		6 12
+	marabraz
+ 		10 11
+	marafolia
+ 		23 12
+	marcelo fidalgo gapa df
+ 		1 10
+	marcelo idalgo
+ 		1 12
+	marcelo rossi
+ 		1 11
+	marcenaria
+ 		7 12
+	marcilio mendonca
+ 		1 9
+	maremoto
+ 		2 12
+	marfim
+ 		12 11
+	maria bonita cangaco
+ 		1 12
+	maria rita  fa clube elis
+ 		1 10
+	maria rita elis
+ 		11 12
+	maria rita elis fa
+ 		2 11
+	maria rita shows
+ 		1 12
+	mariana ximenez
+ 		9 8
+	marinha rs
+ 		5 12
+	marini
+ 		214 11
+	marketing de rede
+ 		1 12
+	marketing ecologico
+ 		1 10
+	marketing institucional
+ 		5 12
+	marketing meeting brasil
+ 		2 11
+	marketing na internet
+ 		1 12
+	marquesa de santos
+ 		2 9
+	martinez
+ 		19 12
+	mary alexandre
+ 		1 11
+	mascaras africanas
+ 		11 12
+	massa de pizza
+ 		5 10
+	massa pizza
+ 		1 12
+	mastologia
+ 		81 11
+	matematica
+ 		2 12
+	matematica ( pi )
+ 		2 7
+	materia de contabilidade bancaria
+ 		1 12
+	materiais construcao
+ 		5 11
+	material esportivo kinda
+ 		1 12
+	material hidraulico
+ 		1 10
+	mathcad
+ 		89 12
+	mathias
+ 		12 11
+	matrix
+ 		3 12
+	matrox drives
+ 		2 9
+	maximus se
+ 		2 12
+	maximus se estrela
+ 		3 11
+	maybe
+ 		6 12
+	maybi
+ 		11 10
+	ma�a�a�sica
+ 		24 12
+	mec
+ 		16 11
+	mecanica motor ap
+ 		1 12
+	media romita
+ 		1 8
+	medicina legal morte 
+ 		1 12
+	medida provisoria que desvalorizou o real
+ 		1 11
+	medidas de quadra de futebol
+ 		2 12
+	medidor venturi
+ 		1 10
+	mega resultado sena
+ 		4 12
+	meio ambiene
+ 		2 11
+	meireles
+ 		16 12
+	melada
+ 		8 9
+	melgama cartoes
+ 		2 12
+	memoria institucional
+ 		3 11
+	menage swing
+ 		1 12
+	meninos de ninguem
+ 		2 10
+	mensagem celestial
+ 		1 12
+	mensagem de felicidade
+ 		1 11
+	mensagem subliminar
+ 		1 12
+	mensagens
+ 		83 3
+	mensagens animadas para celular
+ 		3 11
+	mensagens de amor
+ 		1 12
+	mensagens de aniversario
+ 		26 10
+	mensagens dia do medico
+ 		5 12
+	mensagens dia dos medicos
+ 		2 11
+	mensagens do dia dos medicos
+ 		3 12
+	mensagens especiais
+ 		6 9
+	mensagens gestantes
+ 		1 12
+	mensagens natal
+ 		1 11
+	mensagens para celular
+ 		1 12
+	mensagens subliminares
+ 		1 10
+	mensagens virtuais
+ 		7 12
+	menudos
+ 		1 11
+	mercantilismo
+ 		9 12
+	mercilon
+ 		23 8
+	mesa turma da monica
+ 		1 12
+	messenger
+ 		6 11
+	mestrado 2004
+ 		3 12
+	mestrado em direito
+ 		2 10
+	mestrados em direito no estado do rio de janeiro
+ 		1 12
+	mestre armas
+ 		2 11
+	metabolismo do glicogenio
+ 		3 12
+	metal gear
+ 		1 9
+	metalinguistica
+ 		10 12
+	metalurgica duque
+ 		1 11
+	metamorfose
+ 		17 12
+	metas inflacionarias e a crise energetica
+ 		2 10
+	metodologia estrutura de projeto de pesquisa
+ 		1 12
+	meu amor
+ 		9 11
+	meu jardim
+ 		1 12
+	meu pai e meu amante
+ 		3 7
+	meu primeiro homem
+ 		2 12
+	michael jackson
+ 		1 11
+	michael smith
+ 		1 12
+	microclima
+ 		6 10
+	microclima/geografia
+ 		5 12
+	microclimas
+ 		1 11
+	microcontrolador z-80
+ 		1 12
+	microfiltragem 
+ 		1 9
+	microgeraes
+ 		6 12
+	mid gratis
+ 		3 11
+	midi meu ex amor amado batista
+ 		1 12
+	midia
+ 		37 10
+	midis  de  sertanejos
+ 		3 12
+	midis sem intervalos
+ 		1 11
+	miguel jose alves de oliveira junior recife pernambuco
+ 		5 12
+	mijando
+ 		9 8
+	milena campanelli
+ 		3 12
+	milene domingues
+ 		1 11
+	minas block concret
+ 		7 12
+	minas gerais
+ 		7 10
+	miner ufmg
+ 		1 12
+	mineracao rio do norte
+ 		8 11
+	minerais sais sao
+ 		1 12
+	mineral pedra da lua
+ 		3 9
+	mineralogia
+ 		8 12
+	miniaturas
+ 		60 11
+	ministerio das cidades
+ 		2 12
+	ministerio dos transportes
+ 		1 10
+	ministerio publico
+ 		7 12
+	ministerio publico origem
+ 		1 11
+	ministros
+ 		1 12
+	minuta para eleicao de diretor
+ 		1 6
+	miosite
+ 		2 12
+	mirante
+ 		10 11
+	mirante motel
+ 		1 12
+	mitologia greco romana
+ 		1 10
+	mitologia phenix
+ 		1 12
+	mitologia romana
+ 		3 11
+	mitra diocesana de luz
+ 		10 12
+	mk1
+ 		182 9
+	moda feminina
+ 		1 12
+	moda gestante
+ 		24 11
+	modelo assassinada em bh
+ 		1 12
+	modelo de  cheques
+ 		2 10
+	modelo de agravo de instrumento
+ 		2 12
+	modelo de alegacao final a respeito de acao de cobranca
+ 		1 11
+	modelo de apelacao civel
+ 		3 12
+	modelo de atividade para o professor da educacao infantil
+ 		2 8
+	modelo de layout de cheque
+ 		1 12
+	modelo de layout de folha de cheque
+ 		2 11
+	modelo de layout folha de cheque
+ 		2 12
+	modelo de organograma
+ 		2 10
+	modelo de peticao
+ 		1 12
+	modelo de vestido
+ 		7 11
+	modelo tres camadas
+ 		1 12
+	modelos de apelacoes
+ 		2 9
+	modelos de bones
+ 		1 12
+	modelos de convenio
+ 		2 11
+	modelos de layout de cheques
+ 		7 12
+	modelos de pecas processuais
+ 		2 10
+	modelos de peticoes
+ 		7 12
+	modelos de vestido
+ 		7 11
+	modelos de vestidos
+ 		5 12
+	modelos famosas s
+ 		1 7
+	modelos on line de convites de casamento
+ 		4 12
+	modem thomson usb 
+ 		1 11
+	modo de viver do homem
+ 		18 12
+	modo de viver humano
+ 		22 10
+	modo do homem viver
+ 		16 12
+	molduras
+ 		16 11
+	molduras de aluminio
+ 		4 12
+	molho do acaraje
+ 		2 9
+	monique evans 
+ 		5 12
+	monografia
+ 		36 11
+	monografia arte informatica
+ 		2 12
+	monografia ensino da lingua estrangeira
+ 		2 10
+	monografia matematica
+ 		2 12
+	monografias
+ 		4 11
+	monografias consultoria
+ 		3 12
+	montadoras de carros brasil
+ 		1 8
+	montar academia  ginastica casa
+ 		7 12
+	montar uma borracharia
+ 		1 11
+	mora - direito civil
+ 		1 12
+	morais vinicius
+ 		1 10
+	moranguinho festa infantil
+ 		1 12
+	morenas
+ 		6 11
+	moreninha tesuda
+ 		1 12
+	morfologia de rocha lima
+ 		1 9
+	morris pimenta e souza
+ 		1 12
+	morte martinez
+ 		1 11
+	mortes
+ 		3 12
+	mortica
+ 		32 10
+	mortica   fantasia
+ 		1 12
+	mosaicos do brasil
+ 		1 11
+	mostrando a calcinha
+ 		4 12
+	moteis
+ 		21 5
+	moteis em natal
+ 		1 11
+	motel dallas e caribe
+ 		2 12
+	motel em belo horizonte
+ 		3 10
+	motomix
+ 		8 12
+	motor 4 tempos
+ 		1 11
+	motor ap
+ 		3 12
+	motor dicas
+ 		1 9
+	motores furtados
+ 		4 12
+	motorola producao celulares 2002
+ 		8 11
+	motos
+ 		116 12
+	motos kasinski
+ 		2 10
+	moveis
+ 		142 12
+	moveis para escritorio
+ 		2 11
+	moveis para salao
+ 		3 12
+	movimento dos trabalhadores rurais
+ 		4 8
+	movimento sem terra
+ 		1 12
+	movimentos operarios inglaterra
+ 		2 11
+	mozer tecnologia
+ 		2 12
+	mp3
+ 		18 10
+	mp3 musicas
+ 		2 12
+	mpeg1 video
+ 		1 11
+	msn da belinda 
+ 		3 12
+	mst
+ 		156 9
+	mudancas fisicas envelhecimento
+ 		4 12
+	mudancas fisicas idade terceira
+ 		36 11
+	mulher 
+ 		2 12
+	mulher famosas s
+ 		1 10
+	mulher samaritana estudo
+ 		6 12
+	mulheres de calcinha na tv
+ 		1 11
+	mulheres exibicionistas
+ 		1 12
+	mulheres famosas s
+ 		1 7
+	mulheres s
+ 		7 12
+	mulheres ucranianas da ucrania
+ 		1 11
+	multarte
+ 		28 12
+	multas
+ 		67 10
+	multas ciretran  de diadema
+ 		3 12
+	multimaq
+ 		9 11
+	multiplexacao
+ 		16 12
+	municipio de alhandra
+ 		7 9
+	municipios amazonas
+ 		2 12
+	municipios mg
+ 		1 11
+	municipios mineiros
+ 		1 12
+	murata
+ 		28 10
+	muriae
+ 		3 12
+	museu de arte moderna
+ 		1 11
+	museus da espanha
+ 		1 12
+	music hall
+ 		1 8
+	musica
+ 		13 12
+	musica brasil- cazuza
+ 		2 11
+	musica gratis
+ 		3 12
+	musica instrumental contemporanea
+ 		2 10
+	musica popular brasileira
+ 		2 12
+	musica romantica
+ 		1 11
+	musica sobre liberdade
+ 		1 12
+	musica sobre o vietna
+ 		2 9
+	musicas
+ 		110 12
+	musicas antiga
+ 		1 11
+	musicas catolicas ouvir
+ 		1 12
+	musicas de violao
+ 		1 10
+	musicas do filme uma linda mulher
+ 		1 12
+	musicas italianas
+ 		1 11
+	musicas na web
+ 		1 12
+	musicas para dowload  
+ 		1 6
+	musicas zeze di camargo
+ 		2 12
+	muvi
+ 		21 11
+	mï¿½sica
+ 		15 12
+	na regiao do vale do paraiba, taubate,tremembe e sao jose dos campos
+ 		1 10
+	nacionalidade 
+ 		15 12
+	nado crawl
+ 		1 11
+	nafaixa
+ 		19 12
+	narcotrafico
+ 		16 9
+	nascimento das fabricas
+ 		2 12
+	natal sem fome
+ 		1 11
+	naturismo
+ 		12 12
+	nave espacial
+ 		1 10
+	nave espacial foto
+ 		1 12
+	navios naufragados
+ 		3 11
+	nbr- 14.280 cadastro de acidentes
+ 		1 12
+	necessidade-liberdade
+ 		46 8
+	need for speed 4 opala
+ 		1 12
+	negra gostosinha
+ 		2 11
+	negras gratis
+ 		6 12
+	negras memorias
+ 		1 10
+	net tv
+ 		1 12
+	new year s day in eua
+ 		1 11
+	newton paiva
+ 		1 12
+	nicolau ccb
+ 		3 9
+	nike shox
+ 		3 12
+	nim no brasil
+ 		1 11
+	nina aline ufmg
+ 		1 12
+	ninfetas
+ 		107 10
+	ninfetinhas
+ 		4 12
+	nipples
+ 		2 11
+	nirvana
+ 		5 12
+	no tempo dos dinossauros...
+ 		2 7
+	noite em bh
+ 		1 12
+	noivas
+ 		2 11
+	nokia 5125 codigo
+ 		3 12
+	nokia free ringtones
+ 		1 10
+	nome de gatos
+ 		5 12
+	nomes significados
+ 		1 11
+	nonno
+ 		256 12
+	nordeste brasileiro
+ 		27 9
+	nordeste do brasil
+ 		1 12
+	norte regiao
+ 		1 11
+	norton corporate crack
+ 		1 12
+	nossa senhora perpetua socorro
+ 		1 10
+	noticias de projetos de educacao outubro 2003
+ 		5 12
+	noticias sobre bingos
+ 		1 11
+	notificacao de varicela em 2003
+ 		2 12
+	nova gia
+ 		7 8
+	nova gia 710
+ 		1 12
+	nova york
+ 		1 11
+	novela celebridade
+ 		1 12
+	novidades em saloes de beleza
+ 		1 10
+	novo mercado de trabalho
+ 		4 12
+	novo mercado de trabalho no brasil
+ 		2 11
+	novo remedio para herpes
+ 		3 12
+	nr-10
+ 		20 9
+	nubia
+ 		28 12
+	nude celeb
+ 		3 11
+	nudes carnaval
+ 		3 12
+	null
+ 		84 10
+	numeros ordinais matematica
+ 		16 12
+	nus sungas
+ 		2 11
+	nutricao
+ 		54 12
+	nutricao dos anfibios
+ 		3 4
+	o brasil e a alca
+ 		2 11
+	o caso dos exploradores de cavernas
+ 		3 12
+	o coronel e o lobisomem 
+ 		2 10
+	o cortico
+ 		1 12
+	o dia das bruxas
+ 		26 11
+	o filme garganta profunda
+ 		1 12
+	o holocausto foi um periodo obsceno na historia da
+ 		2 9
+	o homem como ser social
+ 		4 12
+	o iluminismo
+ 		4 11
+	o impacto da tecnologia da informacao na sociedade
+ 		1 12
+	o marfim animal
+ 		1 10
+	o mercado de joias
+ 		1 12
+	o naufrago
+ 		2 11
+	o papel do professor
+ 		2 12
+	o papel do professor de lingua portuguesa
+ 		2 8
+	o papel do professor de portugues
+ 		3 12
+	o pecado  dos papas
+ 		3 11
+	o pequeno principe
+ 		3 12
+	o povo brasileiro: quem somos
+ 		2 10
+	o processo de comunicacao
+ 		8 12
+	o professor de lingua portuguesa
+ 		1 11
+	o que e automacao comercial
+ 		2 12
+	o que e automacao comercial?
+ 		12 9
+	o que e biodiversidade
+ 		1 12
+	o que e comunicacao empresarial
+ 		5 11
+	o que e dados geograficos
+ 		6 12
+	o que e educacao fisica
+ 		1 10
+	o que e esquizofrenia
+ 		1 12
+	o que e fonoaudiologia?
+ 		2 11
+	o que e globalizacao
+ 		6 12
+	o que e hyperlink
+ 		1 7
+	o que e justica
+ 		1 12
+	o que e justica humana
+ 		5 11
+	o que e qualidade?
+ 		1 12
+	o que e saneamento basico
+ 		1 10
+	o que e tecido conjuntivo
+ 		1 12
+	o que e terceiro setor
+ 		2 11
+	o que e verdade
+ 		9 12
+	o que o brincar oferece
+ 		2 9
+	o que os educadores devem fazer diante dos impactos que as tecnologias provocam em nosso cotidiano
+ 		1 12
+	o que retidao
+ 		4 11
+	o que vida correta
+ 		8 12
+	o sagrado e o profano
+ 		5 10
+	o sol da meia noite na noruega
+ 		1 12
+	o solo
+ 		3 11
+	o terceiro olho
+ 		1 12
+	oab
+ 		8 8
+	obesidade
+ 		6 12
+	obesonom
+ 		17 11
+	oboe
+ 		73 12
+	obtu�rio
+ 		1 10
+	ocr download
+ 		2 12
+	odontologia na historia da saude publica
+ 		2 11
+	office blanc
+ 		4 12
+	office no linux
+ 		1 9
+	oficial cassia eller
+ 		1 12
+	oi
+ 		24 11
+	oi.com.br
+ 		7 12
+	oleo caju
+ 		6 10
+	olhando a vizinha 
+ 		2 12
+	olhos
+ 		9 11
+	olympus cameras digitais
+ 		1 12
+	omestre
+ 		99 6
+	ongs
+ 		13 12
+	onu
+ 		35 11
+	opep
+ 		4 12
+	operacoes de credito
+ 		1 10
+	operadores programacao c
+ 		1 12
+	oracao
+ 		15 11
+	oracoes
+ 		1 12
+	orcamento empresarial
+ 		12 9
+	orcamentos
+ 		1 12
+	orcamentos automobilisticos
+ 		2 11
+	ordem cronologica das universidades no brasil
+ 		1 12
+	ordenamento territorial do distrito federal
+ 		3 10
+	organiza financeiro empresa
+ 		1 12
+	organizacao dos estados americanos
+ 		1 11
+	organizacao estado nacional moderno
+ 		7 12
+	organizacao internacional do trabalho 
+ 		2 8
+	organizacao sindical no brasil 
+ 		2 12
+	organizacoes sociais
+ 		3 11
+	organizar arquivo
+ 		3 12
+	organograma
+ 		31 10
+	orgaos do sentido
+ 		2 12
+	origem da vida no planeta
+ 		17 11
+	origem de nomes
+ 		2 12
+	origem mitologia de roma
+ 		1 9
+	origem teatro
+ 		1 12
+	origem vida
+ 		1 11
+	orixas
+ 		13 12
+	orixas cantigas
+ 		7 10
+	ornitologia
+ 		24 12
+	orquidea
+ 		68 11
+	ortografia
+ 		8 12
+	os bruzundangas
+ 		1 7
+	os feriados dos eua
+ 		1 12
+	osca
+ 		26 11
+	oscar pereira da silvia 
+ 		1 12
+	oscar pereira da silvia surdo mudo
+ 		1 10
+	otdr
+ 		47 12
+	otica
+ 		33 11
+	oticas
+ 		7 12
+	oticas belo horizonte
+ 		3 9
+	ougon densetsu
+ 		1 12
+	ouija
+ 		33 11
+	outros ares
+ 		1 12
+	outsourcing no scm
+ 		4 10
+	ovo perfeito poedeiras
+ 		1 12
+	ox
+ 		23 11
+	pablo novo codigo civil
+ 		1 12
+	pacal
+ 		13 8
+	pai cipriano
+ 		2 12
+	pais canada
+ 		3 11
+	pais noruega
+ 		1 12
+	pais subdesenvolvido canada
+ 		3 10
+	pais subdesenvolvido noruega
+ 		3 12
+	paisagem de rubim minas gerais
+ 		1 11
+	paisagens
+ 		2 12
+	paisagens do vale do jequitinhonha
+ 		1 9
+	paises baixos  holanda
+ 		3 12
+	paiva-santos
+ 		3 11
+	palio
+ 		1 12
+	palio adventure x palio wekend
+ 		1 10
+	palm
+ 		15 12
+	pampulha
+ 		43 11
+	pandorga
+ 		5 12
+	papagaio
+ 		14 5
+	papeis beth shalon
+ 		1 12
+	papeis de parede
+ 		4 11
+	papeis de parede  biblicos
+ 		2 12
+	papel de parede
+ 		4 10
+	papel de parede cruzeiro
+ 		2 12
+	papel de parede do puff
+ 		1 11
+	papel de parede do slipknot
+ 		1 12
+	papel de parede fogo
+ 		6 9
+	papel de parede jesus cristo
+ 		9 12
+	papel de paredes evangelico
+ 		1 11
+	papel mache
+ 		4 12
+	papel parede bossa nova
+ 		2 10
+	papel receita reciclado
+ 		1 12
+	papiloma virus humano tratamento
+ 		2 11
+	papilon
+ 		18 12
+	paquimetro mitutoyo, 
+ 		4 8
+	para colorir
+ 		6 12
+	para saber se meu nome esta no spc para nao associados
+ 		1 11
+	parada cardiaca
+ 		4 12
+	parafusos
+ 		9 10
+	paraty rj
+ 		11 12
+	parazzi
+ 		10 11
+	parecer notoria especializacao advogado
+ 		6 12
+	parque estadual do caraca
+ 		1 9
+	parque estadual do rio preto
+ 		1 12
+	parque nacional do caraca
+ 		3 11
+	partido progressista
+ 		1 12
+	parto humanizado
+ 		1 10
+	passaro da ilha fm
+ 		3 12
+	passaro tucano
+ 		1 11
+	passaros
+ 		70 12
+	passaros amazonia
+ 		2 7
+	passo a  passo de max payne
+ 		4 12
+	passo a passo rede domestica
+ 		1 11
+	patologia
+ 		27 12
+	patrocinio
+ 		14 10
+	paul sorvino
+ 		1 12
+	paula candido
+ 		1 11
+	paula orsini
+ 		1 12
+	paula orsini-fotos
+ 		1 9
+	paulo cezar mauro
+ 		3 12
+	paulo duboc
+ 		1 11
+	paulo pestana
+ 		1 12
+	paulo ramos
+ 		10 10
+	pca
+ 		2 12
+	pcn historia 
+ 		1 11
+	pdf dexe no banco de dados sql campo binario
+ 		1 12
+	pdf exe no banco de dados sql campo binario
+ 		1 8
+	pdf mexe no banco de dados sql campo binario
+ 		1 12
+	pearl harbor guerra
+ 		2 11
+	pecas puma
+ 		1 12
+	pecas teatrais existentes em brasilia
+ 		1 10
+	pedacinho do ceu
+ 		2 12
+	pedagogia
+ 		3 11
+	pedagogia reichiana
+ 		2 12
+	pede fine
+ 		1 9
+	pedofilia
+ 		1 12
+	pedra da lua
+ 		6 11
+	pedro elias
+ 		2 12
+	peer to peer
+ 		5 10
+	pegadinhas do mucao
+ 		4 12
+	peito
+ 		21 11
+	peitos
+ 		14 12
+	peitudas
+ 		3 6
+	peixe
+ 		1 12
+	peixe perua
+ 		1 11
+	peixe tubarao
+ 		1 12
+	peixes
+ 		10 10
+	pelado
+ 		10 12
+	pena de morte
+ 		1 11
+	penas alternativas
+ 		1 12
+	pensamento medieval
+ 		1 9
+	pensamentos
+ 		15 12
+	pensamentos diversos
+ 		3 11
+	pequenas empresas e grandes negocios
+ 		1 12
+	perdas e aquisicoes na velhice
+ 		1 10
+	perder barriga
+ 		3 12
+	perfil de beleza na sociedade
+ 		2 11
+	perfil do profissional do presente
+ 		3 12
+	perguntas corno
+ 		5 8
+	personagens livro dama camelias
+ 		4 12
+	pesquisa qualitativa e quantitativa
+ 		1 11
+	pesquisa qualitativa e quantitativa textos
+ 		1 12
+	pesquisa*academica*previdencia*social
+ 		33 10
+	pesquisas
+ 		51 12
+	pessoas beneficiadas pela alca
+ 		1 11
+	pessoas feias
+ 		1 12
+	peter cetera
+ 		1 9
+	peticao de agravo de instrumento
+ 		3 12
+	peticao de revisao de iptu
+ 		6 11
+	peticao impugnacao valor da causa
+ 		2 12
+	peticoes
+ 		131 10
+	pgj-mg
+ 		19 12
+	photoshop 7.0
+ 		2 11
+	phs
+ 		23 12
+	piada video
+ 		2 7
+	piaget
+ 		6 12
+	piaui exportador mao de obra escrava
+ 		1 11
+	piede fine
+ 		2 12
+	piero sraffa
+ 		2 10
+	pimenta
+ 		25 12
+	pinball
+ 		24 11
+	pinoquio
+ 		1 12
+	pintura
+ 		19 9
+	pintura a oleo bh
+ 		3 12
+	pipa
+ 		31 11
+	piramides
+ 		15 12
+	piratininga aluguel rj
+ 		3 10
+	piratininga casa rj
+ 		2 12
+	piratininga casas rj
+ 		1 11
+	pirenopolis
+ 		124 12
+	pistolao
+ 		8 8
+	pitagoras
+ 		8 12
+	pizzaria
+ 		64 11
+	placa mae msi
+ 		2 12
+	placa tectonica sul americana
+ 		1 10
+	planejamento de criacao   o que e?
+ 		2 12
+	planejamento e comercializacao
+ 		1 11
+	plano cruzado
+ 		1 12
+	plano estrategico
+ 		7 9
+	playstation
+ 		36 12
+	pma-5
+ 		1 11
+	pmmg
+ 		12 12
+	poema de aniversario
+ 		1 10
+	poemas
+ 		11 12
+	poemas amor
+ 		1 11
+	poemas amor 
+ 		1 12
+	poesia de crianca
+ 		1 2
+	poesias
+ 		35 11
+	poesias romanticas
+ 		1 12
+	pokemon crystal
+ 		4 10
+	pokemon crystal em portugues
+ 		2 12
+	pokemon gold
+ 		1 11
+	pokemon rom ruby
+ 		1 12
+	pokemon ruby
+ 		7 9
+	polaco
+ 		5 12
+	policia
+ 		83 11
+	policia de brasilia
+ 		1 12
+	policia de minas
+ 		8 10
+	policia rodoviaria de minas gerais
+ 		1 12
+	polishop
+ 		19 11
+	politica de atendimento
+ 		1 12
+	politica monetaria
+ 		1 8
+	politicas internas das empresas
+ 		6 12
+	politicas internas dos profissionais ford
+ 		5 11
+	poluicao
+ 		27 12
+	poluicao do ar
+ 		1 10
+	poluicao na europa
+ 		1 12
+	ponte rlc
+ 		1 11
+	pontos turistico japao
+ 		9 12
+	pontos turisticos de buenos aires
+ 		5 9
+	popozuda
+ 		32 12
+	popozudas
+ 		60 11
+	popstars
+ 		1 12
+	populacao idosa
+ 		7 10
+	populacao idosa no brasil
+ 		1 12
+	populacao negra
+ 		5 11
+	populacao rural de minas de gerais
+ 		1 12
+	por que a alca foi criada
+ 		1 7
+	portal do cooperativismo
+ 		1 12
+	portal oi
+ 		1 11
+	portaria 1469
+ 		1 12
+	portaria 36
+ 		2 10
+	portaria cat  75/99
+ 		5 12
+	portaria cat de sao paulo 75/99
+ 		4 11
+	portaria mpog 42/99
+ 		1 12
+	portaria n� 417
+ 		2 9
+	portas de madeira
+ 		2 12
+	porto seguro
+ 		3 11
+	porto trombetas
+ 		1 12
+	portoes automaticos
+ 		4 10
+	portugues
+ 		15 12
+	portugues e gramatica
+ 		6 11
+	pos-fordismo
+ 		9 12
+	pos-graduacao
+ 		8 8
+	posicionamento dos jogadores no basquetebol
+ 		2 12
+	postura do antropologo
+ 		1 11
+	postura enquanto educadores diante das ideologias
+ 		2 12
+	pousada (aroso)
+ 		1 10
+	pousada campinas
+ 		2 12
+	pousada carimbe
+ 		1 11
+	pousada caroebe
+ 		1 12
+	pousada pedra azul
+ 		14 9
+	pousada rural recanto das cachoeiras
+ 		5 12
+	pouso alegre
+ 		5 11
+	povos indigenas que viviam na amazonia
+ 		1 12
+	ppg script 
+ 		1 10
+	praca coronel pedro osorio
+ 		1 12
+	praca maua
+ 		1 11
+	praianetguia
+ 		59 12
+	praias
+ 		6 6
+	pratica interposicao  de correicao parcial
+ 		13 12
+	pre-projeto
+ 		9 11
+	pre-projeto para mestrado
+ 		1 12
+	pre-projeto todobr
+ 		1 10
+	precatorias mineiras
+ 		1 12
+	preces umbandistas
+ 		2 11
+	preciso de ti
+ 		1 12
+	preco de inversores
+ 		3 9
+	precos das lampadas fluorescentes
+ 		1 12
+	precos das lampadas fluorescentes compactas
+ 		1 11
+	prefeitura de belo horizonte
+ 		5 12
+	prefeitura de valparaiso
+ 		5 10
+	prefeituramunicipal
+ 		6 12
+	prescricao de nota promissoria
+ 		7 11
+	preservacao das  bacias hidrograficas
+ 		2 12
+	preservacao e conservacao ambiental
+ 		2 8
+	previdencia social
+ 		2 12
+	previsao de venda
+ 		2 11
+	primeira revolucao industrial
+ 		1 12
+	primeira universidade brasileira
+ 		1 10
+	primeiro orgasmo
+ 		1 12
+	principais cidades de israel
+ 		1 11
+	principais fontes de riqueza do brasil
+ 		1 12
+	principais obras gianfrancesco guarnieri
+ 		1 9
+	principio constitucional da seletividade do ipi
+ 		2 12
+	privatizacao no setor de transportes
+ 		1 11
+	prive  gratis
+ 		1 12
+	procedimentos cirurgia catarata - sus
+ 		2 10
+	producao agricola mundial
+ 		2 12
+	producao de leucocitos
+ 		1 11
+	produto limpeza automoveis
+ 		1 12
+	produto limpeza para automoveis 
+ 		3 7
+	professor letras unb luziania
+ 		1 12
+	professor unb
+ 		1 11
+	professor unb encontrado morto
+ 		1 12
+	programa de auditoria
+ 		1 10
+	programa de auditoria 
+ 		4 12
+	programa de conservacao auditiva
+ 		10 11
+	programa envio email massa
+ 		2 12
+	programa hacker que le reservado
+ 		1 9
+	programa ms-dos 
+ 		1 12
+	programacao
+ 		14 11
+	programacao impropria para criancas
+ 		1 12
+	projeto de pesquisa crescimento saude suplementar para idoso
+ 		2 10
+	projeto de pesquisa sobre obesidade
+ 		1 12
+	projeto do vereador
+ 		5 11
+	projeto pedagogico com fabulas
+ 		10 12
+	projeto tamar
+ 		2 8
+	projetos gratis
+ 		1 12
+	pronunciamento de aecio neves sobre convocacao de 45000 professores estaduais
+ 		1 11
+	propaganda
+ 		1 12
+	prostitutas
+ 		83 10
+	protecao das maos no trabalho
+ 		10 12
+	proteger pasta
+ 		1 11
+	proteste
+ 		2 12
+	prova anteriores da policia civil de minas gerais
+ 		2 9
+	prova de atualidades
+ 		1 12
+	provas residencia medica
+ 		2 11
+	provas unipac
+ 		1 12
+	psicologia
+ 		3 10
+	psicologia e producao
+ 		1 12
+	psicologia no trabalho
+ 		1 11
+	psicometria
+ 		53 12
+	psicomotricidade
+ 		42 5
+	psicopedagogia reichiana
+ 		3 11
+	psicossomatico
+ 		128 12
+	psicossomaticos
+ 		95 10
+	puc minas gerais
+ 		1 12
+	pulseiras de neon
+ 		1 11
+	pulseiras de neon 
+ 		5 12
+	pulseiras de neon em belo horizonte
+ 		1 9
+	pure drive
+ 		1 12
+	pure hemp
+ 		5 11
+	puta
+ 		41 12
+	putaloca
+ 		5 10
+	putaria
+ 		16 12
+	putas
+ 		160 11
+	putas de brasilia
+ 		1 12
+	qos
+ 		58 8
+	quadra de futebol
+ 		1 12
+	quadrangular
+ 		30 11
+	quadrilatero ferrifero
+ 		11 12
+	quadrinhos erotico
+ 		2 10
+	quadrinhos eroticos
+ 		11 12
+	quadrinhos hentai
+ 		1 11
+	quais os beneficio da danca para a saude
+ 		2 12
+	quais os povos indigenas da amazonia
+ 		1 9
+	qual a materia prima utilizada para a fabricacao do papel reciclado
+ 		1 12
+	qual a natureza do homem
+ 		4 11
+	qual a origem da teoria comportamental e seus principais representantes 
+ 		2 12
+	qual o objetivo do fgts
+ 		3 10
+	qual o papel do setor publico no poder municipal 
+ 		4 12
+	qual o papel do setor publico no poder municipal? 
+ 		18 11
+	qual o site oficial do marilia atletico clube
+ 		3 12
+	qual o site oficial do marilia futebol clube
+ 		1 7
+	qualidade de atendimento
+ 		1 12
+	qualidade do ovo
+ 		1 11
+	qualidade vida no trabalho
+ 		7 12
+	quando aparecem as manchas na gravidez
+ 		1 10
+	quando belo horizonte ficou habitada
+ 		1 12
+	quatro tigres asiaticos
+ 		1 11
+	que e ver
+ 		1 12
+	quebrar senha
+ 		1 9
+	queimadas
+ 		18 12
+	queimar as 
+ 		1 11
+	quem e o homem
+ 		4 12
+	quem sao os brasileiros?
+ 		2 10
+	questionario corno
+ 		1 12
+	questoes de provas de economia
+ 		19 11
+	questoes de vestibulares
+ 		3 12
+	quimica
+ 		67 8
+	quimica (catalisadores)
+ 		1 12
+	quimica ensina
+ 		1 11
+	quimica enzima
+ 		4 12
+	quimica materia do 2� colegial
+ 		1 10
+	quimica vestibular
+ 		5 12
+	quimica: niveis e subniveis de energia
+ 		1 11
+	quintiere
+ 		3 12
+	quintieri
+ 		5 9
+	ra metamorfose
+ 		1 12
+	rabudas
+ 		3 11
+	rachel welch
+ 		1 12
+	racismo
+ 		84 10
+	racismo nos estados unidos
+ 		3 12
+	radex
+ 		7 11
+	radiestesia
+ 		9 12
+	radio jovem pam fm
+ 		3 6
+	radiolarios
+ 		13 12
+	radiologia industrial
+ 		2 11
+	raimundo correia
+ 		3 12
+	rainha
+ 		1 10
+	raizes das linguas
+ 		1 12
+	rampera
+ 		3 11
+	ranking musical
+ 		1 12
+	rap
+ 		2 9
+	raquel welch
+ 		4 12
+	raquete junior
+ 		1 11
+	razao de defesa punicao disciplinar
+ 		2 12
+	razao grega verdade razao
+ 		4 10
+	reacoes nucleares
+ 		1 12
+	real player 
+ 		1 11
+	realorch
+ 		3 12
+	rebeca
+ 		21 8
+	rebeldia e punk
+ 		8 12
+	rebeldia e rock
+ 		8 11
+	recadinhos virtuais
+ 		1 12
+	recadrastamento de cpf
+ 		1 10
+	recarregador bateria 12 volts
+ 		2 12
+	receita de bolo de chocolate
+ 		1 11
+	receita de danone
+ 		2 12
+	receita de iogurte caseiro
+ 		1 9
+	receita federal
+ 		5 12
+	receitafederal
+ 		6 11
+	receitas comida japonesa
+ 		5 12
+	receitas para doces
+ 		14 10
+	reciclagem de lixo em goiania
+ 		2 12
+	reciclagem de metais
+ 		3 11
+	reclame@uai.com.br
+ 		46 12
+	recolhimento do compulsorio
+ 		1 7
+	reconhecimento
+ 		3 12
+	recreacao para terceira idade
+ 		1 11
+	recreacao terceira idade
+ 		1 12
+	redacao
+ 		120 10
+	redacao de roteiros radiofonicos
+ 		2 12
+	redacao para o vestibular
+ 		1 11
+	redacao sobre fome
+ 		1 12
+	redes de dormir
+ 		5 9
+	redes e cabeamento estruturado
+ 		1 12
+	redes sensores
+ 		2 11
+	reengenharia
+ 		256 12
+	reengenharia positivos e negativos
+ 		5 10
+	reforma da previd
+ 		3 12
+	reforma da previdencia
+ 		12 11
+	reforma e contra reforma
+ 		1 12
+	reforma religiosa
+ 		2 8
+	regiane alves
+ 		2 12
+	regiane alves  fotos
+ 		2 11
+	regiao dos lagos
+ 		1 12
+	regiao norte
+ 		4 10
+	regime juridico dos servidores do poder judiciario do  estado do rio de janeiro
+ 		1 12
+	regininha
+ 		38 11
+	regininha poltergeist
+ 		3 12
+	registrador de elifoot 2002
+ 		2 9
+	registro de firma
+ 		1 12
+	regras basicas do basquetebol
+ 		1 11
+	regras internas do trabalhador
+ 		3 12
+	regulamentacao do sistema financeiro 
+ 		1 10
+	reino de avalon
+ 		5 12
+	reino monera 
+ 		3 11
+	reino monera e saude
+ 		5 12
+	reino unido paises do australia
+ 		1 4
+	reino unido paises que compoem
+ 		2 11
+	reino unido paises que compoem australia nova zelandia
+ 		1 12
+	reinstalacao do windows
+ 		6 10
+	rejane fradique
+ 		1 12
+	relacao entre etica e trabalho
+ 		2 11
+	relatos sensuais
+ 		1 12
+	relax com fotos bh
+ 		1 9
+	religiao
+ 		59 12
+	remessa para zona franca manaus
+ 		1 11
+	remo usai
+ 		1 12
+	renascimento
+ 		3 10
+	renault panteras
+ 		1 12
+	renault videos
+ 		1 11
+	renavam
+ 		18 12
+	renavan
+ 		1 8
+	rendas e anuidades
+ 		2 12
+	renovacao de frota
+ 		1 11
+	reportagem especial
+ 		7 12
+	reportagem sobre chocolate
+ 		1 10
+	reportagem sobre clima tropical de altitude
+ 		2 12
+	reportagens patrimonio
+ 		2 11
+	represa de xavantes
+ 		1 12
+	repteis pre historicos terrestres
+ 		2 9
+	rescisao de contrato
+ 		1 12
+	rescisao de contrato acordao
+ 		1 11
+	respiracao celular
+ 		1 12
+	responsabilidade pelo fato do produto
+ 		2 10
+	restaurantes-rj
+ 		43 12
+	resultado jogo do bicho 
+ 		1 11
+	resumo a viuvinha
+ 		1 12
+	resumo amor de capitu
+ 		1 7
+	resumo do livro a outra face
+ 		3 12
+	resumos literarios
+ 		1 11
+	retencao urinaria aguda rua
+ 		1 12
+	retidao
+ 		2 10
+	retratos da terceira idade
+ 		1 12
+	retratos de idosos
+ 		1 11
+	rev ginecol obstet
+ 		1 12
+	rev. ginecol. obstet
+ 		2 9
+	revista
+ 		5 12
+	revista do idoso
+ 		1 11
+	revista eleela
+ 		2 12
+	revista flash jatai
+ 		1 10
+	revista psicologia
+ 		2 12
+	revista psicologia 
+ 		6 11
+	revista psicologia maturidade
+ 		3 12
+	revista sexy
+ 		7 8
+	revista sexy do mes
+ 		2 12
+	revista sexy fotos free amigas
+ 		3 11
+	revista veja
+ 		2 12
+	revista vip
+ 		7 10
+	revistas 
+ 		2 12
+	revistas de mulheres s
+ 		2 11
+	revistas de putaria
+ 		3 12
+	revistas dia do idoso
+ 		1 9
+	revistas p
+ 		1 12
+	revistas psicologia  dia 27/09
+ 		1 11
+	revistas psicologia 27/09
+ 		1 12
+	revolucao industrial
+ 		2 10
+	ricardo mansur
+ 		2 12
+	ricardo masur
+ 		1 11
+	ricky martin
+ 		6 12
+	ring tones
+ 		4 6
+	ringtone
+ 		1 12
+	rio branco de andradas
+ 		2 11
+	rio das pedras
+ 		1 12
+	rio das pedras ouro preto
+ 		1 10
+	rio das velhas
+ 		23 12
+	rio das velhas 
+ 		8 11
+	rio de pedras itabirito
+ 		1 12
+	rio onibus
+ 		4 9
+	rio paraiba
+ 		1 12
+	rio sao francisco
+ 		1 11
+	rios da amazonia
+ 		1 12
+	rios igarape mg
+ 		2 10
+	ritalina
+ 		12 12
+	robert linhart
+ 		2 11
+	roberto carlos e erasmos carlos
+ 		1 12
+	roberto carlos erasmo carlos fotos
+ 		1 8
+	roberto carloserasmo carlos
+ 		1 12
+	roberto ou erasmo carlos
+ 		1 11
+	robos manipuladores
+ 		13 12
+	robotica
+ 		1 10
+	rocco
+ 		5 12
+	rocco montreal
+ 		1 11
+	rodolpho caniato
+ 		2 12
+	rodoviaria tiete
+ 		1 9
+	rodoviaria.com.br
+ 		10 12
+	rodoviario terminal tiete
+ 		1 11
+	rodoviario transporte
+ 		1 12
+	rodovias
+ 		1 10
+	rogue 2.05
+ 		1 12
+	rolamentos com barulho
+ 		3 11
+	rolf dieter
+ 		3 12
+	rom chrono cross snes
+ 		1 7
+	rom mortal kombat ultimate snes
+ 		1 12
+	rom sonic pra snes
+ 		1 11
+	roma antiga
+ 		2 12
+	roms de gba
+ 		2 10
+	roms snes
+ 		5 12
+	roms super nintendo
+ 		8 11
+	ronaldo.futebol
+ 		14 12
+	ronaldo.r9
+ 		20 9
+	rons 
+ 		1 12
+	rons snes
+ 		1 11
+	roraima
+ 		2 12
+	rosiane pinheiro
+ 		1 10
+	roupas aerobica
+ 		1 12
+	roupas dos povos da civilizacao indiana
+ 		1 11
+	roupas em divinopolis
+ 		2 12
+	rppn fazenda vereda grande
+ 		3 8
+	ruas de belo horizonte
+ 		1 12
+	ruas e avenidas de belo horizonte
+ 		1 11
+	rubiataba
+ 		56 12
+	runas
+ 		1 10
+	ruth rocha
+ 		1 12
+	s
+ 		317 11
+	s videos gratis
+ 		1 12
+	sa 8000
+ 		2 9
+	saaaaaaa�aaaaaa�aaaaaa�de
+ 		10 12
+	saaaaaa¯aaaaa¿aaaaa½de
+ 		5 11
+	saaaafa?sa,a�aaafa?sa,a�aaafa?sa,a�de
+ 		4 12
+	saaa�aa�aa�de
+ 		67 10
+	sabado e dia util?
+ 		9 12
+	sabemi seguros
+ 		1 11
+	saber ensinar
+ 		1 12
+	saber ensinar portugues
+ 		3 5
+	sabia turismo
+ 		2 12
+	sabinada
+ 		7 11
+	sabonete
+ 		4 12
+	sabrina sato
+ 		2 10
+	sabrina sato 
+ 		2 12
+	sacanagem
+ 		9 11
+	sadomasoquismo
+ 		82 12
+	safada
+ 		77 9
+	safada casada
+ 		1 12
+	safadas
+ 		53 11
+	sais biliares
+ 		2 12
+	salario minimo janeiro 2002
+ 		4 10
+	salvi casagrande
+ 		1 12
+	samara felippo 
+ 		1 11
+	samsung producao celulares
+ 		5 12
+	samuel borges
+ 		2 8
+	sancler
+ 		36 12
+	sandalias da marca equilibrio
+ 		6 11
+	sandra rocha
+ 		4 12
+	sandro donizete
+ 		2 10
+	sandy
+ 		3 12
+	sandy e junior
+ 		2 11
+	saneamento basico
+ 		1 12
+	sangramento antes de acabar o anticoncepcional
+ 		1 9
+	sanitaria vigilancia
+ 		1 12
+	sanitario quimico
+ 		1 11
+	santa catarina
+ 		4 12
+	santa rita do sapucai
+ 		6 10
+	santa teresa
+ 		10 12
+	santa teresinha caico
+ 		1 11
+	santos dummont
+ 		4 12
+	santuario do berco bizantino
+ 		2 7
+	sao gabriel ms
+ 		2 12
+	sao joao del rey
+ 		2 11
+	sao joao evangelista
+ 		1 12
+	sao patrick
+ 		3 10
+	sao paulo da cruz
+ 		5 12
+	sao paulo remessa para zona franca de manaus
+ 		1 11
+	sardinha
+ 		1 12
+	satc
+ 		13 9
+	saude
+ 		120 12
+	saude suplementar para o idoso
+ 		2 11
+	savana africana
+ 		3 12
+	saï¿½de
+ 		108 10
+	sca
+ 		2 12
+	schain
+ 		14 11
+	scheila carvalho
+ 		1 12
+	scheila carvalho 
+ 		4 8
+	schulz
+ 		34 12
+	screen a50
+ 		1 11
+	scrips html
+ 		2 12
+	script para mirc
+ 		5 10
+	script para usuarios online
+ 		1 12
+	seco
+ 		14 11
+	secretaria de educacao
+ 		1 12
+	secretaria de educacao de minas gerais
+ 		2 9
+	secretaria de educacao do estado de minas gerais
+ 		2 12
+	secretaria de estado de educacao de minas gerais
+ 		2 11
+	secretaria de fazenda do estado de rondonia
+ 		2 12
+	secretaria de sa�de
+ 		1 10
+	secretario nacional de esporte
+ 		1 12
+	sedex
+ 		28 11
+	seduzida
+ 		33 12
+	seduzida pelo  meu primo
+ 		1 6
+	seguranca trabalho
+ 		4 12
+	segurando o xixi
+ 		1 11
+	seguro moto
+ 		3 12
+	seios
+ 		6 10
+	seja representante
+ 		3 12
+	selton mello
+ 		1 11
+	semana da asa 2003
+ 		2 12
+	semana da asa 2003 mg
+ 		2 9
+	semanas da gravidez
+ 		2 12
+	senado federal
+ 		10 11
+	senai bh
+ 		1 12
+	senha do windows2000
+ 		1 10
+	sensibilidade
+ 		4 12
+	sensimilla
+ 		1 11
+	sentenca civel
+ 		2 12
+	sentenca criminal
+ 		20 8
+	sentenca penal
+ 		9 12
+	sequencia fotos
+ 		3 11
+	sequencias
+ 		50 12
+	sequencias de 
+ 		1 10
+	sera que vai chover chover chover
+ 		1 12
+	sergio moraes
+ 		3 11
+	seriado anos incriveis
+ 		1 12
+	seriais windows xp
+ 		8 9
+	serial audiograbber
+ 		3 12
+	serial windows xp
+ 		1 11
+	series
+ 		1 12
+	serra do ouro branco
+ 		1 10
+	servico de protecao ao credito
+ 		1 12
+	sesi
+ 		31 11
+	sete lagoas
+ 		3 12
+	setores coronel fabriciano
+ 		1 7
+	setores vale do aco
+ 		1 12
+	sevidores do der receberam precatorios
+ 		1 11
+	sex
+ 		46 12
+	sexy
+ 		17 10
+	sexy do mes
+ 		5 12
+	sexy outubro
+ 		2 11
+	sgo
+ 		1 12
+	shalon.com.br
+ 		3 9
+	shaolin filmes
+ 		8 12
+	shaquille o neal
+ 		1 11
+	sheila carvalho
+ 		1 12
+	sheila mello dia 05 de outubro
+ 		1 10
+	sheila mello no gugu dia 05/10/03
+ 		1 12
+	sheila mello vip
+ 		1 11
+	sheilas
+ 		2 12
+	shop
+ 		17 8
+	shopping
+ 		4 12
+	shopping center light
+ 		5 11
+	shopping ibirapuera
+ 		1 12
+	shopping itapetininga
+ 		1 10
+	shortinho
+ 		8 12
+	show de skank em montes claros
+ 		2 11
+	shox do brazil
+ 		1 12
+	sidney magal biografia
+ 		1 9
+	significado de insolente
+ 		1 12
+	significado e significante
+ 		1 11
+	significados dos sonhos
+ 		1 12
+	signos
+ 		27 10
+	silk screen em minas gerais
+ 		1 12
+	silvia saint
+ 		2 11
+	sim farm
+ 		4 12
+	simaan
+ 		7 3
+	simbologia em soldagem
+ 		6 11
+	simcity4
+ 		12 12
+	simpatias
+ 		8 10
+	simply red
+ 		1 12
+	simulado direito constitucional
+ 		1 11
+	sind ute
+ 		1 12
+	sindicato dos bancarios de sao paulo
+ 		1 9
+	sindicato dos professores do distrito federal
+ 		1 12
+	sindicato e justica e sao paulo
+ 		2 11
+	sindona
+ 		15 12
+	sindrome de desconexao
+ 		1 10
+	sindrome de guilan barre
+ 		1 12
+	sinduscon
+ 		46 11
+	sinescontabil
+ 		8 12
+	sistema de pagamentos brasileiro  apostila
+ 		2 8
+	sistema financeiro
+ 		1 12
+	sistema financeiro nacional
+ 		1 11
+	sistema frances de amortizacao
+ 		1 12
+	sistema metaestavel
+ 		2 10
+	sistema nacional de vigilancia sanitaria
+ 		3 12
+	sistema osi
+ 		1 11
+	sistema sensorial
+ 		6 12
+	sistemas de gestao 
+ 		1 9
+	sistematica e taxonomia 
+ 		1 12
+	site de cartoes virtuais
+ 		1 11
+	site de eletrodomesticos
+ 		1 12
+	site de empresas de energia eletrica 
+ 		3 10
+	site de funcionarios de banco do brasil de teofilo otoni
+ 		8 12
+	site de galera de teofilo otoni que possui livro de visita
+ 		1 11
+	site de lesbica gratuito
+ 		1 12
+	site de pesquisa
+ 		1 7
+	site gay
+ 		16 12
+	site gugu
+ 		1 11
+	site juridico
+ 		5 12
+	site monografias
+ 		1 10
+	site nestle
+ 		2 12
+	site romantico
+ 		1 11
+	site sandy e junior
+ 		4 12
+	sites com slides em power point
+ 		2 9
+	sites com trabalhos sobre historia do pensamento economico
+ 		2 12
+	sites de festas
+ 		1 11
+	sites de fotos
+ 		1 12
+	sites de mensagens virtuais
+ 		1 10
+	sites de trabalhos e pesquisas para estudantes de economia
+ 		2 12
+	sites de tvs a cabo
+ 		1 11
+	sites dos rocks de vitoria
+ 		3 12
+	sites esotericos
+ 		1 8
+	sites gospel infantil
+ 		1 12
+	sites para fazer bonecas no computador
+ 		1 11
+	sites s
+ 		6 12
+	sitio
+ 		1 10
+	situacao economica  da groelandia
+ 		1 12
+	skate no conic
+ 		1 11
+	skf
+ 		1 12
+	skins the sims
+ 		2 9
+	skol
+ 		10 12
+	slipknot
+ 		4 11
+	slitter
+ 		57 12
+	smallcampus
+ 		1 10
+	so pra contrariar
+ 		3 12
+	so voyeur
+ 		1 11
+	sobre a pizza
+ 		2 12
+	sobrecarga cinema
+ 		2 6
+	sobrenatural
+ 		57 12
+	sociedade
+ 		501 11
+	sociedade anonima
+ 		13 12
+	sociedade contemporanea
+ 		8 10
+	sociedade por acoes
+ 		44 12
+	socrates
+ 		3 11
+	soft de ortodontia
+ 		2 12
+	software  de cobranca gratuito
+ 		2 9
+	software button
+ 		2 12
+	software buttons
+ 		4 11
+	software de cobranca
+ 		4 12
+	software gado corte
+ 		1 10
+	software gado corte gratuito
+ 		3 12
+	software juridico
+ 		4 11
+	software sinuca
+ 		1 12
+	sogro gostoso
+ 		3 8
+	solo da musica to indo embora no tom do
+ 		2 12
+	som ideal para o meu carro
+ 		1 11
+	sombrancelhas
+ 		77 12
+	sondavesical
+ 		1 10
+	songbook joao bosco
+ 		1 12
+	sonho e  poemas
+ 		1 11
+	sonhos
+ 		4 12
+	sorvete
+ 		25 9
+	sorvete belo horizonte
+ 		2 12
+	spa
+ 		14 11
+	spa lagoa grande
+ 		1 12
+	spc
+ 		47 10
+	spc-rj
+ 		26 12
+	spearman 
+ 		2 11
+	spoiler
+ 		20 12
+	squid open proxy configuracao
+ 		1 7
+	srf
+ 		25 12
+	ssp
+ 		4 11
+	st3
+ 		7 12
+	starcraft brood war
+ 		2 10
+	stjd
+ 		15 12
+	street ball
+ 		1 11
+	stress
+ 		16 12
+	stress no trabalho
+ 		1 9
+	string fonts
+ 		1 12
+	subjetividade do juiz
+ 		3 11
+	subnutricao
+ 		1 12
+	subseven 2.1
+ 		4 10
+	sucessao
+ 		7 12
+	sudene
+ 		12 11
+	sugestao de apresentar
+ 		1 12
+	sulfato ferroso
+ 		10 8
+	suor excesso
+ 		1 12
+	super gatos
+ 		1 11
+	super mario rpg
+ 		1 12
+	super_nina aline
+ 		1 10
+	superdonwload
+ 		26 12
+	superdownload
+ 		33 11
+	superlative
+ 		3 12
+	supersites da web
+ 		1 9
+	swat3
+ 		12 12
+	swing
+ 		29 11
+	swing brasilia
+ 		1 12
+	swinger
+ 		112 10
+	swingers
+ 		112 12
+	swingers mirror
+ 		1 11
+	syang 
+ 		1 12
+	sybil
+ 		23 5
+	systemworks
+ 		1 11
+	ta kingdoms
+ 		2 12
+	tabaco
+ 		145 10
+	tabela de salarios 
+ 		1 12
+	tabela importacoes malasia
+ 		2 11
+	tabela precos vw brasilia
+ 		1 12
+	tabela resistores
+ 		2 9
+	tabelas   torque
+ 		6 12
+	tablaturas
+ 		236 11
+	talentos maturidade 5 premio
+ 		1 12
+	talha eletrica
+ 		5 10
+	tamanho do hd
+ 		1 12
+	tank you
+ 		3 11
+	tantalite
+ 		19 12
+	tantalo
+ 		25 8
+	tapetes de vinil
+ 		1 12
+	tapetes personalizados
+ 		1 11
+	tapetes tipo 3m
+ 		2 12
+	taradas por s
+ 		1 10
+	taradas por um cachorro
+ 		2 12
+	tarefas para leitura
+ 		1 11
+	tarsila do amaral tiradentes desenho
+ 		2 12
+	tatuagem de dragao
+ 		1 9
+	taxa
+ 		12 12
+	taxa de importacao
+ 		2 11
+	taxa selic
+ 		1 12
+	tcl
+ 		6 10
+	te adoro
+ 		1 12
+	te amando e te querendo 
+ 		1 11
+	teatro
+ 		50 12
+	teatro de rua
+ 		1 7
+	teatro moderno
+ 		3 12
+	teatro/bh
+ 		4 11
+	tecido osso conjuntivo
+ 		4 12
+	tecnicas bancarias
+ 		4 10
+	tecnicas de teatro
+ 		1 12
+	tecnico operacional junior
+ 		1 11
+	tecnologia em processamento de dados
+ 		1 12
+	tedesco informatica
+ 		4 9
+	teen
+ 		11 12
+	tele objetiva pentax
+ 		1 11
+	telemar
+ 		11 12
+	telemig celular
+ 		3 10
+	telesena
+ 		51 12
+	telhados bh
+ 		1 11
+	telhanorte
+ 		53 12
+	templates
+ 		20 8
+	templo idade media
+ 		1 12
+	tempra turbo preto
+ 		1 11
+	teofilandia
+ 		87 12
+	teofilo otoni gemas preciosas
+ 		2 10
+	teorema de norton
+ 		1 12
+	teoria da contingencia 
+ 		2 11
+	teoria geral do estado
+ 		1 12
+	teoria,orcamento, empresarial
+ 		3 9
+	teorias djalma batista
+ 		3 12
+	ter quem indica
+ 		3 11
+	terceira idade mudancas fisicas
+ 		3 12
+	termoeletricidade
+ 		6 10
+	terra nostra
+ 		11 12
+	terraplenagem/desaterro
+ 		33 11
+	terror
+ 		7 12
+	teses sobre endomarketing
+ 		1 6
+	testamento maritimo
+ 		1 12
+	testamento militar
+ 		1 11
+	testamentos maritimo
+ 		2 12
+	teste
+ 		4 10
+	teste golf
+ 		2 12
+	teste golf 2.0 motor
+ 		8 11
+	teste sua paciencia
+ 		4 12
+	teste sua paciencia jogando
+ 		1 9
+	testemunhas protegidas mortas
+ 		2 12
+	texto informativo
+ 		4 11
+	texto preservar o meio ambiente
+ 		6 12
+	textos dos 
+ 		3 10
+	textos e mensagens
+ 		1 12
+	textos grego athenas
+ 		1 11
+	textos sobre halloween para criancas
+ 		3 12
+	textos voz sobre ip voip
+ 		1 8
+	thais dos santos oliveira
+ 		1 12
+	the corrs
+ 		4 11
+	the sims
+ 		1 12
+	themis
+ 		5 10
+	thimbahia
+ 		1 12
+	tiazinha 
+ 		4 11
+	tifton 9
+ 		3 12
+	tim
+ 		1 9
+	tintas
+ 		56 12
+	tipo de governo do paraguai
+ 		1 11
+	tipo de lentes
+ 		1 12
+	tipos de adubacao
+ 		5 10
+	tipos de agua
+ 		1 12
+	tipos de cervejas
+ 		5 11
+	tipos de depressao
+ 		3 12
+	tipos de fertilizantes
+ 		6 7
+	tipos de incendio
+ 		1 12
+	tipos de onda do celular
+ 		1 11
+	tipos de voz
+ 		1 12
+	tipos incendio
+ 		1 10
+	tiragem do jornal estado de minas
+ 		1 12
+	titas comida
+ 		5 11
+	titulo de utilidade publica
+ 		4 12
+	titulos e valores mobiliarios
+ 		1 9
+	tiveram maos pes amarrado
+ 		1 12
+	tjdf
+ 		4 11
+	tlistbox
+ 		6 12
+	tolerancias balances rodoviarias
+ 		1 10
+	top gear 3000
+ 		2 12
+	topless
+ 		1 11
+	topograph
+ 		76 12
+	topper
+ 		11 8
+	toques de celulares
+ 		1 12
+	torque   tabela
+ 		3 11
+	torque   tabela   parafuso
+ 		32 12
+	torre
+ 		1 10
+	torta de batata
+ 		1 12
+	total
+ 		2 11
+	total annihilation kingdoms
+ 		1 12
+	toto bola da loteria mineira
+ 		2 9
+	toxidade de catalisadores
+ 		1 12
+	trabalhando com fabulas
+ 		4 11
+	trabalhe conosco
+ 		1 12
+	trabalho de psicologia idosos
+ 		6 10
+	trabalho e capital
+ 		5 12
+	trabalho e formacao profissiona do dia 12 de outubro
+ 		1 11
+	trabalho feudalismo
+ 		3 12
+	trabalho infantil
+ 		1 4
+	trabalho no campo
+ 		2 11
+	trabalho rural
+ 		1 12
+	trabalho sobre comportas
+ 		9 10
+	trabalho x capital
+ 		1 12
+	trabalhos academicos logistica
+ 		3 11
+	trabalhos prontos
+ 		2 12
+	trabalhos universitarios
+ 		1 9
+	trafico aguas formosas
+ 		1 12
+	train simulator
+ 		7 11
+	trainz
+ 		3 12
+	trajetorias profissionais
+ 		10 10
+	trangenicos
+ 		137 12
+	transei com meu ou minha
+ 		17 11
+	transformacoes  fisicas na terceira idade
+ 		12 12
+	transformacoes na terceira idade
+ 		1 8
+	transgenico
+ 		113 12
+	transgenicos
+ 		67 11
+	transito
+ 		74 12
+	transito no espirito santo
+ 		4 10
+	transmissao digital
+ 		2 12
+	transportadora primavera
+ 		2 11
+	transposicao
+ 		56 12
+	tratado de tordesilhas
+ 		1 9
+	tratamento  de esgoto de belo horizonte
+ 		18 12
+	tratamento da gota pela fisioterapia
+ 		2 11
+	tratamento de esgoto
+ 		1 12
+	tratamento de esgoto e agua por radiacao
+ 		2 10
+	tratamento de esgotos
+ 		1 12
+	trava-linguas
+ 		19 11
+	travecos
+ 		21 12
+	trepada
+ 		24 7
+	trepar
+ 		13 12
+	triagem auditiva neonatal universal
+ 		4 11
+	tribunal aliadas minas gerais
+ 		1 12
+	tribunal de contas
+ 		1 10
+	tribunal reginal federal
+ 		3 12
+	tribunal regional trabalho 22�
+ 		3 11
+	trico
+ 		5 12
+	trico a maquina
+ 		3 9
+	trilha das violetas
+ 		4 12
+	trindade parati
+ 		1 11
+	tripes para calcados
+ 		1 12
+	triumph
+ 		75 10
+	trojans
+ 		10 12
+	troni
+ 		21 11
+	trt 22�
+ 		4 12
+	truco
+ 		76 8
+	ttt
+ 		6 12
+	tubarao
+ 		22 11
+	tudo acaba em festa
+ 		1 12
+	tudo sobre alexandre pires
+ 		1 10
+	tudo sobre o pais de portugal
+ 		3 12
+	tudo sobre personalidade humana
+ 		1 11
+	tudo sobre portugal
+ 		1 12
+	tudo sobre racismo
+ 		1 9
+	tudo sobre rede ponto-a-ponto
+ 		23 12
+	tudo.nu
+ 		35 11
+	tuning
+ 		89 12
+	tunnel   ssl  java
+ 		6 10
+	tunnel  ssl
+ 		9 12
+	turbo pascal
+ 		5 11
+	turbo pascal divisao por zero
+ 		4 12
+	turismo
+ 		9039 6
+	turismo no lazer
+ 		2 12
+	turma do moranguinho
+ 		8 11
+	type o negative
+ 		10 12
+	uberaba
+ 		25 10
+	ubo
+ 		5 12
+	ubu
+ 		19 11
+	ucrania
+ 		64 12
+	ufemgs
+ 		1 9
+	ufir valor
+ 		1 12
+	ufmg
+ 		3 11
+	ufop
+ 		17 12
+	ufos
+ 		3 10
+	ultimo segundo economia negocios
+ 		1 12
+	uniao estavel
+ 		2 11
+	uniao farmaceutica
+ 		1 12
+	uniban
+ 		29 8
+	unicamp
+ 		3 12
+	unimaq
+ 		16 11
+	unimontes vestibular
+ 		1 12
+	unitv
+ 		8 10
+	uniube
+ 		80 12
+	universalizacao da energia eletrica
+ 		1 11
+	universidade estacio de sa
+ 		1 12
+	universidade itauna
+ 		1 9
+	upload com jsp
+ 		3 12
+	usina do som
+ 		2 11
+	usina jaciara 
+ 		2 12
+	usina nova america
+ 		1 10
+	utero
+ 		4 12
+	utero bicorno
+ 		1 11
+	vaca louca.exe
+ 		4 12
+	vaga facil
+ 		2 7
+	vagas de empregos em brasilia
+ 		1 12
+	vagas de empregos na area de informatica
+ 		2 11
+	vale do aco
+ 		3 12
+	vale tudo
+ 		1 10
+	valor atual do salario minimo
+ 		1 12
+	valor nutritivo de cada fruta
+ 		6 11
+	vantagens da globalizacao
+ 		2 12
+	vapor
+ 		80 9
+	vaporizacao da agua 
+ 		2 12
+	vaso mais precioso e raro
+ 		1 11
+	vcd filmes
+ 		10 12
+	vcd piratas
+ 		1 10
+	vectra  mpfi  torque
+ 		1 12
+	vela motor
+ 		2 11
+	velas
+ 		44 12
+	velas artesanais
+ 		25 8
+	velas natalinas
+ 		4 12
+	velhice
+ 		12 11
+	velocidade do modem
+ 		1 12
+	venda a domicilio
+ 		5 10
+	venda de cameras polaroid
+ 		2 12
+	venda papagaio
+ 		2 11
+	venda*carro
+ 		7 12
+	vendas direta
+ 		9 9
+	vendo toyota bandeirante  motor diesel
+ 		1 12
+	verbos
+ 		9 11
+	verdade justica retidao
+ 		2 12
+	verdade/justica/retidao
+ 		5 10
+	verdini
+ 		21 12
+	versao em portugues como fame
+ 		1 11
+	vertedores
+ 		4 12
+	vestibular
+ 		78 5
+	vestibular 2004
+ 		1 12
+	vestibular a distancia
+ 		1 11
+	vestido de formatura
+ 		2 12
+	vestido mae
+ 		3 10
+	vestidos de noiva
+ 		1 12
+	vetores
+ 		10 11
+	via estrutural
+ 		1 12
+	viacao sao jose
+ 		7 9
+	viagem
+ 		12 12
+	viagem de benedita
+ 		3 11
+	viagem power point
+ 		3 12
+	viagens
+ 		15 10
+	vice cit
+ 		1 12
+	vicosa
+ 		37 11
+	vicosa - mg
+ 		6 12
+	victor drummond
+ 		1 8
+	vida de alexandre pires
+ 		1 12
+	vida e a lei de proust
+ 		1 11
+	video 
+ 		1 12
+	video de mulher fazendo  com cavalo
+ 		1 10
+	videos
+ 		3 12
+	videos  gratis
+ 		19 11
+	videos com shemales
+ 		1 12
+	videos de 
+ 		4 9
+	videos de carros
+ 		4 12
+	videos de lesbicas
+ 		1 11
+	videos de putas
+ 		1 12
+	videos do filme garganta profunda
+ 		3 10
+	videos eroticos
+ 		1 12
+	videos gays
+ 		1 11
+	videos_ero
+ 		20 12
+	videos_gratis
+ 		3 7
+	vidro temperado 
+ 		1 12
+	vieira
+ 		38 11
+	vinhetas
+ 		156 12
+	vinhetas com artistas
+ 		1 10
+	vinhetas com cantores e artistas
+ 		1 12
+	vinicios de moraes
+ 		1 11
+	violao
+ 		1 12
+	violencia
+ 		2 9
+	violencia e seguranca no distrito federal
+ 		7 12
+	virgens
+ 		8 11
+	visual
+ 		66 12
+	vivemos em mundo civilizado?
+ 		5 10
+	viviane araujo 
+ 		1 12
+	viviane dielle
+ 		1 11
+	vou  te  esquecer
+ 		3 12
+	voxcards
+ 		5 8
+	voyeur
+ 		8 12
+	vray
+ 		16 11
+	vulcoes
+ 		8 12
+	w3 revitalizacao
+ 		2 10
+	wallpaper diablo2
+ 		1 12
+	wallpaper fire
+ 		2 11
+	wap ringtones
+ 		4 12
+	warcraft iii
+ 		2 9
+	weimaraner
+ 		41 12
+	white martins
+ 		4 11
+	why - annie lennox
+ 		1 12
+	win xp 6.0 explorer internet config
+ 		1 10
+	winamp skin punk
+ 		1 12
+	winch
+ 		36 11
+	winch  e-mail
+ 		4423 12
+	winch  email
+ 		2 6
+	winch  mail
+ 		2 12
+	winch  mailto
+ 		6 11
+	wing chun
+ 		1 12
+	wingraph
+ 		17 10
+	winits
+ 		16 12
+	witch disney
+ 		1 11
+	word avancado livro
+ 		2 12
+	www siscom br
+ 		1 9
+	www..com.br
+ 		8 12
+	www.abbyy.com
+ 		28 11
+	www.aguamineral.com.br
+ 		2 12
+	www.amadoras.com.br
+ 		33 10
+	www.bboy.com
+ 		2 12
+	www.bh.com.br
+ 		10 11
+	www.blitzerotica.com.br
+ 		3 12
+	www.bol.com.br
+ 		32 8
+	www.bradesco.com.br
+ 		43 12
+	www.bscolway.com.br
+ 		43 11
+	www.championhotel.cjb.net
+ 		27 12
+	www.contoerotico.com.br
+ 		2 10
+	www.correios.com.br
+ 		4 12
+	www.detran.com.br
+ 		3 11
+	www.detran.rj.gov.br
+ 		21 12
+	www.deviantart.com
+ 		23 9
+	www.drt.com.br
+ 		12 12
+	www.estupros.com.br
+ 		1 11
+	www.fakewelt.de
+ 		26 12
+	www.globo.com.br
+ 		23 10
+	www.ibest.com.br
+ 		12 12
+	www.lolitas.com.br
+ 		9 11
+	www.malicia.com.br
+ 		6 12
+	www.mercadolivre.com.br
+ 		15 7
+	www.motostore.com.br
+ 		26 12
+	www.multioke.com.br
+ 		65 11
+	www.oi.com.br
+ 		76 12
+	www.poemas.com.br
+ 		1 10
+	www.robertarodrigues.com.br
+ 		1 12
+	www.s.com.br
+ 		22 11
+	www.saude.df.org.br
+ 		4 12
+	www.shemalecenter.com
+ 		3 9
+	www.smiles.com.br
+ 		13 12
+	www.teamo.com.br
+ 		44 11
+	www.telefonica.com.br
+ 		7 12
+	www.tequero.com.br
+ 		27 10
+	www.tokstok.com.br
+ 		21 12
+	www.ufjf.com.br
+ 		2 11
+	www.uol.com.br
+ 		23 12
+	www.vip.com.br
+ 		1 8
+	www.zoofilia.com.br
+ 		13 12
+	wwwglobo.com.br
+ 		3 11
+	wwwibest.com.br
+ 		6 12
+	xml schema
+ 		7 10
+	xoxota
+ 		27 12
+	xuxa
+ 		12 11
+	yugi-oh
+ 		38 12
+	yugi-oh total
+ 		1 9
+	zargon
+ 		4 12
+	zerbine
+ 		73 11
+	zerbini
+ 		4 12
+	zona de protecao especial
+ 		17 10
+	zona franca
+ 		1 12
+	zoofilia
+ 		363 11
+	�letras o mundo parou naquele lugar acabar�
+ 		1 12

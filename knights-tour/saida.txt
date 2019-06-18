@@ -1,0 +1,10 @@
+	Solucao:
+
+	1  4  7  10  
+	12  9  2  5  
+	3  6  11  8  
+
+
+	Métricas de performance:
+		Total de movimentos realizados: 111
+		Quantidade de movimentos antes do primeiro retrocesso: 10

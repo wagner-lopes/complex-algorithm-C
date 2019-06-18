@@ -1,0 +1,9 @@
+Compilar o sistema:
+	make
+
+Limpar compilação:
+	make clean
+
+Executar:
+	./PasseioDoCavalo -n <Linhas> -m <Colunas> -i <Linha Inicial> -j <Coluna Inicial> -e <Estratégia> -s <ArquivoSaida>
+

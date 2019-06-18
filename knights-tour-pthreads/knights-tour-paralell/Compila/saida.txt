@@ -1,0 +1,16 @@
+	Solucao encontrada pela thread 0:
+
+	1   52  35  26  15  18  9   56  
+	36  27  42  53  10  55  14  17  
+	43  2   51  34  25  16  19  8   
+	50  37  28  41  54  11  24  13  
+	29  44  3   48  33  22  7   20  
+	38  49  46  31  40  5   12  23  
+	45  30  39  4   47  32  21  6   
+
+
+	Métricas de performance:
+		Total de movimentos realizados: 147869087
+		Quantidade de movimentos antes do primeiro retrocesso: 25
+		Tempo de execucao: 29.590000s
+

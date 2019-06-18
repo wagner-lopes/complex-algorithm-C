@@ -1,0 +1,1339 @@
+
+	Quantidade de termos: 	667
+	Custo da arvore: 	90672
+	Altura da arvore: 	10
+
+	2003 horario verao
+ 		1 9
+	2fast2furious
+ 		14 8
+	3p de servicos
+ 		1 9
+	6.0 explorer internet
+ 		2 10
+	Altigran
+ 		11 7
+	Altigran100
+ 		42 9
+	MP3
+ 		9 8
+	a bonequinha preta
+ 		1 9
+	a. s. neill
+ 		1 10
+	acao civil publica
+ 		1 6
+	acao de revisao de iptu
+ 		12 9
+	acao de revisao de iptu em sao sebastiao
+ 		5 8
+	acdc
+ 		18 9
+	acidente chernobyl
+ 		6 10
+	acidente nuclear
+ 		7 7
+	acompanhantes bh
+ 		2 9
+	adobe download  acrobat
+ 		5 8
+	afonso ribeiro - descobrimento do brasil
+ 		2 9
+	agnelli
+ 		8 10
+	agua
+ 		18 5
+	aids
+ 		2 9
+	albumina espinha
+ 		1 8
+	alistamento militar
+ 		1 9
+	altigran
+ 		98 10
+	altigran100
+ 		44 7
+	amadora gostosa
+ 		1 9
+	amadoras
+ 		23 8
+	amadoras brasileiras
+ 		7 9
+	amdk6
+ 		6 10
+	amis
+ 		4 6
+	amor
+ 		2 9
+	amor simpatias
+ 		1 8
+	angela vieira
+ 		1 9
+	anhembi morumbi universidade
+ 		1 10
+	anibal machado
+ 		1 7
+	aniversario cartoes
+ 		5 9
+	anjos
+ 		6 10
+	anorexia fotos
+ 		1 8
+	anti-span
+ 		14 9
+	antonio roberto
+ 		1 10
+	aparelhos de ginastica
+ 		11 4
+	aposentadoria
+ 		59 9
+	arco iris
+ 		1 8
+	armas de fogo
+ 		8 9
+	as barbaridades papais
+ 		2 10
+	as popozuda
+ 		3 7
+	assedio sexual
+ 		10 9
+	assessoria contabil
+ 		11 8
+	aula da saudade
+ 		3 9
+	aulas de ingles
+ 		2 10
+	auto-regulacao
+ 		35 6
+	auto-regulagem
+ 		2 9
+	autoestima
+ 		1 8
+	automacao industrial
+ 		1 9
+	autopecas para caminhoes
+ 		4 10
+	auxilio doenca
+ 		5 7
+	avaliacoes de matematica para 4a serie do ensino fundamental
+ 		4 9
+	avril lavigne traducoes
+ 		2 10
+	bacterias coliformes
+ 		2 8
+	band tv
+ 		2 9
+	bandoleros
+ 		69 10
+	batatinha
+ 		18 5
+	bebadas 
+ 		1 9
+	belo horizonte- educacao e lazer
+ 		1 8
+	beyblade
+ 		3 9
+	bicho da seda
+ 		5 10
+	bicho de seda
+ 		3 7
+	bim
+ 		18 9
+	biografia de jorge amado
+ 		2 8
+	biopsicologia
+ 		4 9
+	blaster sound
+ 		1 10
+	blog enfeites
+ 		3 6
+	boi de mamao cavalinho
+ 		3 9
+	boletim informativo do municipio
+ 		1 8
+	booklink
+ 		15 9
+	brasao
+ 		86 10
+	brasil regiao sul
+ 		1 7
+	brincadeiras infantis
+ 		1 9
+	brincando que a crianca mergulha
+ 		5 10
+	brutal
+ 		1 8
+	buco-maxilo
+ 		31 9
+	bunda
+ 		14 10
+	bunda meninas  fotos
+ 		1 3
+	bundas
+ 		1 9
+	bundonas
+ 		9 8
+	buy denim stocklots
+ 		2 9
+	cabelereiros
+ 		30 10
+	cabelereiros em sao paulo
+ 		5 7
+	cachaca
+ 		29 9
+	camboim
+ 		50 8
+	campo verde mt
+ 		5 9
+	campo verde mt arquitetura
+ 		1 10
+	canada guia
+ 		1 6
+	candido portinari
+ 		3 9
+	candomble rezas
+ 		1 8
+	capuccino
+ 		46 9
+	carro vendas
+ 		1 10
+	cartoes
+ 		100 7
+	cartoes virtuais delicados
+ 		4 9
+	casais swingers
+ 		1 10
+	caseiras fotos
+ 		6 8
+	caseiras s
+ 		4 9
+	cavitacao
+ 		79 10
+	cd double dragon
+ 		1 5
+	celular
+ 		39 9
+	celular oi
+ 		3 8
+	cemig
+ 		8 9
+	chakraterapia
+ 		2 10
+	chapada dos veadeiros
+ 		1 7
+	chernobyl
+ 		9 9
+	cicarelli daniela 
+ 		7 8
+	cicarelli daniela fotos
+ 		2 9
+	cidades
+ 		9 10
+	cifras
+ 		1 6
+	cifras oficina g3
+ 		3 9
+	cinderela
+ 		3 8
+	cinderela disney
+ 		10 9
+	cipa
+ 		5 10
+	cipa dicas de ergonomia
+ 		3 7
+	cisneiros minas gerais
+ 		4 9
+	classificacao cordados
+ 		7 10
+	classificados de imoveis
+ 		1 8
+	clerot
+ 		88 9
+	colegio sao miguel arcanjo
+ 		1 10
+	coleta seletiva
+ 		1 4
+	coliformes fecais
+ 		3 9
+	com animal
+ 		1 8
+	comida chineza
+ 		1 9
+	como desenvolver sites
+ 		1 10
+	como e formada a bomba atomica?
+ 		1 7
+	como fazer um robo?
+ 		5 9
+	como funciona a guitarra
+ 		1 8
+	como instalar uma rede
+ 		3 9
+	comprador sucata aluminio
+ 		1 10
+	comprador sucata cobre
+ 		1 6
+	compras
+ 		256 9
+	comprovante de experiencia modelo
+ 		1 8
+	compusea
+ 		4 9
+	comunicacao empresarial
+ 		2 10
+	conceito de merchandising
+ 		3 7
+	conceito de ministerio publico
+ 		3 9
+	confederacao brasileira de futebol
+ 		1 10
+	configurando internet explorer no win xp
+ 		2 8
+	conflitos israelenses palestinos
+ 		3 9
+	conhecimentos gerais
+ 		1 10
+	consequencias dos furacoes
+ 		1 5
+	consequencias dos maremotos
+ 		1 9
+	conservacao do meio ambiente
+ 		4 8
+	conservadora
+ 		3 9
+	contos 
+ 		4 10
+	contos de 
+ 		1 7
+	contos de incesto
+ 		4 9
+	contos eroticos
+ 		2 8
+	contos eroticos de zoofilia
+ 		1 9
+	contrato temporario do departamento nacional de infra-estrutura de transportes
+ 		1 10
+	controle de impressao 
+ 		3 6
+	coopanest
+ 		63 9
+	cor da pedra da lua
+ 		1 8
+	coroas
+ 		6 9
+	cortes de cabelos 
+ 		1 10
+	credit score
+ 		2 7
+	creep feeding
+ 		1 9
+	cremerj
+ 		3 10
+	cristianismo
+ 		61 8
+	crm
+ 		1 9
+	cronicas sobre a crise energetica
+ 		1 10
+	cronologia anos 70
+ 		1 2
+	daniela cicarelli
+ 		21 9
+	danielle winits
+ 		1 8
+	danielle winits 
+ 		4 9
+	danielle winits na 
+ 		2 10
+	data sheet
+ 		1 7
+	decada de 70
+ 		4 9
+	dedicatoria
+ 		9 8
+	defensas
+ 		17 9
+	definicao lei 4320 de 1964
+ 		1 10
+	defumador
+ 		49 6
+	defumados
+ 		6 9
+	degradacao do solo
+ 		4 8
+	deitei com meu irmao
+ 		1 9
+	demodulacao fm laboratorio
+ 		2 10
+	desenhos
+ 		2 7
+	desenhos de pandeiro
+ 		2 9
+	detran
+ 		20 8
+	detran mg
+ 		1 9
+	detran-rj
+ 		31 10
+	detran.rj
+ 		31 5
+	detranrj
+ 		18 9
+	devastacao araucaria
+ 		3 8
+	dia do livro
+ 		1 9
+	diabetes
+ 		24 10
+	dicas playstation
+ 		3 7
+	dido
+ 		3 9
+	dielle
+ 		22 8
+	direito a vida
+ 		5 9
+	direito a vida e ao proprio corpo
+ 		5 10
+	direito das sucessoes
+ 		5 6
+	direitos humanos antropologia
+ 		3 9
+	discrimanacao
+ 		1 8
+	distintivo futebol clube internacional
+ 		1 9
+	ditos populares
+ 		2 10
+	do latim cogeae constranger obrigar dai
+ 		1 7
+	do latim cogerh constranger obrigar dai
+ 		1 9
+	doacao de sangue
+ 		1 10
+	doencas
+ 		27 8
+	doencas causadas pela agua
+ 		1 9
+	domestico
+ 		10 10
+	download de jogos
+ 		1 4
+	download do linux
+ 		1 9
+	download gold pokemon
+ 		6 8
+	download gratis jogos
+ 		3 9
+	download program american voice
+ 		2 10
+	ecologia do conhecimento
+ 		1 7
+	economia da groelandia
+ 		2 9
+	economia industrial da groelandia
+ 		1 8
+	edicao do correio braziliense do dia doze de outubro de 2003
+ 		6 9
+	edital do mestrado em ciencia da arte uff 2003
+ 		1 10
+	editora grafia obra ror de age de carvalho
+ 		1 6
+	editora le
+ 		1 9
+	editoras
+ 		16 8
+	edmundo barbosa
+ 		1 9
+	educacao
+ 		11 10
+	educacao e lazer em belo horizonte de 1930 a 2003
+ 		1 7
+	educacao secretaria
+ 		1 9
+	eletronica virtual
+ 		7 10
+	eletropaulo
+ 		30 8
+	elienai alves de santana
+ 		1 9
+	elifoot
+ 		53 10
+	embargos do devedor
+ 		7 5
+	empregada gostosa
+ 		1 9
+	emulador pascal
+ 		2 8
+	encontro nacional hansenologia
+ 		1 9
+	endomarketing
+ 		98 10
+	energia petroquimica
+ 		1 7
+	engenharia de alimentos
+ 		2 9
+	english classes
+ 		1 8
+	enh908
+ 		6 9
+	eolo maia 
+ 		1 10
+	equipamentos para borracharia
+ 		1 6
+	escalonamento de disco  
+ 		4 9
+	escalonamento fcs
+ 		1 8
+	escolas de comunicacao
+ 		6 9
+	escravidao indigena
+ 		1 10
+	escritorio contabil
+ 		8 7
+	escritorio de contabilidade
+ 		4 9
+	esofagite
+ 		17 10
+	esparta
+ 		3 8
+	espiridiao amin
+ 		5 9
+	esportes
+ 		394 10
+	esportes radicais
+ 		1 3
+	estacao movimento
+ 		2 9
+	estagio salvador
+ 		4 8
+	estagio ssa
+ 		3 9
+	estagios ( segundo grau)
+ 		2 10
+	estatisticas sobre crianca
+ 		11 7
+	estoria de cinderela
+ 		2 9
+	estrutura de disco
+ 		2 8
+	estruturalismo
+ 		10 9
+	explorer internet
+ 		7 10
+	fabrica jeans
+ 		1 6
+	fabricante de moinho de rolos
+ 		3 9
+	fabricantes de sabao em po
+ 		1 8
+	falecimentos
+ 		30 9
+	famosas  do mes
+ 		2 10
+	famosas s
+ 		1 7
+	famosos nus
+ 		3 9
+	fase do ser humano
+ 		1 10
+	fateb
+ 		104 8
+	fatos historicos anos 70
+ 		1 9
+	febre amarela a
+ 		1 10
+	fernanda
+ 		657 5
+	fernando collor
+ 		1 9
+	fertilizantes
+ 		4 8
+	fetiche
+ 		5 9
+	fibrose pulmonar cistica
+ 		1 10
+	fifa
+ 		21 7
+	fifa 2002
+ 		3 9
+	filha,filho,mae,pai,irmao e irma amantes
+ 		4 8
+	flagras
+ 		14 9
+	flamengo
+ 		139 10
+	fonte de tensao
+ 		2 6
+	formato marc
+ 		3 9
+	fotlog
+ 		3 8
+	fotolog gabi
+ 		2 9
+	fotos 
+ 		15 10
+	fotos amadoras
+ 		5 7
+	fotos babi 
+ 		8 9
+	fotos caseiras
+ 		2 10
+	fotos crimes
+ 		3 8
+	fotos da regiao sudeste
+ 		4 9
+	fotos da revolucao de 1905
+ 		1 10
+	fotos da revolucao russa
+ 		7 4
+	fotos de 
+ 		2 9
+	fotos de bebadas
+ 		1 8
+	fotos de coroas
+ 		3 9
+	fotos de coroas s
+ 		1 10
+	fotos de planetas
+ 		2 7
+	fotos do filme velozes e furiosos
+ 		1 9
+	fotos gratis 
+ 		4 8
+	fotos kelly key
+ 		24 9
+	fotos kelly key 
+ 		55 10
+	fotos minas gerais
+ 		8 6
+	fotos mulheres s
+ 		1 9
+	fotos poluicao rio tiete
+ 		3 8
+	freddy 
+ 		1 9
+	frutas,verduras,legumes e cereais do vale do paraiba
+ 		1 10
+	fujioka fotos
+ 		2 7
+	gabarito
+ 		24 9
+	galeria de pintura em minas
+ 		1 10
+	games jogos
+ 		4 8
+	garota zona sul
+ 		1 9
+	gays e fotos gratis
+ 		1 10
+	geek play 5.1
+ 		2 5
+	geologia da pedra da lua
+ 		3 9
+	geosol
+ 		8 8
+	gestao de configuracao de software
+ 		1 9
+	gianni
+ 		124 10
+	gianni agnelli
+ 		4 7
+	gifs
+ 		4 9
+	glicogenio
+ 		4 8
+	glossario medico
+ 		1 9
+	goiania
+ 		79 10
+	governo
+ 		216 6
+	grafologia
+ 		1 9
+	gratis
+ 		6 8
+	gratis  video
+ 		2 9
+	gratis  videos
+ 		2 10
+	gratis musica
+ 		2 7
+	gratis videos
+ 		1 9
+	greek play
+ 		3 10
+	greve cef
+ 		2 8
+	groelandia
+ 		80 9
+	gruta rei do mato
+ 		2 10
+	gta vice city
+ 		1 1
+	guriri
+ 		30 9
+	habeas corpus
+ 		2 8
+	habitacao minas gerais
+ 		1 9
+	halloween
+ 		28 10
+	hentai divx download
+ 		1 7
+	hidroterapia
+ 		178 9
+	higiene na escola
+ 		1 8
+	hillbilly
+ 		4 9
+	hipertensao
+ 		4 10
+	historia esportes idade media
+ 		1 6
+	historia olimpiadas
+ 		4 9
+	homem que vive em parada de onibus em sobradinho
+ 		1 8
+	homens pelados
+ 		2 9
+	hotel fazenda ipe amarelo
+ 		1 10
+	humberto maturana
+ 		2 7
+	ian holm
+ 		5 9
+	idade media esportes
+ 		1 8
+	idade ossea para mao e punho
+ 		1 9
+	iepha
+ 		12 10
+	imagens cinderela disney
+ 		5 5
+	imagens da argentina
+ 		1 9
+	imagens no celular
+ 		7 8
+	immersion factory
+ 		1 9
+	impressionismo
+ 		29 10
+	incesto
+ 		97 7
+	indicador acido-base
+ 		1 9
+	industria e comercio
+ 		6 8
+	informatica
+ 		80 9
+	informatica lojas
+ 		2 10
+	inmet
+ 		3 6
+	inss
+ 		10 9
+	internet
+ 		238 8
+	invasoes rurais manaus
+ 		1 9
+	italian internet
+ 		1 10
+	itapetininga
+ 		19 7
+	javascript
+ 		29 9
+	jogos
+ 		202 10
+	jogos completos
+ 		1 8
+	jogos completos baralho
+ 		1 9
+	jornal
+ 		38 10
+	jose lins do rego
+ 		4 4
+	jose maria de melo
+ 		14 9
+	jose mauro de vasconcelos
+ 		9 8
+	joven pan fm
+ 		1 9
+	joven pan radio
+ 		1 10
+	jurandir fernandes
+ 		1 7
+	kaerre
+ 		17 9
+	kazaa em portugues
+ 		2 8
+	kelly key 
+ 		3 9
+	lazer
+ 		539 10
+	lei de ohm e resistividade
+ 		5 6
+	lei de responsabilidade fiscal
+ 		3 9
+	leis de kepler
+ 		7 8
+	lesbicas
+ 		2 9
+	lesoes por armas de fogo
+ 		3 10
+	licor
+ 		83 7
+	limites na educacao
+ 		2 9
+	livros juridicos
+ 		8 10
+	logaritmo
+ 		1 8
+	lojas de cameras fotograficas 
+ 		1 9
+	lojas polaroid
+ 		2 10
+	love hina hentai
+ 		1 5
+	luciana braga
+ 		1 9
+	lucila jose de alencar
+ 		1 8
+	luciola   jose de alencar
+ 		1 9
+	luiz miguel
+ 		2 10
+	maduras
+ 		13 7
+	maduras mulheres
+ 		1 9
+	mae te amo
+ 		1 8
+	mame fliperama
+ 		2 9
+	manda chuva 
+ 		3 10
+	mapa da 2 guerra mundial
+ 		1 6
+	mapa da cidade de sao paulo
+ 		1 9
+	mapa tordesilhas tratado
+ 		1 8
+	marcelo fidalgo gapa df
+ 		1 9
+	maremoto
+ 		2 10
+	marinha rs
+ 		5 7
+	matrix
+ 		3 9
+	medicina legal morte 
+ 		1 10
+	medidas de quadra de futebol
+ 		2 8
+	meireles
+ 		16 9
+	melgama cartoes
+ 		2 10
+	memoria institucional
+ 		1 3
+	mensagens de aniversario
+ 		17 9
+	mensagens especiais
+ 		5 8
+	mensagens virtuais
+ 		6 9
+	mestrado em direito
+ 		2 10
+	mestrados em direito no estado do rio de janeiro
+ 		1 7
+	metabolismo do glicogenio
+ 		3 9
+	metas inflacionarias e a crise energetica
+ 		2 8
+	meu pai e meu amante
+ 		3 9
+	michael smith
+ 		1 10
+	midis  de  sertanejos
+ 		3 6
+	miguel jose alves de oliveira junior recife pernambuco
+ 		5 9
+	mijando
+ 		9 8
+	minas block concret
+ 		7 9
+	minas gerais
+ 		6 10
+	minerais sais sao
+ 		1 7
+	mineral pedra da lua
+ 		3 9
+	mineralogia
+ 		8 10
+	ministerio das cidades
+ 		2 8
+	ministerio dos transportes
+ 		1 9
+	ministerio publico
+ 		5 10
+	minuta para eleicao de diretor
+ 		1 5
+	mitologia greco romana
+ 		1 9
+	mitologia phenix
+ 		1 8
+	montar uma borracharia
+ 		1 9
+	moranguinho festa infantil
+ 		1 10
+	movimento sem terra
+ 		1 7
+	mpeg1 video
+ 		1 9
+	mulher 
+ 		2 8
+	mulheres ucranianas da ucrania
+ 		1 9
+	multiplexacao
+ 		16 10
+	municipio de alhandra
+ 		7 6
+	muriae
+ 		2 9
+	museus da espanha
+ 		1 8
+	musica gratis
+ 		3 9
+	na regiao do vale do paraiba, taubate,tremembe e sao jose dos campos
+ 		1 10
+	nacionalidade 
+ 		15 7
+	nave espacial
+ 		1 9
+	nave espacial foto
+ 		1 10
+	negra gostosinha
+ 		2 8
+	ninfetas
+ 		9 9
+	ninfetinhas
+ 		4 10
+	nonno
+ 		256 4
+	novidades em saloes de beleza
+ 		1 9
+	nr-10
+ 		20 8
+	null
+ 		84 9
+	o holocausto foi um periodo obsceno na historia da
+ 		2 10
+	o pecado  dos papas
+ 		3 7
+	o processo de comunicacao
+ 		8 9
+	o que e automacao comercial
+ 		2 8
+	o que e automacao comercial?
+ 		12 9
+	o que e educacao fisica
+ 		1 10
+	o que e esquizofrenia
+ 		1 6
+	o que e fonoaudiologia?
+ 		2 9
+	o que e globalizacao
+ 		6 8
+	o que e tecido conjuntivo
+ 		1 9
+	o que o brincar oferece
+ 		2 10
+	office no linux
+ 		1 7
+	oi
+ 		21 9
+	omestre
+ 		41 10
+	onu
+ 		35 8
+	organizacao estado nacional moderno
+ 		7 9
+	origem mitologia de roma
+ 		1 10
+	orixas
+ 		13 5
+	orixas cantigas
+ 		7 9
+	outros ares
+ 		1 8
+	papel parede bossa nova
+ 		2 9
+	papiloma virus humano tratamento
+ 		2 10
+	parada cardiaca
+ 		1 7
+	partido progressista
+ 		1 9
+	paul sorvino
+ 		1 8
+	paulo ramos
+ 		10 9
+	pca
+ 		2 10
+	pdf dexe no banco de dados sql campo binario
+ 		1 6
+	pdf exe no banco de dados sql campo binario
+ 		1 9
+	pdf mexe no banco de dados sql campo binario
+ 		1 8
+	pearl harbor guerra
+ 		2 9
+	pedacinho do ceu
+ 		2 10
+	pedagogia reichiana
+ 		2 7
+	pedra da lua
+ 		6 9
+	pedro elias
+ 		2 10
+	peito
+ 		21 8
+	peixes
+ 		10 9
+	pensamentos
+ 		15 10
+	pesquisa qualitativa e quantitativa
+ 		1 2
+	pesquisa qualitativa e quantitativa textos
+ 		1 9
+	peticao de revisao de iptu
+ 		6 8
+	photoshop 7.0
+ 		2 9
+	pintura a oleo bh
+ 		3 10
+	pitagoras
+ 		8 7
+	placa tectonica sul americana
+ 		1 9
+	plano estrategico
+ 		7 8
+	poemas amor
+ 		1 9
+	poemas amor 
+ 		1 10
+	poesia de crianca
+ 		1 6
+	poesias
+ 		17 9
+	pokemon gold
+ 		1 8
+	pontos turisticos de buenos aires
+ 		5 9
+	popozuda
+ 		32 10
+	portaria 1469
+ 		1 7
+	portaria 36
+ 		2 9
+	pousada carimbe
+ 		1 8
+	pousada caroebe
+ 		1 9
+	pousada rural recanto das cachoeiras
+ 		5 10
+	praca coronel pedro osorio
+ 		1 5
+	pre-projeto
+ 		9 9
+	pre-projeto para mestrado
+ 		1 8
+	pre-projeto todobr
+ 		1 9
+	preciso de ti
+ 		1 10
+	precos das lampadas fluorescentes
+ 		1 7
+	precos das lampadas fluorescentes compactas
+ 		1 9
+	preservacao e conservacao ambiental
+ 		2 8
+	primeira universidade brasileira
+ 		1 9
+	producao de leucocitos
+ 		1 10
+	professor letras unb luziania
+ 		1 6
+	programa de conservacao auditiva
+ 		10 9
+	pronunciamento de aecio neves sobre convocacao de 45000 professores estaduais
+ 		1 8
+	psicopedagogia reichiana
+ 		3 9
+	puc minas gerais
+ 		1 10
+	pulseiras de neon
+ 		1 7
+	pulseiras de neon 
+ 		5 9
+	pulseiras de neon em belo horizonte
+ 		1 10
+	pure hemp
+ 		5 8
+	qos
+ 		58 9
+	quadra de futebol
+ 		1 10
+	quadrinhos erotico
+ 		2 4
+	quando aparecem as manchas na gravidez
+ 		1 9
+	quintiere
+ 		3 8
+	quintieri
+ 		5 9
+	racismo
+ 		84 10
+	radio jovem pam fm
+ 		3 7
+	rebeca
+ 		21 9
+	rebeldia e punk
+ 		8 8
+	rebeldia e rock
+ 		8 9
+	recadinhos virtuais
+ 		1 10
+	reclame@uai.com.br
+ 		46 6
+	redes de dormir
+ 		5 9
+	reengenharia
+ 		199 8
+	reengenharia positivos e negativos
+ 		5 9
+	reino monera 
+ 		3 10
+	reino monera e saude
+ 		3 7
+	renascimento
+ 		3 9
+	reportagem especial
+ 		7 10
+	reportagem sobre clima tropical de altitude
+ 		2 8
+	responsabilidade pelo fato do produto
+ 		2 9
+	roberto carlos e erasmos carlos
+ 		1 10
+	roberto carlos erasmo carlos fotos
+ 		1 5
+	roberto carloserasmo carlos
+ 		1 9
+	robotica
+ 		1 8
+	s
+ 		159 9
+	saaaaaaa�aaaaaa�aaaaaa�de
+ 		10 10
+	saaaaaa¯aaaaa¿aaaaa½de
+ 		4 7
+	sabemi seguros
+ 		1 9
+	sabrina sato 
+ 		2 8
+	santa catarina
+ 		4 9
+	santa rita do sapucai
+ 		3 10
+	sca
+ 		2 6
+	script para mirc
+ 		5 9
+	seguranca trabalho
+ 		4 8
+	semana da asa 2003
+ 		2 9
+	semana da asa 2003 mg
+ 		2 10
+	seriado anos incriveis
+ 		1 7
+	serra do ouro branco
+ 		1 9
+	sheila carvalho
+ 		1 10
+	silvia saint
+ 		2 8
+	simpatias
+ 		8 9
+	sistemas de gestao 
+ 		1 10
+	site de empresas de energia eletrica 
+ 		3 3
+	site de lesbica gratuito
+ 		1 9
+	sites dos rocks de vitoria
+ 		3 8
+	situacao economica  da groelandia
+ 		1 9
+	slipknot
+ 		4 10
+	so voyeur
+ 		1 7
+	sociedade
+ 		74 9
+	soft de ortodontia
+ 		2 8
+	software gado corte
+ 		1 9
+	software gado corte gratuito
+ 		3 10
+	spa lagoa grande
+ 		1 6
+	srf
+ 		25 9
+	starcraft brood war
+ 		2 8
+	subjetividade do juiz
+ 		3 9
+	sucessao
+ 		7 10
+	suor excesso
+ 		1 7
+	superdownload
+ 		4 9
+	swinger
+ 		112 10
+	swingers
+ 		112 8
+	tank you
+ 		3 9
+	tantalite
+ 		19 10
+	tantalo
+ 		25 5
+	telemig celular
+ 		1 9
+	tempra turbo preto
+ 		1 8
+	terraplenagem/desaterro
+ 		33 9
+	teste golf
+ 		2 10
+	teste golf 2.0 motor
+ 		8 7
+	tipos de fertilizantes
+ 		5 9
+	tiragem do jornal estado de minas
+ 		1 8
+	trabalho e formacao profissiona do dia 12 de outubro
+ 		1 9
+	trabalhos prontos
+ 		2 10
+	trajetorias profissionais
+ 		10 6
+	transei com meu ou minha
+ 		17 9
+	transito no espirito santo
+ 		4 8
+	tratado de tordesilhas
+ 		1 9
+	tratamento de esgoto e agua por radiacao
+ 		2 10
+	travecos
+ 		20 7
+	trepada
+ 		24 9
+	trepar
+ 		13 10
+	tunnel   ssl  java
+ 		6 8
+	tunnel  ssl
+ 		9 9
+	turismo
+ 		1269 10
+	turma do moranguinho
+ 		8 4
+	uberaba
+ 		25 9
+	ubo
+ 		5 8
+	ubu
+ 		19 9
+	upload com jsp
+ 		3 10
+	usina jaciara 
+ 		2 7
+	usina nova america
+ 		1 9
+	vagas de empregos na area de informatica
+ 		2 8
+	venda de cameras polaroid
+ 		2 9
+	vestibular
+ 		13 10
+	viagem
+ 		12 6
+	viagem power point
+ 		3 9
+	victor drummond
+ 		1 8
+	video 
+ 		1 9
+	videos  gratis
+ 		5 10
+	videos de carros
+ 		2 7
+	videos de lesbicas
+ 		1 9
+	videos gays
+ 		1 10
+	vieira
+ 		38 8
+	vinicios de moraes
+ 		1 9
+	violao
+ 		1 10
+	viviane dielle
+ 		1 5
+	voyeur
+ 		8 9
+	vulcoes
+ 		8 8
+	why - annie lennox
+ 		1 9
+	win xp 6.0 explorer internet config
+ 		1 10
+	word avancado livro
+ 		2 7
+	www.bol.com.br
+ 		28 9
+	www.bscolway.com.br
+ 		43 8
+	www.detran.rj.gov.br
+ 		21 9
+	www.estupros.com.br
+ 		1 10
+	www.globo.com.br
+ 		23 6
+	www.motostore.com.br
+ 		26 9
+	www.oi.com.br
+ 		47 8
+	www.saude.df.org.br
+ 		4 9
+	www.uol.com.br
+ 		23 10
+	wwwglobo.com.br
+ 		3 7
+	xml schema
+ 		7 9
+	xoxota
+ 		6 10
+	xuxa
+ 		12 8
+	zona de protecao especial
+ 		17 9
+	zoofilia
+ 		130 10
